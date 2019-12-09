@@ -6,10 +6,10 @@ url: "http://seasonedchaos.github.io" # the base hostname & protocol for your si
 site-twitter: "seasonedchaos"
 
 # Author Settings
-author: Kelsey Malloy # add your name
-about-author: Univ Miami Graduate Research Assistant
-social-twitter: "kelseyl4tely"
-social-email: kelsey.malloy@rsmas.miami.edu # add your Email address
+author: Seasoned Chaos # add your name
+about-author: Subseasonal to seasonal forecasting blog for scientists & non-scientists alike
+social-twitter: "seasonedchaos"
+social-email: seasonedchaos@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: seasoned-chaos # add your discus identifier
