@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A personality test for our climate system
+description: Each of us has that one aspect of our personality that people who know us consider typical or predictable.
 excerpt: Each of us has that one aspect of our personality that people who know us consider typical or predictable.
 tags: [subseasonal, seasonal, weather, forecasting, climate]
 comments: true
@@ -9,7 +10,7 @@ date: 2019-12-08
 img: s2s_intro_curves.png
 author: Kelsey Malloy
 ---
-<p style="text-align: center;">Written by: Kelsey Malloy</p>
+<p style="text-align: center;"><i>Written by: Kelsey Malloy</i></p>
 <br>
 <h1>The basis to forecasting “in-between”</h1>
 <br>
