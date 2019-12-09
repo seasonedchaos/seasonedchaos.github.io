@@ -8,7 +8,7 @@ comments: true
 category: blog
 date: 2019-12-08
 img: s2s_intro_curves.png
-author: Kelsey Malloy
+author: kelsey_malloy
 ---
 
 Each of us has that one aspect of our personality that people who know us consider typical or predictable. It could be that you snooze your alarm at least twice every morning, or bite your fingernails when you’re nervous, or snort when you laugh too hard. The people you know can count on it happening most of the time. Well, the climate system has its own personality, and as scientists that study it, we are ultimately trying to find its predictable traits and routines.
@@ -32,5 +32,3 @@ Let’s say we are trying to predict the rainfall in the southeastern US a month
 ![Schematic of ocean "memory"]({{ site.url }}/assets/img/s2s_intro_teleconnection_simple.gif)
 <br>
 Dr. Kirtman’s graduate students and post-docs work on unique, challenging, and valuable forecasting problems, from decadal prediction, to subseasonal prediction of tropical cyclone activity, to the predictability of heat waves, and much more. Over this series of posts, the Seasoned Chaos team is going to discuss the pretty cool topics of this “in-between” forecasting. Keep up with when we post by following us on Twitter [@seasonedchaos](https://twitter.com/seasonedchaos). We’ll try to be predictable about when we post – once every two months or so – but no promises in this chaotic world. :wink:
-<br>
-<div style="text-align: right"><i> Written by: Kelsey Malloy</i></div>
