@@ -2,7 +2,6 @@ title: Seasoned Chaos
 description: > # this means to ignore newlines until "baseurl:"
   Subseasonal to seasonal forecasting blog for scientists & non-scientists alike
 permalink: ':title/'
-#baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "http://seasonedchaos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: "seasonedchaos"
 
