@@ -18,7 +18,7 @@ First, weather and climate are not the same thing. Weather describes short-term 
 <br><br>
 You may also have seen pictures of forecasts that go out decades, even centuries, into the future, usually about how scientists have made reasonings and projections about climate change. Climate scientists understand the system’s “boundaries”, a term that describes the needs and constraints of the physics. Even the most chaotic people have their boundaries, just like the climate system. The atmosphere and ocean work together to settle (think about how we know that a pendulum swings until gravity and air resistance stabilize it).
 <br><br>
-If forecasting weather requires a near-perfect depiction of the chaos, and forecasting climate needs the near-perfect understanding of the balances, forecasting anything in-between those timescales needs both. That’s very difficult. The timescale issue can be summarized in the below figure. This problem often makes scientists go ¯\\_(ツ)_/¯. But not every scientist in the field thinks this is impossible. 
+If forecasting weather requires a near-perfect depiction of the chaos, and forecasting climate needs the near-perfect understanding of the balances, forecasting anything in-between those timescales needs both. That’s very difficult. The timescale issue can be summarized in the below figure. This problem often makes scientists go ¯\\&#95;(ツ)&#95;/¯. But not every scientist in the field thinks this is impossible. 
 <br>
 ![Forecast Skill Curves]({{ site.url }}/assets/img/s2s_intro_curves.png)
 <br>
