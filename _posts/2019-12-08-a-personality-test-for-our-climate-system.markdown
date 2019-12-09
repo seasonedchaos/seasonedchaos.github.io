@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Personality Test for our Climate System
-excerpt: The basis to forecasting “in-between”
+title: A personality test for our climate system: The basis to forecasting “in-between”
+excerpt: Each of us has that one aspect of our personality that people who know us consider typical or predictable.
 description: The basis to forecasting “in-between”
 tags: [subseasonal, seasonal, weather, forecasting, climate]
 comments: true
@@ -11,7 +11,6 @@ img: s2s_intro_curves.png
 author: Kelsey Malloy
 ---
 
-<h1>The Basis to Forecasting “In-between”</h1>
 <br><br>
 Each of us has that one aspect of our personality that people who know us consider typical or predictable. It could be that you snooze your alarm at least twice every morning, or bite your fingernails when you’re nervous, or snort when you laugh too hard. The people you know can count on it happening most of the time. Well, the climate system has its own personality, and as scientists that study it, we are ultimately trying to find its predictable traits and routines.
 <br><br>
