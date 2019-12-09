@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A personality test for our climate system: the basis for forecasting "in-between"
+title: A personality test for our climate system&#58; the basis for forecasting "in-between"
 description: Each of us has that one aspect of our personality that people who know us consider typical or predictable.
 excerpt: Each of us has that one aspect of our personality that people who know us consider typical or predictable.
 tags: [subseasonal, seasonal, weather, forecasting, climate]
