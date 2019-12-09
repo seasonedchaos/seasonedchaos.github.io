@@ -11,12 +11,6 @@ layout: main
           <figcaption>{{page.fig-caption}}</figcaption>
         {% endif %}
       </figure>
-      {% for post in site.posts %}
-      <li>
-        <a href="{% post.permalink %}">{% post.title %}</a>
-        <p>{{ post.excerpt }}</p>
-      </li>
-      {% endfor %}
     </div> <!-- End Page Cover Image -->
     {% else %}
     {% endif %}
