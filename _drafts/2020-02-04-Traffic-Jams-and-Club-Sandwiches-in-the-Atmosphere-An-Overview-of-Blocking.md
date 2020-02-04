@@ -19,7 +19,7 @@ Atmospheric blocks are patterns in [atmospheric pressure](https://mediaspace.msu
 The two most common blocking patterns that form are Dipole and Omega blocks. Dipole blocks are simple, with a high pressure system north and a low pressure system south. Omega blocks are slightly more complicated, with a large high-pressure system in the center and two lows on its southern flanks, resembling the Greek letter omega Ω. You can find these patterns in the mid-to-high latitudes, most commonly over the North Pacific/Alaska, Greenland, and Europe.
 <br><br>
 ![Blocking patterns]({{ site.url }}/assets/img/s2s_fig1_blocktype.png)
-<br><sub><i>The two most common types of blocking patterns Omega (left) and Dipole (left). Note how the main flow is altered by the clockwise high pressure systems and counterclockwise low pressure systems.</i></sub>
+<br><sub><i>The two most common types of blocking patterns Omega (left) and Dipole (right). Note how the main flow is altered by the clockwise high pressure systems and counterclockwise low pressure systems. Map source: matplotlib basemap.</i></sub>
 <br><br>
 The ‘blocking’ or traffic jam aspect comes from the fact that these patterns are mostly stationary. They detour the large-scale atmospheric flow from the normal east-to-west path; similar to how road blockages lead to traffic and alternate routes. 
 <br><br>
