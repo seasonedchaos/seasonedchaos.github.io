@@ -42,7 +42,7 @@ What specifically makes blocking difficult to forecast? Not only is it a subseas
 <br><br>
 The top piece of bread is where the jet stream is (wayyy up high, where jets fly) and the bottom slice is the Earth’s surface. Sandwiched between the top and bottom layers is a third slice where blocking happens -- the middle of the atmosphere.
 <br><br>
-Let’s talk fillings. Consider sandwich contents (turkey, cheese, bacon, lettuce, tomato… :drooling_face:) as an indirect means of communication between the slices of bread. Blocking uses these components to interact with the atmospheric layers (slices) above and below it. In fact, it depends on these interactions to develop and maintain its structure. Capturing chaotic or non-linear components of any system is extremely difficult, adding to the complexity of an atmospheric blocking forecast. 
+Let’s talk fillings. Consider sandwich contents (turkey, cheese, bacon, lettuce, tomato… :yum:) as an indirect means of communication between the slices of bread. Blocking uses these components to interact with the atmospheric layers (slices) above and below it. In fact, it depends on these interactions to develop and maintain its structure. Capturing chaotic or non-linear components of any system is extremely difficult, adding to the complexity of an atmospheric blocking forecast. 
 <br><br>
 ![Sandwich Block]({{ site.url }}/assets/img/blog2_fig2_sandwichblock.png)
 <br><sub><i>An atmosphere sandwich! Where layers of the atmosphere are slices of bread and the interactions between those layers are the sandwich contents. Blocking is best compared to a triple-decker turkey club due to it interacting with more than one layer. Note: Vegan options available upon request. </i></sub>
