@@ -21,7 +21,7 @@ The two most common blocking patterns that form are Dipole and Omega blocks. Dip
 ![Blocking patterns]({{ site.url }}/assets/img/blog2_fig1_blocktype.png)
 <br><sub><i>The two most common types of blocking patterns Omega (left) and Dipole (right). Note how the main flow is altered by the clockwise high pressure systems and counterclockwise low pressure systems. Map source: matplotlib basemap--yes some of us still use basemap.</i></sub>
 <br><br>
-The ‘blocking’ or traffic jam aspect comes from the fact that these patterns are mostly stationary. They detour the large-scale atmospheric flow from the normal east-to-west path; similar to how road blockages lead to traffic and alternate routes. 
+The ‘blocking’ or traffic jam aspect comes from the fact that these patterns are mostly stationary. They detour the large-scale atmospheric flow from the normal west-to-east path, similar to how road blockages lead to traffic and alternate routes. 
 <br><br>
 Atmospheric blocks aren’t small bumps in the road, either! They can take up an area nearly 3-5 times the size of the state of Texas (WOW!!). Therefore, they are large and strong enough to cause the jet stream, the main upper-level west-to-east wind belt, to meander far north and south around the block. 
 <br><br>
