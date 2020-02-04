@@ -14,7 +14,7 @@ author: kayla_besong
 ‘Will this stubborn weather ever budge?!’ is a phrase you might have grumpily blurted while scraping ice off of your car for the third consecutive freezing morning. Or, perhaps you utter the phrase staring at your struggling lawn after a week of no rain. What is causing these temperature and precipitation extremes? Well, a traffic jam in the atmosphere—a phenomenon known as atmospheric blocking—could be the culprit. 
 <br>
 <h2>What <i>exactly</i> is atmospheric blocking?</h2>
-Atmospheric blocks are patterns in ![atmospheric pressure](https://mediaspace.msu.edu/media/High+and+Low+Pressure+SystemsA+Characteristics+%26+Pairing/0_h5k0jz03) that obstruct atmospheric flow for an average of 5-30 days, aka a subseasonal weather event. 
+Atmospheric blocks are patterns in [atmospheric pressure](https://mediaspace.msu.edu/media/High+and+Low+Pressure+SystemsA+Characteristics+%26+Pairing/0_h5k0jz03) that obstruct atmospheric flow for an average of 5-30 days, aka a subseasonal weather event. 
 <br><br>
 The two most common blocking patterns that form are Dipole and Omega blocks. Dipole blocks are simple, with a high pressure system north and a low pressure system south. Omega blocks are slightly more complicated, with a large high-pressure system in the center and two lows on its southern flanks, resembling the Greek letter omega Ω. You can find these patterns in the mid-to-high latitudes, most commonly over the North Pacific/Alaska, Greenland, and Europe.
 <br><br>
