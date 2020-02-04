@@ -18,7 +18,7 @@ Atmospheric blocks are patterns in [atmospheric pressure](https://mediaspace.msu
 <br><br>
 The two most common blocking patterns that form are Dipole and Omega blocks. Dipole blocks are simple, with a high pressure system north and a low pressure system south. Omega blocks are slightly more complicated, with a large high-pressure system in the center and two lows on its southern flanks, resembling the Greek letter omega Ω. You can find these patterns in the mid-to-high latitudes, most commonly over the North Pacific/Alaska, Greenland, and Europe.
 <br><br>
-![Blocking patterns]({{ site.url }}/assets/img/s2s_fig1_blocktype.png)
+![Blocking patterns]({{ site.url }}/assets/img/blog2_fig1_blocktype.png)
 <br><sub><i>The two most common types of blocking patterns Omega (left) and Dipole (right). Note how the main flow is altered by the clockwise high pressure systems and counterclockwise low pressure systems. Map source: matplotlib basemap--yes some of us still use basemap.</i></sub>
 <br><br>
 The ‘blocking’ or traffic jam aspect comes from the fact that these patterns are mostly stationary. They detour the large-scale atmospheric flow from the normal east-to-west path; similar to how road blockages lead to traffic and alternate routes. 
@@ -44,12 +44,12 @@ The top piece of bread is where the jet stream is (wayyy up high, where jets fly
 <br><br>
 Let’s talk fillings. Consider sandwich contents (turkey, cheese, bacon, lettuce, tomato… :drooling_face:) as an indirect means of communication between the slices of bread. Blocking uses these components to interact with the atmospheric layers (slices) above and below it. In fact, it depends on these interactions to develop and maintain its structure. Capturing chaotic or non-linear components of any system is extremely difficult, adding to the complexity of an atmospheric blocking forecast. 
 <br><br>
-![Sandwich Block]({{ site.url }}/assets/img/s2s_fig2_sandwichblock.png)
+![Sandwich Block]({{ site.url }}/assets/img/blog2_fig2_sandwichblock.png)
 <br><sub><i>An atmosphere sandwich! Where layers of the atmosphere are slices of bread and the interactions between those layers are the sandwich contents. Blocking is best compared to a triple-decker turkey club due to it interacting with more than one layer. Note: Vegan options available upon request. </i></sub>
 <br><br>
 At times, we are unable to even predict the base state for blocking to occur. In reality, the atmosphere is working with what is has in stock, and often deviates from an anticipated recipe that forecast models are wired to follow, leading to a forecast bust. Sometimes we predict the slices to be sourdough (wavy jet stream) and it ends up being whole wheat (straight jet stream). Disappointing, I know.
 <br><br>
-![Blocking Recipe]({{ site.url }}/assets/img/s2s_fig3_recipe.png)
+![Blocking Recipe]({{ site.url }}/assets/img/blog2_fig3_recipe.png)
 <br><sub><i>Models are programmed to replicate or guess what the atmosphere will be like based on the average 'ingredients' (right), whereas the actual atmosphere does not always follow the same recipe (left).</i></sub>
 <br><br>
 Luckily, many great minds are chipping away at this block in our forecasting abilities, so that you can better anticipate when there might be traffic or prolonged extremes. We want you to be as prepared as possible—like making-a-triple-decker-club-sandwich-for-afternoon-traffic-the-day-before level of prepared. 
