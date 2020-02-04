@@ -35,7 +35,6 @@ When blocks force the jet stream north and south instead of west to east, it giv
 But wait, there is a catch. It is important to note that just because it’s extremely cold, hot, rainy, or dry does not mean an atmospheric block is to blame. Other patterns and phenomenon also lead to extreme weather. The key to what makes blocking special is how <b>relentless and persistent</b> it is at causing these extremes to occur at large scales.
 <br>
 <h2>Are we good at forecasting them?</h2>
-<br>
 Not quite. As explained in our [previous post](https://seasonedchaos.github.io/a-personality-test-for-our-climate-system-the-basis-for-forecasting-in-between/), subseasonal forecasting is the ‘pit of despair’ of prediction. Because blocking persists anywhere from 5-30 days, with extreme cases lasting up to 60 days, these atmospheric traffic jams lie between weather and climate, making it difficult to forecast.
 <br><br>
 What specifically makes blocking difficult to forecast? Not only is it a subseasonal event, but it occurs between different vertical layers of the atmosphere. Since we are stuck in traffic, let’s pull out a snack, a triple-decker club sandwich to be specific. 
