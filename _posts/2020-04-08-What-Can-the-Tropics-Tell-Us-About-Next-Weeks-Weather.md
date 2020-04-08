@@ -2,7 +2,7 @@
 layout: post
 title: What Can the Tropics Tell Us About Next Week&#39;s Weather?
 description: What exactly constitutes a weather event? You may have heard of a front coming from the west that will bring severe weather or huge amounts of snow in the next few days.
-tags: [blocking, subseasonal, weather, forecasting]
+tags: [subseasonal, teleconnections, weather, climate, MJO]
 comments: true
 category: blog
 date: 2020-04-08
