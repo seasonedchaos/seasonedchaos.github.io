@@ -15,7 +15,7 @@ What exactly constitutes a weather event? You may have heard of a front coming f
 <br><br>
 The weather we see on a given day is determined by a number of factors, all piecing together in a weather pattern pie. Some of these factors include local circulations, [blocking patterns](https://seasonedchaos.github.io/Traffic-Jams-and-Club-Sandwiches-in-the-Atmosphere-An-Overview-of-Blocking/), and longer term trends. These vary on all timescales from subseasonal to seasonal (S2S), interannual (year-to-year), decadal, and more. Click around to sample different pieces of our weather pattern pie!
 <br><br>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~kelseymalloy/1.embed" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~kelseymalloy/1.embed" height="400" width="75%"></iframe>
 <br><sub><i>Slices represent phenomena that contribute to weather and climate patterns. Please note that slices do not represent actual fractions of variability nor is this an exhaustive list of phenomena.</i></sub>
 <br><br>
 
