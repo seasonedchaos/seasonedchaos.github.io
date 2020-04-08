@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: What Can the Tropics Tell Us About Next Week&#39;s Weather?
 description: What exactly constitutes a weather event? You may have heard of a front coming from the west that will bring severe weather or huge amounts of snow in the next few days.
 tags: [blocking, subseasonal, weather, forecasting]
 comments: true
@@ -10,7 +10,6 @@ img: weather_pattern_pie_static.png
 author: marybeth_arcodia
 ---
 
-<h2>What Can the Tropics Tell Us about Next Week’s Weather?</h2>
 
 What exactly constitutes a weather event? You may have heard of a front coming from the west that will bring severe weather or huge amounts of snow in the next few days. But the weather events that we see for a few days, or even a few weeks, can actually be explained by patterns around the globe. 
 <br><br>
@@ -34,7 +33,7 @@ Disruptions in the tropical atmosphere can affect weather in the United States t
 <br><sub><i>This hot tub is an analogy for the MJO circulation and teleconnections. 
 </i></sub>
 <br><br>
-The same effect is happening in the strong storm at the center of the MJO. The strong convection of the MJO in the tropical Indian and Pacific Oceans can be thought of as our hot tub jet. The air near the surface is forced to rise up, disrupting the atmosphere enough to create ripples along the top of the atmosphere. These waves can propagate thousands of miles. They carry signals that can change the temperature, rainfall, and other variables in the mid-latitude region, since this is where the air often sinks. These atmospheric waves affect weather in the U.S. despite the original disruption occurring in the tropics days or weeks before! 
+The same effect is happening in the strong storm at the center of the MJO. The strong convection of the MJO in the tropical Indian and Pacific Oceans can be thought of as our hot tub jet. The air near the surface is forced to rise up, disrupting the atmosphere enough to create ripples along the top of the atmosphere. These waves can propagate thousands of miles. They carry signals that can change the temperature, rainfall, and other variables in the mid-latitude region, since this is where the air often sinks. These atmospheric waves affect weather in the U.S. despite the original disruption occurring in the tropics days or weeks before! Hot tub party anyone?
 <br><br>
 
 <h2>Predicting Teleconnections</h2>
