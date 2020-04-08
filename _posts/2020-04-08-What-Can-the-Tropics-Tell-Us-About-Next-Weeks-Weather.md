@@ -30,8 +30,7 @@ The center of the MJO contains a strong storm system, which is sandwiched betwee
 Disruptions in the tropical atmosphere can affect weather in the United States through waves that travel along the top of the atmosphere. This teleconnection can be thought of as a jet in the bottom of a hot tub causing an upward motion of the water. The water travels to the surface and ripples away, creating waves on the surface of the water. The rippling waves hit the edges of the hot tub and the water sinks, creating a circulation in the hot tub.
 <br><br>
 ![Hot Tub MJO Animation]({{ site.url }}/assets/img/hottub_MJO.gif)
-<br><sub><i>This hot tub is an analogy for the MJO circulation and teleconnections. 
-</i></sub>
+<br><sub><i>This hot tub is an analogy for the MJO circulation and teleconnections. The arrows represent atmospheric waves that can travel thousands of miles from their origin (here, the origin is the jet of the hot tub), carrying signals that can affect distant weather patterns.</i></sub>
 <br><br>
 The same effect is happening in the strong storm at the center of the MJO. The strong convection of the MJO in the tropical Indian and Pacific Oceans can be thought of as our hot tub jet. The air near the surface is forced to rise up, disrupting the atmosphere enough to create ripples along the top of the atmosphere. These waves can propagate thousands of miles. They carry signals that can change the temperature, rainfall, and other variables in the mid-latitude region, since this is where the air often sinks. These atmospheric waves affect weather in the U.S. despite the original disruption occurring in the tropics days or weeks before! Hot tub party anyone?
 <br><br>
