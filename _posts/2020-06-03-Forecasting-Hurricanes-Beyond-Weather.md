@@ -25,7 +25,7 @@ Before we dive in, let’s learn a bit about hurricanes and what makes them go (
 **Vorticity** is a fancy term for the rotation of winds, a measure of spin. For a hurricane to form it obviously helps if the air is already spinning (counterclockwise in the northern hemisphere). In the Atlantic many storms get their initial spin from African easterly waves. These are not ocean waves, but rather atmospheric waves [HKA4] associated with thunderstorms that emerge off the west coast of Africa near Cabo Verde. 
 <br><br>
 <!-- blank line -->
-<iframe width="1120" height="660" src="https://www.youtube.com/embed/wq4injsit1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="472.5" src="https://www.youtube.com/embed/wq4injsit1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- blank line -->
 <br><sub><i>In both panels there is an African easterly wave that forms off the west coast of Africa. In the top panel, it encounters dry air from Africa, high shear, and colder ocean temperatures, which keeps the storm from developing/strengthening. In the bottom panel, it encounters high humidity, low shear, and warmer ocean temperatures up until it makes landfall as a powerful hurricane.</i></sub>
 <br><br>
