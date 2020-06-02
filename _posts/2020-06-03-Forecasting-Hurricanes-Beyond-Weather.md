@@ -22,7 +22,7 @@ Before we dive in, let’s learn a bit about hurricanes and what makes them go (
 <br><br>
 **Humidity** is needed for a hurricane to produce rain, but more than that, it helps drive the circulation of the hurricane by causing pressures to drop and making the cyclone more intense. If dry air wraps into a hurricane it can cause cooling (from evaporation) which creates sinking motion in the center of the storm, weakening it.
 <br><br>
-**Vorticity** is a fancy term for the rotation of winds, a measure of spin. For a hurricane to form it obviously helps if the air is already spinning (counterclockwise in the northern hemisphere). In the Atlantic many storms get their initial spin from African easterly waves. These are not ocean waves, but rather atmospheric waves [HKA4] associated with thunderstorms that emerge off the west coast of Africa near Cabo Verde. 
+**Vorticity** is a fancy term for the rotation of winds, a measure of spin. For a hurricane to form it obviously helps if the air is already spinning (counterclockwise in the northern hemisphere). In the Atlantic many storms get their initial spin from African easterly waves. These are not ocean waves, but rather atmospheric waves associated with thunderstorms that emerge off the west coast of Africa near Cabo Verde. 
 <br><br>
 <!-- blank line -->
 <iframe width="840" height="472.5" src="https://www.youtube.com/embed/wq4injsit1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
