@@ -6,7 +6,7 @@ tags: [subseasonal, seasonal, hurricane, weather, ENSO, MJO]
 comments: true
 category: blog
 date: 2020-06-03
-img: hurricane.png
+img: hurricaneDean.png
 author: kurt_hansen
 ---
 
