@@ -16,13 +16,13 @@ This year is going to be an active hurricane season!!! Sure you’ve heard that 
 
 Before we dive in, let’s learn a bit about hurricanes and what makes them go (or what stops them in their tracks). There are four main conditions that are needed for a hurricane to form: high humidity, high vorticity, high ocean temperatures and low shear (see below). 
 <br><br>
-Warm ocean waters, often measured by sea surface temperatures or SSTs, help raise the humidity but more importantly provide the fuel source for hurricanes. The temperature difference between the SSTs and the cold upper atmosphere drives a hurricane’s circulation. 
+**Warm ocean waters**, often measured by sea surface temperatures or SSTs, help raise the humidity but more importantly provide the fuel source for hurricanes. The temperature difference between the SSTs and the cold upper atmosphere drives a hurricane’s circulation. 
 <br><br>
-Shear is the difference in winds between upper and lower levels of the atmosphere. If the winds at the top of the atmosphere are blowing much faster than the winds near the surface it can tilt a hurricane or possibly even rip it apart as seen in this [video](https://www.youtube.com/watch?v=Xph9W6C-KiM).
+**Shear** is the difference in winds between upper and lower levels of the atmosphere. If the winds at the top of the atmosphere are blowing much faster than the winds near the surface it can tilt a hurricane or possibly even rip it apart as seen in this [video](https://www.youtube.com/watch?v=Xph9W6C-KiM).
 <br><br>
-Humidity is needed for a hurricane to produce rain, but more than that, it helps drive the circulation of the hurricane by causing pressures to drop and making the cyclone more intense. If dry air wraps into a hurricane it can cause cooling (from evaporation) which creates sinking motion in the center of the storm, weakening it.
+**Humidity** is needed for a hurricane to produce rain, but more than that, it helps drive the circulation of the hurricane by causing pressures to drop and making the cyclone more intense. If dry air wraps into a hurricane it can cause cooling (from evaporation) which creates sinking motion in the center of the storm, weakening it.
 <br><br>
-Vorticity is a fancy term for the rotation of winds, a measure of spin. For a hurricane to form it obviously helps if the air is already spinning (counterclockwise in the northern hemisphere). In the Atlantic many storms get their initial spin from African easterly waves. These are not ocean waves, but rather atmospheric waves [HKA4] associated with thunderstorms that emerge off the west coast of Africa near Cabo Verde. 
+**Vorticity** is a fancy term for the rotation of winds, a measure of spin. For a hurricane to form it obviously helps if the air is already spinning (counterclockwise in the northern hemisphere). In the Atlantic many storms get their initial spin from African easterly waves. These are not ocean waves, but rather atmospheric waves [HKA4] associated with thunderstorms that emerge off the west coast of Africa near Cabo Verde. 
 <br><br>
 <!-- blank line -->
 <figure class="video_container">
