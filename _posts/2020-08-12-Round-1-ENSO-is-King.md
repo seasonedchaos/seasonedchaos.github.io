@@ -6,7 +6,7 @@ tags: [subseasonal, seasonal, interannual, ENSO]
 comments: true
 category: blog
 date: 2020-08-12
-img: SSTs.png
+img: phases_SSTs.png
 author: all
 ---
 
