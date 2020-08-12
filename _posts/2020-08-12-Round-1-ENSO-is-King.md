@@ -42,8 +42,8 @@ The storms that form over the warm water during ENSO are intense enough that the
 <br><br>
 ![ENSO impacts](https://www.climate.gov/sites/default/files/LaNina_Nino_winter_flat_lrg_0.jpg)
 <br><sub><i>These weather patterns are typical during El Niño (top) and La Niña (bottom) events. You can see that these patterns are influenceb by what is going on with the jet stream. Taken from [NOAA Climate.gov blog post](https://www.climate.gov/news-features/blogs/enso/changes-enso-impacts-warming-world){:width="60%"}.</i></sub>
-<br>
-
+<br><br>
+<i>This is part 1 of a two-part blog series about ENSO and predictability. Stay tuned for our next post, which should be out shortly!</i>
 <br>
 <div style="text-align: right"><i> Written by: Marybeth Arcodia, Kayla Besong, Kurt Hansen, Kelsey Malloy, and Victoria Schoenwald </i></div>
 
