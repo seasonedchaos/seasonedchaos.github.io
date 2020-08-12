@@ -6,13 +6,13 @@ tags: [subseasonal, seasonal, interannual, ENSO]
 comments: true
 category: blog
 date: 2020-08-12
-img: phases_SSTs.png
+img: NinoThumbnail.png
 author: all
 ---
 
 In the Pacific, lurking under the ocean surface and riding thunderstorms into the sky is a beast, slow-moving and inevitable yet still chaotic and unpredictable. Today we are here to warn you about ENSO.
 <br><br>
-The El Nino Southern Oscillation or ENSO is a climate pattern with a somewhat regular cycle with an oceanic and atmospheric component. The El Nino refers to the oceanic part; the ocean temperatures in the East Pacific off the coast of Peru vary by a few degrees from the seasonal average (which is actually quite a lot). The southern oscillation is the atmospheric component which measures circulation that spans the entire Pacific. The EN and SO build off of each other and create rippling climate patterns that are felt across the entire globe.
+The El Niño Southern Oscillation or ENSO is a climate pattern with a somewhat regular cycle with an oceanic and atmospheric component. The El Niño refers to the oceanic part; the ocean temperatures in the East Pacific off the coast of Peru vary by a few degrees from the seasonal average (which is actually quite a lot). The southern oscillation is the atmospheric component which measures circulation that spans the entire Pacific. The EN and SO build off of each other and create rippling climate patterns that are felt across the entire globe.
 <br>   
 <h2>Norms to Extremes - Suits of ENSO</h2>
 
@@ -41,7 +41,7 @@ This cause-and-effect loop can be better illustrated below. When you click on an
 The storms that form over the warm water during ENSO are intense enough that they can affect the global atmospheric circulation by altering the jet stream. The placement and waviness of the jet stream influences temperature and rainfall/snowfall patterns over parts of the U.S. The below figure shows what to generally expect during the ENSO phases. This is why betting on which phase will win is important for forecasting weather. Be sure to study the stats before placing your bet to get the odds stacked in your favor!
 <br><br>
 ![ENSO impacts](https://www.climate.gov/sites/default/files/LaNina_Nino_winter_flat_lrg_0.jpg)
-<br><sub><i>These weather patterns are typical during El Nino (top) and La Nina (bottom) events. You can see that these patterns are influenceb by what is going on with the jet stream. Taken from [NOAA Climate.gov blog post](https://www.climate.gov/news-features/blogs/enso/changes-enso-impacts-warming-world){:width="60%"}.</i></sub>
+<br><sub><i>These weather patterns are typical during El Niño (top) and La Niña (bottom) events. You can see that these patterns are influenceb by what is going on with the jet stream. Taken from [NOAA Climate.gov blog post](https://www.climate.gov/news-features/blogs/enso/changes-enso-impacts-warming-world){:width="60%"}.</i></sub>
 <br>
 
 <br>
