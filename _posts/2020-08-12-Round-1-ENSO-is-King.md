@@ -41,7 +41,7 @@ This cause-and-effect loop can be better illustrated below. When you click on an
 The storms that form over the warm water during ENSO are intense enough that they can affect the global atmospheric circulation by altering the jet stream. The placement and waviness of the jet stream influences temperature and rainfall/snowfall patterns over parts of the U.S. The [below figure](https://www.climate.gov/sites/default/files/LaNina_Nino_winter_flat_lrg_0.jpg) shows what to generally expect during the ENSO phases. This is why betting on which phase will win is important for forecasting weather. 
 <br><br>
 ![ENSO impacts](https://www.climate.gov/sites/default/files/LaNina_Nino_winter_flat_lrg_0.jpg)
-<br><sub><i>These weather patterns are typical during El Niño (top) and La Niña (bottom) events. You can see that these patterns are influenceb by what is going on with the jet stream. Taken from [NOAA Climate.gov blog post](https://www.climate.gov/news-features/blogs/enso/changes-enso-impacts-warming-world){:width="60%"}.</i></sub>
+<br><sub><i>These weather patterns are typical during El Niño (top) and La Niña (bottom) events. You can see that these patterns are influenced by what is going on with the jet stream. Taken from [NOAA Climate.gov blog post](https://www.climate.gov/news-features/blogs/enso/changes-enso-impacts-warming-world){:width="60%"}.</i></sub>
 <br><br>
 Be sure to study the stats before placing your bet to get the odds stacked in your favor!
 <br><br>
