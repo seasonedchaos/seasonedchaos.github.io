@@ -21,7 +21,7 @@ ENSO has three different phases of its cycle. The two extreme phases are El Niñ
 When ENSO is in the neutral phase, the western tropical Pacific sea surface temperatures (SSTs) are warmer than the eastern tropical Pacific, and the surface winds blow from east to west. These winds converge with other tropical winds, causing air to rise and tall storms to form ([see how this works](https://seasonedchaos.github.io/What-Can-the-Tropics-Tell-Us-About-Next-Weeks-Weather/)). This simultaneously affects the ocean temperatures below the surface. The thermocline describes a layer that separates warm, shallow water and deep, cold water. Normally, in the east Pacific, the thermocline is shallower, which means colder water is closer to the surface. As the winds blow from east to west, the water in the east Pacific is pushed westward along the equator, causing the cold water below to rise to the surface. 
 <br><br> 
 During El Niño, the SSTs become warmer in the central and eastern tropical Pacific (off the coast of Peru) and the surface winds weaken or even switch direction! In the ocean, we see warmer water below the surface (deeper thermocline) in the central and east Pacific causing more eastern Pacific storms to form over the warm water.  
-<br><br> 
+<br><br>
 La Niña is the opposite of El Niño. Ocean SSTs are cooler than average and the east-to-west surface winds along the equator strengthen. 
 <br><br>
 This cause-and-effect loop can be better illustrated below. When you click on an element of the loop - Thermocline, SSTs, and Winds - you can see what generally happens over the tropical Pacific during each of the phases.
