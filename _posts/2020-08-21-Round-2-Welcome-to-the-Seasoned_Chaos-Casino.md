@@ -41,7 +41,7 @@ To understand probabilistic predictions a little further, let’s enter the Seas
 The below scenario applies this thinking to climate forecasting, where probabilities rule the game. Let’s say you are trying to decide whether to take a vacation in the Caribbean this hurricane season -- a risky bet (check out this post to see what factors are important for forecasting hurricanes in advance, link). You can see what’s currently happening with the cards that are showing: we are in a neutral ENSO and the Atlantic SSTs are particularly warm. Because ENSO is a major influencer for tropical cyclone activity for a season, it is the first thing we’ll consider. We have to use probabilities to estimate whether El Nino is likely to be the next card flipped. The probability of El Nino is low, as mentioned in the beginning of this post, which means that the chance of an inactive hurricane season is lower. This means we should probably not vacation there. Additionally, if we were to consider other factors, like Atlantic SSTs or how much risk and money is put into traveling to the Caribbean at this time, we would see that the smart decision is to say no. :sob: 
 <br><br>
 ![Probabilities for blackjack]({{ site.url }}/assets/img/SCCasino_ex1.gif)
-<br>
+<br><br><br>
 ![Probabilities for climate forecasting]({{ site.url }}/assets/img/SCCasino_ex2.png)
 <br><sub><i>Step right up to bet on the climate system. The top panel describes the thought process behind playing a game of blackjack by using probabilites. The bottom panel describes the thought process behind forecasting for conditions past the weather timescale. More details on this figure are found within the post.</i></sub>
 <br><br>
