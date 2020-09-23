@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Seasoned Chaos presents….the North Atlantic Oscillation!
+title: Seasoned Chaos presents…the North Atlantic Oscillation!
 description: The North Atlantic Oscillation is a Scottish punk rock band that has found commercial success. At least more success than our punk-yodeling band, the Quasi-Biennial Oscillation (OK, that one isn’t real).
 tags: [NAO, teleconnections, weather, subseasonal, seasonal, winter]
 comments: true
 category: blog
 date: 2020-09-24
-img: weather_pattern_pie_static.png
+img: NAOpositive_thumbnail.png
 author: all
 ---
 
@@ -22,7 +22,7 @@ We’ve mentioned air pressure a lot in this blog but we haven’t really define
 The NAO is primarily an atmospheric oscillation and is identified by pressure. The positive phase of the NAO is associated with very high surface pressure over the Atlantic Ocean between Bermuda and Spain and very low pressure over Greenland. This causes more storms to move over northern Europe and the U.S east coast. During the negative phase of the NAO, there is still high pressure over the Atlantic and low pressure over Greenland but they are much weaker (near average) and the high pressure area is located much closer to Europe. This causes more storms to track over southern Europe and leaves northern Europe and the Eastern U.S. relatively dry. Clearly the NAO is very important for predicting rainfall in the U.S. and Europe, not to mention the other impacts it has on hurricane tracks and tides.
 <br><br>
 ![NAO phases](https://www.researchgate.net/profile/Ana_Gomes58/publication/319483260/figure/fig32/AS:614341841809415@1523481917416/Model-of-the-two-modes-of-the-North-Atlantic-Oscillation-NAO-associated-storminess.png)
-<br><sub><i>The pressure systems, storm tracks, and impacts (wet or dry regions) associated with the NAO negative and positive phases.</i></sub>
+<br><sub><i>The pressure systems, storm tracks, and impacts (wet or dry regions) associated with the NAO negative and positive phases. Adapted from [here](https://www.ldeo.columbia.edu/res/pi/NAO/).</i></sub>
 <br><br>
 <h2>Featuring: Jet Stream</h2>
 
@@ -33,7 +33,7 @@ The NAO impacts U.S. and European weather by funking with the jet stream. Each h
 
 If you live on the east coast of the U.S. or Canada or within Europe, the fate of your winter is often in NAO’s hands. Forecasters really depend on knowing the NAO phase to make long-range outlooks on temperature and precipitation in the cold season (cold season = October through April). If the NAO is neutral, so we can’t use it to understand temperature and precipitation patterns. 
 
-It can be difficult to predict NAO phases since it both fluctuates a lot within a single season (<i>intraseasonal variability</i>) and fluctuates a lot from year to year (<i>interannual variability</i>). Some phases last months, while others last just days. What this means is that over the past twenty years the NAO may be mostly in a positive phase, however this year the NAO may be mostly negative, but in a single day the NAO could still be positive. Are you confused? Take a look at the figure below. It resembles a harmony of sound waves, but it is actually the same thing: NAO. The ~~song~~ state of the NAO varies based on the perspective you are taking, or the period over where you are averaging, be it monthly, subseasonally, annually, or decadally. If you are ~~listening~~ looking from a decadal lens, the value may be positive while simultaneously being negative if you are looking from the other timescales. 
+It can be difficult to predict NAO phases since it both fluctuates a lot within a single season (<i>intraseasonal variability</i>) and fluctuates a lot from year to year (<i>interannual variability</i>). Some phases last months, while others last just days. What this means is that over the past twenty years the NAO may be mostly in a positive phase, however this year the NAO may be mostly negative, but in a single day the NAO could still be positive. Are you confused? Take a look at the figure below. It resembles a harmony of sound waves, but it is actually the same thing: NAO. The ~~song~~ state of the NAO varies based on the perspective you are taking, or the period over where you are averaging, be it monthly, subseasonally, annually, or decadally. If you are ~~listening~~ looking from a decadal lens, the value may be positive while simultaneously being negative if you are looking from the other timescales. Sort of like the difference between front row versus the nose-bleed section.
 <br><br>
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~kelseymalloy/10.embed" height="525" width="100%"></iframe>
 <br><sub><i>Timeseries of NAO on multiple timescales, such that monthly NAO has larger fluctuations between phases while decadal NAO is a smoother, longer transition between phases. By hovering over the timeseries, you can see that for a particular time, the monthly, seasonal, annual, and decadal NAO have different values and often have different signs (+ or -) too!</i></sub>
