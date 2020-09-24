@@ -6,7 +6,7 @@ tags: [NAO, teleconnections, weather, subseasonal, seasonal, winter]
 comments: true
 category: blog
 date: 2020-09-24
-img: NAOpositive_thumbnail.PNG
+img: nao_sounds_thumbnail.PNG
 author: all
 ---
 
