@@ -24,7 +24,7 @@ Not only does the tide change from high to low but it also changes throughout th
  
 The opposite is true for when the Earth, sun, and moon are aligned. The gravitational force of the moon and sun combine to pull even more water. High tides will be higher than average and low tides will be lower. We call these Spring Tides and they occur every 14 days during a new and full moon. But wait, these aren’t the highest tides that we experience. When business is booming in the coastal flooding market, the stock price (AKA, the water level) skyrockets to the highest levels all year and we call this the King Tide.  These exceptionally high tides can occur when the moon is the closest to the Earth (perigee) or when the Earth is closest to the sun (perihelion).  
 <br><br>
-![King Tides]({{ site.url }}/assets/img/McNoldy_KingTide.png)
+<img src="/assets/img/McNoldy_KingTide.png" width="90%">
 <br><sub><i>This figure was created by Brian McNoldy, and it shows a seasonal cycle of water levels at one station in Miami, FL. The blue line shows the daily average water level, while the red line shows a monthly smoothing of the daily average water level. You'll notice that we typically see the highest water levels of the year during the Fall (Sept-Nov), known as King Tide season.</i></sub>
 <br><br> 
 <h2>Stockbroker: Brian McNoldy</h2>
@@ -39,7 +39,7 @@ Decade by decade, sea level is rising… globally and locally. So, all other thi
  
 Up and down the U.S. East Coast, coastal areas are experiencing alarming sea level rise rates. South Florida is in that span of course, but places like Annapolis MD, Norfolk VA, Wilmington NC, and Charleston SC are seeing even more rapid rises than we are. The culprit (or a culprit) seems to be a lethargic Gulf Stream. Excessive ice melt from areas in the far northern Atlantic could be altering the large-scale ocean circulation, and one component of that is the Gulf Stream. When it slows down, water along its route piles up: that route happens to be parallel to the U.S. East Coast. The Florida Current (part of Gulf Stream) is weakest during October and water piles up along the Florida east coast. 
 <br><br>
-![slowing Gulf Stream]({{ site.url }}/assets/img/SC_slowedGS.gif)
+<img src="/assets/img/SC_slowedGS.gif" width="90%">
 <br><sub><i>Here we show what Brian is talking about: a slowing Gulf Stream can cause a "build-up" of water along the coast!</i></sub>
 <br><br> 
 
