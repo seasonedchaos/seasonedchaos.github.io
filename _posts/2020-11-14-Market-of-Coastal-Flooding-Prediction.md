@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Market of Coastal Flooding Prediction
+title: "Market" of Coastal Flooding Prediction
 description: Determining where and when coastal flooding will take place and what damages it will cause is like playing the stock market.
 tags: [flooding, sea level rise, subseasonal, seasonal]
 comments: true
@@ -14,7 +14,7 @@ Determining where and when coastal flooding will take place and what damages it 
 <br><br>
 <h2>Initial Investment: Tides</h2>
 
-First, we need to “save up” our knowledge on tides in order to join the market. Tides are influenced by the gravity of the Earth, moon, and sun. In general, the gravitational field of the moon pulls the side of the Earth that is closest to it. Water creates a bulge on the side of the Earth as if it were reaching out to the moon. Due to the inertia of the Earth, there is also a bulge of water on the side of the Earth farthest from the moon. A balance of the forces causes you to experience a high tide when you are on the side of the Earth closest or farthest from the moon ([explained further here] (https://oceanservice.noaa.gov/education/tutorial_tides/tides03_gravity.html#:~:text=On%20the%20far%20side%20of,where%20they%20are%20furthest%20apart)). The opposite is true for the sides 90° to the moon, resulting in a low tide. Every six hours the tide changes from high to low as the Earth rotates.
+First, we need to “save up” our knowledge on tides in order to join the market. Tides are influenced by the gravity of the Earth, moon, and sun. In general, the gravitational field of the moon pulls the side of the Earth that is closest to it. Water creates a bulge on the side of the Earth as if it were reaching out to the moon. Due to the inertia of the Earth, there is also a bulge of water on the side of the Earth farthest from the moon. A balance of the forces causes you to experience a high tide when you are on the side of the Earth closest or farthest from the moon ([explained further here](https://oceanservice.noaa.gov/education/tutorial_tides/tides03_gravity.html#:~:text=On%20the%20far%20side%20of,where%20they%20are%20furthest%20apart)). The opposite is true for the sides 90° to the moon, resulting in a low tide. Every six hours the tide changes from high to low as the Earth rotates.
 <br><br> 
 <h2>Downtrend: Neap Tides</h2>
  
