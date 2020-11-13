@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Market" of Coastal Flooding Prediction
+title: > 
+   "Market" of Coastal Flooding Prediction
 description: Determining where and when coastal flooding will take place and what damages it will cause is like playing the stock market.
 tags: [flooding, sea level rise, subseasonal, seasonal]
 comments: true
