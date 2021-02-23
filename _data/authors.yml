@@ -2,10 +2,13 @@
 #
 #
 kelsey-malloy:
-    name: Kelsey Malloy
-    email: kelsey.malloy@rsmas.miami.edu
-    twitter: http://twitter.com/kelseyl4tely
-    web: https://kelseymalloy.github.io
+  photo: kelsey-malloy-headshot.png
+  bio: 4th year Ph.D. Candidate
+  socials:
+    - type: Twitter
+      url: http://twitter.com/kelseyl4tely
+  email: kelsey.malloy@rsmas.miami.edu
+  web: https://kelseymalloy.github.io
     
 kayla-besong:
     name: Kayla Besong
