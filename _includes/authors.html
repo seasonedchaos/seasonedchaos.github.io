@@ -1,0 +1,20 @@
+<!-- Look the author details up from the site config. -->
+{% assign author = site.data.authors[page.author] %}
+
+{% if author.bio %}
+<div class="well well-sm">
+    <h1>About <a href="{% link authors.html %}#{{ page.author }}" target="_blank">{{ author.name }}</a>{{author.name}}</h1>
+    {% if author.image %}
+    <img src="{{author.image}}" class="img-circle pull-left m-a-1">
+    {% endif %}
+    <p>{{ author.bio }}</p>
+    <ul class="list-inline social">
+        {% if author.github %}
+        <li><a href="{{author.github}}" title="GitHub"><i class="fa fa-github fa-1x"></i></a></li>
+        {% endif %}
+        {% if author.twitter %}
+        <li><a href="{{author.twitter}}" title="Twitter"><i class="fa fa-twitter fa-1x"></i></a></li>
+        {% endif %}
+      </ul>
+</div>
+{% endif %}
