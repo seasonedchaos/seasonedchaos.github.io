@@ -6,7 +6,7 @@ tags: [stratosphere, subseasonal, weather, AO]
 comments: true
 category: blog
 date: 2021-02-26
-img: 2m_temp_PV_thumbnail.png
+img: 2m_temp_PV_thumbnail.PNG
 author: kelsey-malloy, kurt-hansen, victoria-schoenwald, marybeth-arcodia
 ---
 
