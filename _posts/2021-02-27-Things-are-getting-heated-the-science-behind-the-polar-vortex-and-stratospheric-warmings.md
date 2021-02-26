@@ -6,7 +6,7 @@ tags: [stratosphere, subseasonal, weather, AO]
 comments: true
 category: blog
 date: 2021-02-27
-img: 2m_temp_PV_thumnail.png
+img: 2m_temp_PV_thumbnail.png
 author: kelsey-malloy, kurt-hansen, victoria-schoenwald, marybeth-arcodia
 ---
 
@@ -19,7 +19,7 @@ You may have heard about the stratosphere because it is home to the ozone layer,
 <br><br>
 And a spinning top only stays upright when it’s going fast and remains undisturbed. Amy Butler explains why that doesn’t happen sometimes:<span style="color:purple">“The polar vortex… is not always just passively blowing around, but can be both affected by weather patterns and, in turn, drive persistent weather patterns. One event that really demonstrates this two-way coupling is a ‘sudden stratospheric warming’ (SSW) of the polar vortex.”</span>
 <br><br>
-<img src="/assets/img/PolarVortex_JetStream.png" width="90%">
+<img src="/assets/img/PolarVortex_JetStream.jpg" width="90%">
 <br><sub><i>This graphic explains the influence of the polar vortex on the jet stream, and how that either keeps cold air north (left) or sends cold air to the mid-latitudes (right). [Graphic credit given to Financial Times Ltd](https://www.ft.com/content/dc74a4fc-9b24-4e77-a8dd-c055f5e0c884), published on Feb 20, 2021.</i></sub>
 <br><br>
 <h2>Stratospheric Mood Swing</h2>
