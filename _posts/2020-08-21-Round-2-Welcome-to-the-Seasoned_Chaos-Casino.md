@@ -54,4 +54,5 @@ ENSO-neutral. But, nature is looking to stir the pot. As of July 27, 2020, NOAA�
 If you’re confident that ENSO-neutral conditions will remain through the winter, then it’s time to double down on your climate forecast bet. May the odds be forever in your favor.
 <br><br>
 <div style="text-align: right"><i> Written by: Marybeth Arcodia, Kayla Besong, Kurt Hansen, Kelsey Malloy, and Victoria Schoenwald </i></div>
+<div style="text-align: right"><i> Graphics credit to: Kelsey Malloy </i></div>
 
