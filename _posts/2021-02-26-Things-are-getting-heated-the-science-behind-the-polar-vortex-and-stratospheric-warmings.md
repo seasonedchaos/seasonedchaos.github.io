@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things are getting heated&#58;  the science behind the polar vortex and stratospheric warmings
+title: Things are Getting Heated&#58;  The Science behind the Polar Vortex and Stratospheric Warmings
 description: The “bubble” we live in and where our weather happens is just one thin layer of the atmosphere called the troposphere. Above that is the layer where dreams are made…
 tags: [stratosphere, subseasonal, weather, AO]
 comments: true
