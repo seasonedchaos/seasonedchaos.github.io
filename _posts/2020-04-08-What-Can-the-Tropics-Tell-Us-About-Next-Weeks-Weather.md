@@ -47,3 +47,4 @@ Unfortunately, weather in the U.S. associated with ongoing tropical events is no
 Furthermore, the MJO only explains a fraction of the weather patterns that we see in the U.S. Exactly what that fraction is also depends on a number of other factors, such as season, local circulations, or even ENSO. Weather and climate predictions need to account for all of these factors and their relative contribution to a particular forecast.  The MJO is just one slice of the pie. The more we can learn about how the MJO slice fits with the rest of the pie, the better we can understand just what the tropics are telling us about next week’s weather. 
 <br>
 <div style="text-align: right"><i> Written by: Marybeth Arcodia</i></div>
+<div style="text-align: right"><i> Graphics credit to: Kelsey Malloy (first), NOAA Climate.gov (second), and Kayla Besong (third)</i></div>
