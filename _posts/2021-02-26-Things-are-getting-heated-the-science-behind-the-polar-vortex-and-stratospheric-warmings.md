@@ -5,14 +5,14 @@ description: The “bubble” we live in and where our weather happens is just o
 tags: [stratosphere, subseasonal, weather, AO]
 comments: true
 category: blog
-date: 2021-02-27
+date: 2021-02-26
 img: 2m_temp_PV_thumbnail.png
 author: kelsey-malloy, kurt-hansen, victoria-schoenwald, marybeth-arcodia
 ---
 
 The “bubble” we live in and where our weather happens is just one thin layer of the atmosphere called the troposphere. Above that is the layer where dreams are made…well, that is if your dreams involve snowstorms, record cold, and other wild weather… 
 <br><br>
-In this post, we have two scientific experts: [<span style="color:purple">Amy Butler</span>](http://amyhawesbutler.blogspot.com/p/blog-page.html), a research scientist from NOAA Earth Systems Research Lab, and [<span style="color:orange">Simon Lee</span>](https://simonleewx.com/blog-posts/), a Ph.D. student from University of Reading. They will chime in on their understanding of this layer called the stratosphere as well as how it influences subseasonal-to-seasonal forecasting.
+In this post, we have two scientific experts: [<span style="color:#5D3A9B">Amy Butler</span>](http://amyhawesbutler.blogspot.com/p/blog-page.html), a research scientist from NOAA Earth Systems Research Lab, and [<span style="color:#E66100">Simon Lee</span>](https://simonleewx.com/blog-posts/), a Ph.D. student from University of Reading. They will chime in on their understanding of this layer called the stratosphere as well as how it influences subseasonal-to-seasonal forecasting.
 <br><br>
 <h2>What is the Polar Vortex?</h2>
 You may have heard about the stratosphere because it is home to the ozone layer, protecting us from the sun’s harmful rays. Every fall, the polar stratosphere loses sunlight and cools. This causes a large difference in temperature in the north-south direction otherwise known as a temperature gradient. This forms the polar vortex, a belt of rapid winds that flow from west to east. The stratospheric polar vortex can be found <span style="color:orange">“high above the surface (10-50 km [6-30 miles]) encircling the Arctic during winter… Within the polar vortex, the air is extremely cold, usually below -50°C [-58°F]. You could think of [the polar vortex] like a spinning top,”</span> Simon Lee explains.
