@@ -54,3 +54,4 @@ At times, we are unable to even predict the base state for blocking to occur. In
 Luckily, many great minds are chipping away at this block in our forecasting abilities, so that you can better anticipate when there might be traffic or prolonged extremes. We want you to be as prepared as possible—like making-a-triple-decker-club-sandwich-for-afternoon-traffic-the-day-before level of prepared. 
 <br>
 <div style="text-align: right"><i> Written by: Kayla Besong</i></div>
+<div style="text-align: right"><i> Graphics credit to: Kayla Besong</i></div>
