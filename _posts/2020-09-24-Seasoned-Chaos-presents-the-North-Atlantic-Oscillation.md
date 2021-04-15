@@ -42,3 +42,4 @@ But overall, [forecasters](https://www.cpc.ncep.noaa.gov/products/precip/CWlink/
 
 <br><br>
 <div style="text-align: right"><i> Written by: Marybeth Arcodia, Kayla Besong, Kurt Hansen, and Kelsey Malloy</i></div>
+<div style="text-align: right"><i> Graphics credit to: LDEO Columbia (first), and Kayla Besong and Kelsey Malloy (second) </i></div>

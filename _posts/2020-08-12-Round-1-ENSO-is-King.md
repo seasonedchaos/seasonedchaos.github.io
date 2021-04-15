@@ -48,4 +48,5 @@ Be sure to study the stats before placing your bet to get the odds stacked in yo
 <i>This is part 1 of a two-part blog series about ENSO and predictability. Stay tuned for our next post, which should be out shortly!</i>
 <br>
 <div style="text-align: right"><i> Written by: Marybeth Arcodia, Kayla Besong, Kurt Hansen, Kelsey Malloy, and Victoria Schoenwald </i></div>
+<div style="text-align: right"><i> Graphics credit to: Kelsey Malloy and Kayla Besong (first), and NOAA Climate.gov (second) </i></div>
 

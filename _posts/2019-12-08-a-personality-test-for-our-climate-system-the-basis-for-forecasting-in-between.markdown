@@ -37,3 +37,4 @@ Let’s say we are trying to predict the rainfall in the southeastern U.S. a mon
 Dr. Kirtman’s lab, as well as other scientists in this field, work on unique, challenging, and valuable forecasting problems, from decadal prediction, to subseasonal prediction of tropical cyclone activity, to the predictability of heat waves, and much more. Over this series of posts, the Seasoned Chaos team is going to discuss the pretty cool topics of this “in-between” forecasting. Keep up with when we post by following us on Twitter [@seasonedchaos](https://twitter.com/seasonedchaos). We’ll try to be predictable about when we post – once every two months or so – but no promises in this chaotic world. :wink:
 <br>
 <div style="text-align: right"><i> Written by: Kelsey Malloy</i></div>
+<div style="text-align: right"><i> Graphics credit to: Kayla Besong (first), and Kelsey Malloy and Kayla Besong (second)</i></div>

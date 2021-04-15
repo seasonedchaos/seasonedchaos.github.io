@@ -59,6 +59,7 @@ The NAO can also influence temperature and rainfall especially in winter, which 
 Currently it is difficult to predict where and when these SLR hot spots will occur so we will need to keep an eye out for future research. However, now we have a better grasp on how King tides can affect coastal flooding and we are ready to join the market!
 <br><br>
 <div style="text-align: right"><i> Written by: Victoria Schoenwald</i></div>
+<div style="text-align: right"><i> Graphics credit to: Brian McNoldy (first), and Kayla Besong (second)</i></div>
 
 <br><br><br><br>
 **<i>Brian McNoldy did say more about this season's king tide flooding predictions, including this past October's event:

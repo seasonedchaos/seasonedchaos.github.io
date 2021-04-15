@@ -51,4 +51,5 @@ Some of my own research has looked at how the MJO may influence subseasonal hurr
 Regardless of the seasonal or subseasonal prediction it is important to keep in mind that these types of predictions are statistical. These rules work well over many years, but, there are many exceptions. Even in an active season, no one spot is likely to experience a hurricane. But, if you live in an at-risk area always [be prepared](https://www.nhc.noaa.gov/) because it only takes one.
 <br>
 <div style="text-align: right"><i> Written by: Kurt Hansen</i></div>
+<div style="text-align: right"><i> Graphics credit to: Kayla Besong</i></div>
 
