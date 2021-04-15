@@ -39,7 +39,7 @@ Here’s why: mature thunderstorms have rainfall, which creates a downdraft, a p
 Shear helps to tilt the storm so that the downdraft and updraft are separated, allowing a storm to keep building. That Great Plains LLJ described before can also provide this shear along with all that moisture (a double threat!).
 <br><br>
 ![Severe Storm Stages]({{ site.url }}/assets/img/SC_stormstages.png)
-<br><sub><i>This depicts the typical life cycle of a severe storm. There are updrafts and downdrafts that co-exist in the "Mature" stage, but the storms that reach severe level have this tilting characteristic (third stage) so that the updrafts can keep doing their thing -- fueling storms -- for a while without the downdrafts getting in their way.</i></sub>
+<br><sub><i>This depicts the typical life cycle of a severe storm. There are updrafts and downdrafts that coexist in the "Mature" stage, but the storms that reach severe level have a tilted structure (seen in third stage) so that the updrafts can keep doing their thing (fueling storms) for a while without the downdrafts getting in their way.</i></sub>
 <br><br>
 <h2>The Wicked Witches of the East and West (Pacific)</h2>
 
