@@ -16,7 +16,8 @@ But a severe storm is more than just tornadoes. The [Storm Prediction Center (SP
 * Tornado
 * Damaging winds >58 mph
 * Hail >1" in diameter (about the size of a quarter)
-</ul>And this doesn’t even include the other risks like lightning or flash floods (these kill more people every year than hurricanes, tornadoes or lightning!). Despite only 10% of thunderstorms reaching this severe category, the variety of dangers associated with severe storms has led to a big effort in trying to predict them further in advance.
+<!-- end of the list -->
+And this doesn’t even include the other risks like lightning or flash floods (these kill more people every year than hurricanes, tornadoes or lightning!). Despite only 10% of thunderstorms reaching this severe category, the variety of dangers associated with severe storms has led to a big effort in trying to predict them further in advance.
 <br><br>
 <h2>Lift, and Moisture, and Shear—oh my!</h2>
 
