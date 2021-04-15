@@ -22,7 +22,7 @@ And this doesn’t even include the other risks like lightning or flash floods (
 
 There are a few key ingredients that cause a storm to become severe:
 <br><br>
-<br>Lift</b> refers to a mechanism that supports rising air, AKA an updraft. On a large scale, this mechanism can come from the position of pressure systems and the jet stream. However, this is not enough. Storms also need stronger, small-scale sources of lift, which can come from daytime heating of the ground (triggering convection) or from the collision of very different air masses (a cold vs. warm or wet vs. dry showdown). 
+<b>Lift</b> refers to a mechanism that supports rising air, AKA an updraft. On a large scale, this mechanism can come from the position of pressure systems and the jet stream. However, this is not enough. Storms also need stronger, small-scale sources of lift, which can come from daytime heating of the ground (triggering convection) or from the collision of very different air masses (a cold vs. warm or wet vs. dry showdown). 
 <br><br>
 In the right conditions, rising air will continue to rise (for the true wx nerds, this is the <b>instability</b> condition). Since the air cools with elevation, eventually air will be cool enough for water vapor to condense, creating “bubbling” clouds.
 <br><br>
