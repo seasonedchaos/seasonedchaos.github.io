@@ -60,13 +60,14 @@ It is still really powerful to have the information that severe storms are more 
 <br><br>
 <div style="text-align: right"><i> Written by: Kelsey Malloy</i></div>
 <div style="text-align: right"><i> Graphics credit to: Kayla Besong (thumbnail and image), and Kelsey Malloy (video)</i></div>
-<br><br><i>P.S. If you are curious about the Great Plains LLJ and its influence on other things, like summer precipitation, check out [this paper](https://journals.ametsoc.org/view/journals/wefo/35/1/waf-d-19-0103.1.xml)!</i>
+<br><br><i>P.S. If you are curious about the Great Plains LLJ and its influence on other things, like summer rainfall, check out [this paper](https://journals.ametsoc.org/view/journals/wefo/35/1/waf-d-19-0103.1.xml)!</i>
 <br><br>
 Footnotes:
 <br>
 [<sup>1</sup>](https://journals.ametsoc.org/view/journals/clim/26/5/jcli-d-12-00128.1.xml)Lee, S., Atlas, R., Enfield, D., Wang, C., & Liu, H. (2013). Is There an Optimal ENSO Pattern That Enhances Large-Scale Atmospheric Processes Conducive to Tornado Outbreaks in the United States?, <i>Journal of Climate</i>, 26(5), 1626-1642.
 <br>
 [<sup>2</sup>](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/044008)Lee, S. K., Wittenberg, A. T., Enfield, D. B., Weaver, S. J., Wang, C., & Atlas, R. (2016). US regional tornado outbreaks and their links to spring ENSO phases and North Atlantic SST variability. <i>Environmental Research Letters</i>, 11(4), 044008.
+<br>
 [<sup>3</sup>](https://journals.ametsoc.org/view/journals/clim/33/11/jcli-d-19-0992.1.xml)Kim, D., Lee, S., & Lopez, H. (2020). Madden–Julian Oscillation–Induced Suppression of Northeast Pacific Convection Increases U.S. Tornadogenesis, <i>Journal of Climate</i>, 33(11), 4927-4939.
 
 
