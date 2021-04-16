@@ -44,7 +44,7 @@ Shear helps to tilt the storm so that the downdraft and updraft are separated, a
 <br><br>
 <h2>The Wicked Witches of the East and West (Pacific)</h2>
 
-Are you tired of hearing about the [El Niño-Southern Oscillation (ENSO)](https://seasonedchaos.github.io/Round-1-ENSO-is-King/) and [Madden-Julian Oscillation (MJO)](https://seasonedchaos.github.io/What-Can-the-Tropics-Tell-Us-About-Next-Weeks-Weather/)? Too bad... because ENSO and MJO have such a strong impact on the location of jet streams and pressure systems, they can influence a favorable environment for the large-scale setup of storms, particularly in early- to mid-spring[<sup>1</sup>](https://www.aoml.noaa.gov/phod/docs/JCLI-D-12-00128.pdf)<sup>,</sup>[<sup>2</sup>](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/044008).
+Are you tired of hearing about the [El Niño-Southern Oscillation (ENSO)](https://seasonedchaos.github.io/Round-1-ENSO-is-King/) and [Madden-Julian Oscillation (MJO)](https://seasonedchaos.github.io/What-Can-the-Tropics-Tell-Us-About-Next-Weeks-Weather/)? Too bad... because ENSO and MJO have such a strong impact on the location of jet streams and pressure systems, they can influence a favorable environment for the large-scale setup of storms, particularly in early- to mid-spring[<sup>1</sup>](https://journals.ametsoc.org/view/journals/clim/26/5/jcli-d-12-00128.1.xml)<sup>,</sup>[<sup>2</sup>](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/044008).
 <br><br>
 For ENSO, the impacts are region-specific and it depends on the [strength and persistence of the phase](https://www.youtube.com/watch?v=nOZhWaKy0uw&ab_channel=ResearchSquare). If a phase (warm El Niño or cool La Niña) is strong such that it persists past the winter peak and continues into spring, it has different impacts than from a phase that is weakening after its winter peak.
 <br><br>
@@ -60,3 +60,14 @@ It is still really powerful to have the information that severe storms are more 
 <br><br>
 <div style="text-align: right"><i> Written by: Kelsey Malloy</i></div>
 <div style="text-align: right"><i> Graphics credit to: Kayla Besong (thumbnail and image), and Kelsey Malloy (video)</i></div>
+<br><br><i>P.S. If you are curious about the Great Plains LLJ and its influence on other things, like summer precipitation, check out [this paper](https://journals.ametsoc.org/view/journals/wefo/35/1/waf-d-19-0103.1.xml)!</i>
+<br><br>
+Footnotes:
+<br>
+[<sup>1</sup>](https://journals.ametsoc.org/view/journals/clim/26/5/jcli-d-12-00128.1.xml)Lee, S., Atlas, R., Enfield, D., Wang, C., & Liu, H. (2013). Is There an Optimal ENSO Pattern That Enhances Large-Scale Atmospheric Processes Conducive to Tornado Outbreaks in the United States?, <i>Journal of Climate</i>, 26(5), 1626-1642.
+<br>
+[<sup>2</sup>](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/044008)Lee, S. K., Wittenberg, A. T., Enfield, D. B., Weaver, S. J., Wang, C., & Atlas, R. (2016). US regional tornado outbreaks and their links to spring ENSO phases and North Atlantic SST variability. <i>Environmental Research Letters</i>, 11(4), 044008.
+[<sup>3</sup>](https://journals.ametsoc.org/view/journals/clim/33/11/jcli-d-19-0992.1.xml)Kim, D., Lee, S., & Lopez, H. (2020). Madden–Julian Oscillation–Induced Suppression of Northeast Pacific Convection Increases U.S. Tornadogenesis, <i>Journal of Climate</i>, 33(11), 4927-4939.
+
+
+
