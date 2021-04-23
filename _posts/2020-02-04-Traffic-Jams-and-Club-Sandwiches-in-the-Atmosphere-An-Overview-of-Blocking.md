@@ -8,7 +8,7 @@ comments: true
 category: blog
 date: 2020-02-08
 img: blog2_fig2_sandwichblock.png
-author: kayla-besong
+author: Kayla Besong
 ---
 
 ‘Will this stubborn weather ever budge?!’ is a phrase you might have grumpily blurted while scraping ice off of your car for the third consecutive freezing morning. Or, perhaps you utter the phrase staring at your struggling lawn after a week of no rain. What is causing these temperature and precipitation extremes? Well, a traffic jam in the atmosphere—a phenomenon known as atmospheric blocking—could be the culprit. 
