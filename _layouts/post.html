@@ -9,12 +9,12 @@ layout: main
         <h1 class="page-title">{{page.title}}</h1>
         <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
         <div class="author-info"> <!-- Authors Content -->
-            By: <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
-               {% for person in site.people %}
-                 {% if person.name == page.author %}
-                   <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author }}</a>
-                 {% endif %}
-               {% endfor %}
+            {% if page.author %} By: <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
+              {% for person in site.people %}
+                {% if person.name == page.author %}
+                  <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author }}</a>
+                {% endif %}
+              {% endfor %}
             </span></span>{% endif %}</div>
       
       </header>
