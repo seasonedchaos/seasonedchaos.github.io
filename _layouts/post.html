@@ -11,21 +11,25 @@ layout: main
         <div class="author-info"> <!-- Authors Content -->
           {% assign authorCount = page.authors | size %}
           {% if authorCount == 0 %}
-            No author
-          {% elsif authorCount == 1 %}
-            <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author }}</a>
+            {% if page.author and site.data.authors[page.author] %}
+              {% assign author = site.data.authors[page.author] %}
+            {% else %}
+              {% assign author = site.author %}
+            {% endif %}
+  
+            {% assign authors = {{author.authorid | split: "," }} %}
           {% else %}
-            {% for author in page.authors %}
-              {% if forloop.first %}
-                <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author }}</a>
-              {% elsif forloop.last %}
-                and <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author }}</a>
-              {% else %}
-                , <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author }}</a>
-              {% endif %}
-            {% endfor %}
+            {% assign authors = page.authors %}
           {% endif %}
-        </span></span></div>   
+
+          <div itemscope itemtype="http://schema.org/Person">
+            {% for authorid in authors %}
+            <p>
+            ...
+            </p>
+            {% endfor %}
+          </div>
+          </span></span></div>   
 <!-->          {% if page.author %} By: <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
              {% for person in site.people %}
               {% if person.name == page.author %}
