@@ -7,7 +7,7 @@ comments: true
 category: blog
 date: 2020-04-08
 img: weather_pattern_pie_static.png
-author: marybeth-arcodia
+author: Marybeth Arcodia
 ---
 
 
