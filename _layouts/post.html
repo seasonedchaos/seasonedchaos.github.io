@@ -10,13 +10,14 @@ layout: main
         <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
         <div class="author-info"> <!-- Authors Content -->
           {% assign authorCount = page.authors | size %}
-          {% if page.author %} By: <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
-             {% for person in site.people %}
-              {% if person.name == page.author %}
-                <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author }}</a>
-              {% endif %}
-            {% endfor %}
-          </span></span>{% endif %}</div> 
+          {% if authorCount == 1 %}
+            {% if page.author %} By: <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
+              {% for person in site.people %}
+                {% if person.name == page.author %}
+                  <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author }}</a>
+                {% endif %}
+              {% endfor %}
+            </span></span>{% endif %}</div>
       </header>
       {{content | markdownify}}
       <div class="page-footer">
