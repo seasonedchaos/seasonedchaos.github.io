@@ -1,6 +1,6 @@
 ---
 name: Kurt Hansen
-layout: author
+layout: main
 ---
 
 Test
