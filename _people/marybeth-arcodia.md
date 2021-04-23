@@ -1,6 +1,6 @@
 ---
 name: Marybeth Arcodia
-layout: author
+layout: main
 ---
 
-Test
+Bio TBD
