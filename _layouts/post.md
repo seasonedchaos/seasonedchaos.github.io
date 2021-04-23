@@ -6,16 +6,15 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
-  </header>
-  
-  {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p> {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
     {% for person in site.people %}
     {% if person.name == page.author %}
     <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author }}</a>
     {% endif %}
     {% endfor %}
     </span></span>{% endif %}
+  </header>
+  
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
