@@ -1,6 +1,6 @@
 ---
 name: Victoria Schoenwald
-layout: author
+layout: main
 ---
 
-Test
+Bio TBD
