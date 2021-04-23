@@ -8,10 +8,6 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
   </header>
-
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
   
   {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
     {% for person in site.people %}
@@ -20,5 +16,10 @@ layout: default
     {% endif %}
     {% endfor %}
     </span></span>{% endif %}
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
 
 </article>
