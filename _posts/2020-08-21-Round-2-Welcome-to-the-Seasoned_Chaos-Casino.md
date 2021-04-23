@@ -7,7 +7,7 @@ comments: true
 category: blog
 date: 2020-08-21
 img: CasinoThumbnail.png
-author: all
+author: Marybeth Arcodia, Kayla Besong, Kurt Hansen, Kelsey Malloy, and Victoria Schoenwald
 ---
 
 <i>This is part 2 of a two-part blog series about ENSO and predictability. Make sure you have read our previous post, which explains what ENSO is all about!</i>
