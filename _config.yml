@@ -12,6 +12,11 @@ about-author: Subseasonal to seasonal forecasting blog for scientists & non-scie
 social-twitter: "seasonedchaos"
 social-email: seasonedchaos@gmail.com # add your Email address
 
+# Author collections (people)
+collections:
+  people:
+    output: true
+
 # Disqus
 discus-identifier: seasonedchaos-github-io # add your discus identifier
 
