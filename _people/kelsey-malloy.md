@@ -1,6 +1,6 @@
 ---
 name: Kelsey Malloy
-layout: author
+layout: main
 ---
 
 Test
