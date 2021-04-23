@@ -7,7 +7,7 @@ comments: true
 category: blog
 date: 2020-09-24
 img: nao_sounds_thumbnail.PNG
-author: all
+author: Marybeth Arcodia, Kayla Besong, Kurt Hansen, Kelsey Malloy, and Victoria Schoenwald
 ---
 
 
