@@ -7,7 +7,7 @@ comments: true
 category: blog
 date: 2020-08-12
 img: ENSOThumbnail.png
-author: all
+author: Marybeth Arcodia, Kayla Besong, Kurt Hansen, Kelsey Malloy, Victoria Schoenwald
 ---
 
 In the Pacific, lurking under the ocean surface and riding thunderstorms into the sky is a beast, slow-moving and inevitable yet still chaotic and unpredictable. Today we are here to warn you about ENSO.
