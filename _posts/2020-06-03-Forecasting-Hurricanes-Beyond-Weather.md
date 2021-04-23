@@ -7,7 +7,7 @@ comments: true
 category: blog
 date: 2020-06-03
 img: hurricaneDean.png
-author: kurt_hansen
+author: Kurt Hansen
 ---
 
 This year is going to be an active hurricane season!!! Sure you’ve heard that before, it’s just hyped for the news headlines, right? Well for 2020 there is some truth to these claims. A lot of universities and scientific organizations are publishing predictions for a much above average hurricane season[<sup>1</sup>](https://tropical.colostate.edu/media/sites/111/2020/04/2020-04.pdf)<sup>,</sup>[<sup>2</sup>](https://has.arizona.edu/sites/default/files/ua_tropical_cyclone_forecast_in_april_2020.pdf)<sup>,</sup>[<sup>3</sup>](https://www.noaa.gov/media-release/busy-atlantic-hurricane-season-predicted-for-2020). But how do they know?
