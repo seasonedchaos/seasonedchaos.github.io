@@ -7,7 +7,8 @@ comments: true
 category: blog
 date: 2021-04-16
 img: SC_Oz_thumbnail.png
-author: Kelsey Malloy
+authors: 
+- Kelsey Malloy
 ---
 
 The Hollywood version of severe storms involves [dramatic twisters being chased by a group of daring storm chasers <i>slash</i> tornado researchers](https://www.youtube.com/watch?v=lzYXUVmt9So&ab_channel=CinemaFanatik88), [various colliding mega-tornado vortices destroying Los Angeles](https://www.youtube.com/watch?v=dkErNkX2HKM&ab_channel=Movieclips), and [a tornado being used as a vehicle of transportation to Oz (a classic)](https://www.youtube.com/watch?v=RQWSh7Db-_E&ab_channel=MaxCanon).
