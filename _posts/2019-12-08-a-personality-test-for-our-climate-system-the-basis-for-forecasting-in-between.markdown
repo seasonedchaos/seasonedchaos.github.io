@@ -8,7 +8,8 @@ comments: true
 category: blog
 date: 2019-12-08
 img: s2s_intro_curves.png
-author: Kelsey Malloy
+authors: 
+- Kelsey Malloy
 
 ---
 
