@@ -7,7 +7,11 @@ comments: true
 category: blog
 date: 2021-02-26
 img: 2m_temp_PV_thumbnail.PNG
-authors: Kelsey Malloy and Kurt Hansen and Victoria Schoenwald and Marybeth Arcodia
+authors:
+- Kelsey Malloy
+- Kurt Hansen
+- Victoria Schoenwald
+- Marybeth Arcodia
 ---
 
 The “bubble” we live in and where our weather happens is just one thin layer of the atmosphere called the troposphere. Above that is the layer where dreams are made…well, that is if your dreams involve snowstorms, record cold, and other wild weather… 
