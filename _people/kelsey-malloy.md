@@ -4,6 +4,7 @@ layout: main
 ---
 
 <h2>Posts by {{ page.name }}:</h2>
+<ul>
 {% for post in site.posts %}
   {% assign authorCount = page.authors | size %}
   {% for author in post.authors %}
@@ -15,3 +16,4 @@ layout: main
     {% endif %}
   {% endfor %}
 {% endfor %}
+</ul>
