@@ -9,6 +9,7 @@ Check back later for bio.
 
 <section class="author-list">
   <h2>Posts by {{ page.name }}:</h2>
+  <ul>
   {% for post in site.posts %}
     {% assign authorCount = page.authors | size %}
     {% for author in post.authors %}
@@ -20,4 +21,5 @@ Check back later for bio.
       {% endif %}
     {% endfor %}
   {% endfor %}
+  </ul>
 </section>
