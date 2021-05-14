@@ -15,7 +15,3 @@ layout: main
     {% endif %}
   {% endfor %}
 {% endfor %}
-
-
-<h2>Bio</h2>
-  Check back later for bio.
