@@ -7,19 +7,18 @@ layout: main
 Check back later for bio.
 </div>
 
-<section class="author-list">
+<div class="post-list">
   <h2>Posts by {{ page.name }}:</h2>
-  <ul>
+
   {% for post in site.posts %}
     {% assign authorCount = page.authors | size %}
     {% for author in post.authors %}
       {% if author == page.name %}
-        <div class="tag-list">
+        <div class="author-list">
           <span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
           <small><span>| {{ post.date | date_to_string }}</span></small>
         </div>
       {% endif %}
     {% endfor %}
   {% endfor %}
-  </ul>
-</section>
+</div>
