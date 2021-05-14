@@ -3,22 +3,19 @@ name: Kelsey Malloy
 layout: main
 ---
 
-<article>
-  <h2>Bio</h2>
-  Check back later for bio.
-</article>
-
-<article>
-  <h2>Posts by {{ page.name }}:</h2>
-  {% for post in site.posts %}
-    {% assign authorCount = page.authors | size %}
-    {% for author in post.authors %}
-      {% if author == page.name %}
-        <div class="author-list">
-          <span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
-          <small><span>| {{ post.date | date_to_string }}</span></small>
-        </div>
-      {% endif %}
-    {% endfor %}
+<h2>Posts by {{ page.name }}:</h2>
+{% for post in site.posts %}
+  {% assign authorCount = page.authors | size %}
+  {% for author in post.authors %}
+     % if author == page.name %}
+      <div class="author-list">
+        <span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
+        <small><span>| {{ post.date | date_to_string }}</span></small>
+      </div>
+    {% endif %}
   {% endfor %}
-</article>
+{% endfor %}
+
+
+<h2>Bio</h2>
+  Check back later for bio.
