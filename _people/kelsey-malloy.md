@@ -3,8 +3,9 @@ name: Kelsey Malloy
 layout: main
 ---
 
+
+
 Check back later for bio.
-<br><br><br>
 
 <h2>Posts by {{ page.name }}:</h2>
 <ul>
