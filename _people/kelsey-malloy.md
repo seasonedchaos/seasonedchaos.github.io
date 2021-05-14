@@ -3,9 +3,11 @@ name: Kelsey Malloy
 layout: main
 ---
 
+<div class="author-bio">
+  <h2>Bio</h2>
+  Check back later for bio.
+</div>
 
-Check back later for bio.
-&nbsp;&nbsp;&nbsp;&nbsp;
 <div class="post-list">
   <h2>Posts by {{ page.name }}:</h2>
   {% for post in site.posts %}
