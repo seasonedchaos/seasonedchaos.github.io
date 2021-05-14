@@ -3,12 +3,12 @@ name: Kelsey Malloy
 layout: main
 ---
 
-<div class="author-bio">
+<section class="author-bio">
   <h2>Bio</h2>
   Check back later for bio.
-</div>
+</section>
 
-<div class="post-list">
+<section class="post-list">
   <h2>Posts by {{ page.name }}:</h2>
   {% for post in site.posts %}
     {% assign authorCount = page.authors | size %}
@@ -21,4 +21,4 @@ layout: main
       {% endif %}
     {% endfor %}
   {% endfor %}
-</div>
+</section>
