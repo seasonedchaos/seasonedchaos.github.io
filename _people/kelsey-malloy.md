@@ -3,12 +3,10 @@ name: Kelsey Malloy
 layout: main
 ---
 
-
-
 Check back later for bio.
+<hr>
 
 <h2>Posts by {{ page.name }}:</h2>
-<ul>
 {% for post in site.posts %}
   {% assign authorCount = page.authors | size %}
   {% for author in post.authors %}
@@ -20,5 +18,4 @@ Check back later for bio.
     {% endif %}
   {% endfor %}
 {% endfor %}
-</ul>
 
