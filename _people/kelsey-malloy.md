@@ -15,11 +15,12 @@ Bio TBD
 <h2 id="{{ this_author | cgi_escape }}">{{ this_author }}</h2>
 <!--  lists all posts corresponding to specific tag...-->
   {% for page in site.pages %}
-  {% for post in page.authors[this_author] %}{% if post.title != null %}
-  <div class="author-list">
-      <span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
-      <small><span>| {{ post.date | date_to_string }}</span></small>
-  </div>
-  {% endif %}{% endfor %}
+    {% for post in page.authors[this_author] %}{% if post.title != null %}
+    <div class="author-list">
+        <span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
+        <small><span>| {{ post.date | date_to_string }}</span></small>
+    </div>
+    {% endif %}{% endfor %}
+  {% endfor %}
 {% endfor %}
 
