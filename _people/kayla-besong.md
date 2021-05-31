@@ -20,7 +20,7 @@ layout: main
     {% endfor %}
     </ul>
     <h2>Bio</h2>
-    <p>Bio coming soon.</p>
+    <p>I am a soon to be 5th year PhD candidate who studies atmospheric blocking, how the location of blocking events affect U.S. weather, and influences on the blocking lifecycle from the ocean and atmosphere. Other work interests include the intersection of climate change and sustainability, effective science communication, and python programming. My undergraduate degree is a BA in environmental resources engineering from the SUNY College of Environmental Science and Forestry in Syracuse, NY. When I am not working you can find me making nachos or other kitchen concoctions, taking weather time-lapse videos, or really, anywhere outside.</p><aside>![Kayla Besong headshot]({{ site.url }}/assets/img/Besong_headshot.png)</aside>
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
 
