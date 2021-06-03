@@ -5,7 +5,7 @@ description: Can you believe it has already been a year since our last hurricane
 tags: [seasonal, weather, hurricanes, AMM]
 comments: true
 category: blog
-date: 2021-06-04
+date: 2021-06-03
 img: AMM_SC_thumbnail.png
 authors: 
 - Kurt Hansen
