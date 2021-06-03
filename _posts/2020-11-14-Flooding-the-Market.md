@@ -7,7 +7,8 @@ comments: true
 category: blog
 date: 2020-11-14
 img: SC_slowedGS_thumbnail.png
-author: victoria_schoenwald
+authors: 
+- Victoria Schoenwald
 ---
 
 Determining where and when coastal flooding will take place and what damages it will cause is like playing the stock market. In order to jump into the high-stakes game of finance, you need an initial investment, which will eventually increase or decrease. To dive into the coastal flooding market, our initial investment is the water level, and we want to see where and when it will go up or down. Tides are the greatest insight into coastal flooding since they determine what time of day and year water will be higher or lower around the world. 
