@@ -30,7 +30,7 @@ The notion of a chaotic atmosphere was devised by [Dr. Edward Lorenz](https://ww
 To illustrate how the small changes in initial conditions grow over time, see the video below which shows two simulated balls marked with an X with an almost undetectable difference in their starting location. However, their paths quickly diverge, and by the end of the simulation, it is hard to imagine they started in essentially the same location. The same happens in a weather forecast. A miniscule difference for a temperature measurement, let’s say, can produce an entirely different forecast, especially 10-14 days out. 
 <br><br>
 <!-- blank line -->
-<iframe width="840" height="472.5" src="https://youtu.be/3xuVc2auijc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="472.5" src="https://www.youtube.com/embed/3xuVc2auijc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><sub><i>This video depicts how small changes in initial positions can lead to wildly different trajectories. The animation was produced using Python and jupyter notebooks along with basic physics. To try it out for yourself, it can be found [here](https://github.com/seasonedchaos/seasonedchaos_codes) to download for yourself.</i></sub>
 <br><br>
 Why? Forecasts are made using observations at the time the forecast begins. We only have equipment to measure these variables at a finite number of weather stations, so the measurements have to be estimated for most locations. Furthermore, equipment isn’t perfect, so even the quantities taken at the weather stations have errors associated with them. Now, consider that temperature, wind, pressure, etc. quantities need to be calculated at millions of grid points to make a single weather forecast- that’s a lot of room for error. In fact, it’s actually quite remarkable that forecasts have any accuracy at all! 
@@ -40,7 +40,7 @@ This exact question was posed by Lorenz in [1972](https://mathsciencehistory.com
 The butterfly has a second link to chaos theory. Lorenz developed a simple set of equations to model atmospheric flow, known as a Lorenz system. The system is a set of three equations to calculate a variable's location in 3-dimensional space. The possible solutions eventually take the shape of a butterfly, with two main "wings", or states of a variable. A depiction of two independent states of the Lorenz system taking the shape of the chaos butterfly can be seen in the video below. More on the butterfly solutions to the Lorenz system here: Youtube video link.
 <br><br>
 <!-- blank line -->
-<iframe width="840" height="472.5" src="https://youtu.be/fqd3ocEkbHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="472.5" src="https://www.youtube.com/embed/fqd3ocEkbHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><sub><i>This video shows the resulting 'butterfly' when the Lorenz equations are solved. To try it out for yourself, it can be found [here](https://github.com/seasonedchaos/seasonedchaos_codes) to download.</i></sub>
 
 <br><br>
