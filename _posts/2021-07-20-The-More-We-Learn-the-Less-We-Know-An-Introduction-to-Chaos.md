@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The More We Learn, the Less We Know: An Introduction to Chaos
-description: The title of this post may seem awfully pessimistic -- but fret not -- it is actually the opposite! The beauty of science is that often the answer to a question opens up many subsequent questions...
+title: The More We Learn, the Less We Know&#58 An Introduction to Chaos
+description: The title of this post may seem awfully pessimistic -- but fret not -- it is actually the opposite! The beauty of science is... 
+excerpt: The title of this post may seem awfully pessimistic -- but fret not -- it is actually the opposite! The beauty of science is... 
 tags: [Chaos, subseasonal, weather, forecasting, Lorenz]
 comments: true
 category: blog
