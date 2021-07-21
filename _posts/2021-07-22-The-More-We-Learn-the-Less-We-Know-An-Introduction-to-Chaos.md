@@ -6,7 +6,7 @@ excerpt: The title of this post may seem awfully pessimistic -- but fret not -- 
 tags: [Chaos, subseasonal, weather, forecasting, Lorenz]
 comments: true
 category: blog
-date: 2021-07-20
+date: 2021-07-22
 img: lorenz_thumbnail.png 
 authors:
 - Marybeth Arcodia
