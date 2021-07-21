@@ -7,7 +7,7 @@ tags: [Chaos, subseasonal, weather, forecasting, Lorenz]
 comments: true
 category: blog
 date: 2021-07-20
-img: lorenz_thumbnail.png
+img: lorenz_thumbnail.png 
 authors:
 - Marybeth Arcodia
 ---
