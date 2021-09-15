@@ -6,7 +6,7 @@ tags: [climate, weather, blocking]
 comments: true
 category: blog
 Date: 09/15/2021
-img: climate_change_tumbnail.png
+img: climate_change_thumbnail.png
 authors: 
 - Kayla Besong
 ---
