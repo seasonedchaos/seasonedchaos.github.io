@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code Red#58 Our Hottest Post Yet
+title: Heatwaves, Cow Farts, and the Perfect Beach Spot&#58 Sorting Through the Science of Climate Change
 description: ICYMI the climate is changing. Between the ~unprecedented~ fires, floods, and heatwaves along with the recent release of the 6th Assessment Report...
 tags: [climate, weather, blocking]
 comments: true
