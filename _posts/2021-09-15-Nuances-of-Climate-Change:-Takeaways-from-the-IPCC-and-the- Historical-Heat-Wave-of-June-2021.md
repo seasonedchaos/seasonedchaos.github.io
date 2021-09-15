@@ -56,8 +56,6 @@ Let’s consider this from the beach, with your toes in the sand, waiting for th
 <br><br>
 Except, gradually, the water is getting closer and closer to that perfect shady spot where you place your chair. High tide starts around the time you expect, but your perfect spot has been inundated. You have to use your backup spot, the one you only sometimes use on windier days when the waves are higher, or during those pesky [King Tides](https://seasonedchaos.github.io/Flooding-the-Market/). 
 <br><br>
-<br><br>
-
 <img src="/assets/img/climate_change_fig2.png" width="90%">
 <br><sub><i> A depciction of how climate change is influencing background conditions and increasing the chances of extremes. 
 </i></sub>
