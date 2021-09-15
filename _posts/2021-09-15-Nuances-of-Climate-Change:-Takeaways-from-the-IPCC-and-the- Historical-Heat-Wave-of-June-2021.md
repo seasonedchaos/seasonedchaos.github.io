@@ -19,12 +19,10 @@ But how exactly are we to blame? How do our actions physically alter the global 
  
 For our planet to be habitable, we need greenhouse gases (GHGs)! They act sort of like Earth’s blanket, helping to regulate the temperature of the earth through the [greenhouse effect](https://climate.nasa.gov/causes/). However, at our current state and concentration of GHGs, it’s more like a winter comforter, trapping more heat. Oh, and we can’t take the comforter off.  
 <br><br>
-<br><br>
-<img src="/assets/img/126_Greenhouse_effect_revised_HD_English.m4v" width="90%">
+
+<iframe width="840" height="472.5" src="/assets/img/126_Greenhouse_effect_revised_HD_English.m4v" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><sub><i> The greenhouse effect from [NASA Climate](https://climate.nasa.gov/causes/)
 </i></sub>
-
-
 
 Humans emit GHGs,such as carbon dioxide at alarming, non-natural rates, so much so that carbon dioxide concentrations detected are the highest they have ever been in 2 million years[<sup>1</sup>](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf). Other GHGs, such as methane and nitrous oxide, are also their highest in 800,000 years[<sup>1</sup>](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf). There is no longer any doubt that human activity is responsible for this spike in GHG concentrations and driving the warming of our planet[<sup>1</sup>]<sup>,</sup>(https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf),</sup>[<sup>2</sup>](https://climate.nasa.gov/causes/)<sup>,</sup>[<sup>3</sup>](https://www.climate.gov/news-features/climate-qa/are-humans-causing-or-contributing-global-warming). Plus, while cow farts are often to blame for contributing a sizable amount of methane, they don't [fart](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions) <i>this</i>much[<sup>4</sup>](
 https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions).
@@ -54,7 +52,7 @@ Let’s consider this from the beach, with your toes in the sand, waiting for th
 Except, gradually, the water is getting closer and closer to that perfect shady spot where you place your chair. High tide starts around the time you expect, but your perfect spot has been inundated. You have to use your backup spot, the one you only sometimes use on windier days when the waves are higher, or during those pesky [King Tides](https://seasonedchaos.github.io/Flooding-the-Market/). 
 <br><br>
 <img src="/assets/img/climate_change_fig2.png" width="90%">
-<br><sub><i> A depciction of how climate change is influencing background conditions and increasing the chances of extremes. 
+<br><sub><i> Figure 1: A depciction of how climate change is influencing background conditions and increasing the chances of extremes. 
 </i></sub>
 <br><br>
 What you expected to occur --the high tide happening at a certain time--still does, but the background conditions are different and your backup spot is now your “always” spot. And the King Tides are more extreme than ever. There is no spot for your chair; the parking lot is usually flooded then, too. The push and pull of the tides are still happening. It is their nature -- they are just pushing and pulling farther than before. Climate variables are often considered background or antecedent conditions that influence the type of weather we may expect. The old extreme is the new normal. New normals or a [shift in the average](https://archive.ipcc.ch/ipccreports/tar/wg1/fig2-32.htm) conditions also results in ‘new’ or higher chances of extremes to occur. 
@@ -69,10 +67,10 @@ But the actual weather phenomena behind the event, [atmospheric blocking](https:
 <br><br>
 Attribution is tricky, and every event is different, but getting it right is important in order to maintain scientific integrity and help us, as a global community, become as resilient as possible in the wake of a warming world.
 
-
 <br><br>
 <div style="text-align: right"><i> Written by: Kayla Besong</i></div>
-<div style="text-align: right"><i> Graphics credit to: Fig. 1: [NASA Climate](https://climate.nasa.gov/causes/), Fig 2: Kayla Besong </i></div>
+<div style="text-align: right"><i> Graphics credit to: [NASA Climate](https://climate.nasa.gov/causes/) (first video), Kayla Besong (thumbnail, first figure)</i></div>
+<br><br>
 
 <br><br>
 Footnotes:
