@@ -72,8 +72,8 @@ But the actual weather phenomena behind the event, [atmospheric blocking](https:
 Attribution is tricky, and every event is different, but getting it right is important in order to maintain scientific integrity and help us, as a global community, become as resilient as possible in the wake of a warming world.
 
 <br><br>
-<div style="text-align: right"> Written by: Kayla Besong</div>
-<div style="text-align: right"> Graphics credit to: [NASA Climate](https://climate.nasa.gov/causes/) (first video), Kayla Besong (thumbnail, first figure)</i></div>
+<div style="text-align: right"><i>Written by: Kayla Besong<i></div>
+<div style="text-align: right"><i>Graphics credit to: [NASA Climate](https://climate.nasa.gov/causes/) (first video), Kayla Besong (thumbnail, first figure)</i></div>
 <br><br>
 
 <br><br>
