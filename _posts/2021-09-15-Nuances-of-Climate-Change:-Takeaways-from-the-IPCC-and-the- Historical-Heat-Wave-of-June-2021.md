@@ -93,7 +93,7 @@ Footnotes:
 <br>
 [<sup>7</sup>](https://science2017.globalchange.gov/chapter/3/#all-key-findings-div) Detection and attribution from the National Climate Assessment 
 <br>
-[<sup>8</sup](https://www.ipcc-data.org/guidelines/pages/glossary/glossary_c.html) IPCC glossary 
+[<sup>8</sup>]( https://www.ipcc-data.org/guidelines/pages/glossary/glossary_c.html) IPCC glossary 
 <br>
 [<sup>9</sup>](https://www.worldweatherattribution.org/wp-content/uploads/NW-US-extreme-heat-2021-scientific-report-WWA.pdf) World Weather Attribution rapid study on the Pacific Northwest heatwave of June, 2021
 <br>
