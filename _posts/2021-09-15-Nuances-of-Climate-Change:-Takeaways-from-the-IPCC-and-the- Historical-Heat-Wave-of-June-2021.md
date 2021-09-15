@@ -37,7 +37,7 @@ https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions).
 As a direct result of GHG increase, the average global surface temperature has risen 2.1°F (1.18°C) since the late 19th century[<sup>2</sup>](https://climate.nasa.gov/evidence/)<sup>,</sup>[<sup>5</sup>](https://www.co2.earth/co2-ice-core-data). This temperature rise triggers a domino-like effect of consequences occurring all over the globe: glacial retreat, warming of the oceans and their acidification, sea level rise,  changes in agricultural regions and growing seasons, more droughts and heat waves, as well as changes in precipitation patterns—to name a few[<sup>1</sup>](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf).
 <br><br> 
 <br><br>
-<img src="/assets/img/Quote1.png" width="90%">
+<img src="/assets/img/climate_change_IPCC_quote.png" width="90%">
 <br><br> 
 All these changes reported by the IPCC are a summary of scientific literature presented with quantifiable, varying degrees of confidence at which they have been detected and attributed. Detection and attribution are the ways in which climate scientists link the ‘what’ to the ‘why’. <br><br> 
 <h2>You know my methods, Watson</h2>
@@ -58,7 +58,7 @@ Except, gradually, the water is getting closer and closer to that perfect shady 
 <br><br>
 <br><br>
 
-<img src="/assets/img/Fog2.png" width="90%">
+<img src="/assets/img/climate_change_fig2.png" width="90%">
 <br><sub><i> A depciction of how climate change is influencing background conditions and increasing the chances of extremes. 
 </i></sub>
 <br><br>
