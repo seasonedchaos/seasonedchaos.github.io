@@ -20,12 +20,14 @@ But how exactly are we to blame? How do our actions physically alter the global 
 For our planet to be habitable, we need greenhouse gases (GHGs)! They act sort of like Earth’s blanket, helping to regulate the temperature of the earth through the [greenhouse effect](https://climate.nasa.gov/causes/). However, at our current state and concentration of GHGs, it’s more like a winter comforter, trapping more heat. Oh, and we can’t take the comforter off.  
 <br><br>
 <!-- blank line -->
-
-<video src="/assets/img/126_Greenhouse_effect_revised_HD_English.m4v" controls="controls" width="840" height="472.5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</video>
-<br><sub><i> The greenhouse effect from [NASA Climate](https://climate.nasa.gov/causes/)
+<div class="row video">
+   <iframe id="video" width="560" height="315" src="/assets/img/126_Greenhouse_effect_revised_HD_English.m4v"{% "eBzTCbGnlWo" %}" frameborder="0" allow="autoplay; encrypted-media
+       allowfullscreen></iframe>
+</div>
+<br>
+<sub><i> The greenhouse effect from [NASA Climate](https://climate.nasa.gov/causes/)
 </i></sub>
-
+<br>
 Humans emit GHGs,such as carbon dioxide at alarming, non-natural rates, so much so that carbon dioxide concentrations detected are the highest they have ever been in 2 million years[<sup>1</sup>](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf). Other GHGs, such as methane and nitrous oxide, are also their highest in 800,000 years[<sup>1</sup>](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf). There is no longer any doubt that human activity is responsible for this spike in GHG concentrations and driving the warming of our planet[<sup>1</sup>]<sup>,</sup>(https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf),</sup>[<sup>2</sup>](https://climate.nasa.gov/causes/)<sup>,</sup>[<sup>3</sup>](https://www.climate.gov/news-features/climate-qa/are-humans-causing-or-contributing-global-warming). Plus, while cow farts are often to blame for contributing a sizable amount of methane, they don't [fart](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions) <i>this</i>much[<sup>4</sup>](
 https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions).
 <br><br>
@@ -70,8 +72,8 @@ But the actual weather phenomena behind the event, [atmospheric blocking](https:
 Attribution is tricky, and every event is different, but getting it right is important in order to maintain scientific integrity and help us, as a global community, become as resilient as possible in the wake of a warming world.
 
 <br><br>
-<div style="text-align: right"><i> Written by: Kayla Besong</i></div>
- <div style="text-align: right"><i> Graphics credit to: </i>[<i>NASA Climate</i>](https://climate.nasa.gov/causes/) (first video), Kayla Besong (thumbnail, first figure)</i></div>
+<div style="text-align: right"> Written by: Kayla Besong</div>
+<div style="text-align: right"> Graphics credit to: [NASA Climate](https://climate.nasa.gov/causes/) (first video), Kayla Besong (thumbnail, first figure)</i></div>
 <br><br>
 
 <br><br>
