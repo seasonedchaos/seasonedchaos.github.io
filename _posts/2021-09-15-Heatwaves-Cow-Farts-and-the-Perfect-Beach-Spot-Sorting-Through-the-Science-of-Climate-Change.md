@@ -20,7 +20,7 @@ But how exactly are we to blame? How do our actions physically alter the global 
 For our planet to be habitable, we need greenhouse gases (GHGs)! They act sort of like Earth’s blanket, helping to regulate the temperature of the earth through the [greenhouse effect](https://climate.nasa.gov/causes/). However, at our current state and concentration of GHGs, it’s more like a winter comforter, trapping more heat. Oh, and we can’t take the comforter off.  
 <br><br>
 <!-- blank line -->
-<video src="/assets/img/126_Greenhouse_effect_revised_HD_English.m4v" controls="controls" width="840" height="472.5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+<video src="/assets/img/126_Greenhouse_effect_revised_HD_English.m4v" controls="controls" width="80%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
 </video>
 <sub><i> The greenhouse effect from [NASA Climate](https://climate.nasa.gov/causes/)
 </i></sub>
