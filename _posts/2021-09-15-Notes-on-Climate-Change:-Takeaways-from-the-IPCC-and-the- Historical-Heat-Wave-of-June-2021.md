@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuances of Climate Change&#58 Takeaways from the IPCC and the Historical Heat Wave of June 2021
+title: Notes on Climate Change&#58 Takeaways from the IPCC and the Historical Heat Wave of June 2021
 description: ICYMI the climate is changing. Between the ~unprecedented~ fires, floods, and heatwaves along with the recent release of the 6th Assessment Report...
 tags: [climate, weather, blocking]
 comments: true
