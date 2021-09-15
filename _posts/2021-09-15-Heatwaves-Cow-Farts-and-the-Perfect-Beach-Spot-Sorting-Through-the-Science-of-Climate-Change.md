@@ -71,7 +71,7 @@ Attribution is tricky, and every event is different, but getting it right is imp
 
 <br><br>
 <div style="text-align: right"> <i>Written by: Kayla Besong</i> </div>
-<div style="text-align: right"> <i>Graphics credit to: </i> [NASA Climate](https://climate.nasa.gov/causes/)</i><i>(first video), Kayla Besong (thumbnail, first figure)</i></div>
+<div style="text-align: right"> <i>Graphics credit to: climate.nasa.gov/causes/)(first video), Kayla Besong (thumbnail, first figure)</i></div>
 <br><br>
 
 <br><br>
