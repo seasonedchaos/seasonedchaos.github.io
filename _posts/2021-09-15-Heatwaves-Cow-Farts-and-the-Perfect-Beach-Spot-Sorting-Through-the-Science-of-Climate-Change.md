@@ -6,7 +6,7 @@ tags: [climate, weather, blocking]
 comments: true
 category: blog
 Date: 09/15/2021
-img: climate_change_thumbnail.png
+img: climate_change_tumbnail.png
 authors: 
 - Kayla Besong
 ---
@@ -22,10 +22,9 @@ For our planet to be habitable, we need greenhouse gases (GHGs)! They act sort o
 <!-- blank line -->
 <video src="/assets/img/126_Greenhouse_effect_revised_HD_English.m4v" controls="controls" width="840" height="472.5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
 </video>
-<br>
 <sub><i> The greenhouse effect from [NASA Climate](https://climate.nasa.gov/causes/)
 </i></sub>
-<br>
+<br><br>
 Humans emit GHGs,such as carbon dioxide at alarming, non-natural rates, so much so that carbon dioxide concentrations detected are the highest they have ever been in 2 million years.[<sup>1</sup>](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf) Other GHGs, such as methane and nitrous oxide, are also their highest in 800,000 years.[<sup>1</sup>](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf) There is no longer any doubt that human activity is responsible for this spike in GHG concentrations and driving the warming of our planet.[<sup>1</sup>]<sup>,</sup>(https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf),</sup>[<sup>2</sup>](https://climate.nasa.gov/causes/)<sup>,</sup>[<sup>3</sup>](https://www.climate.gov/news-features/climate-qa/are-humans-causing-or-contributing-global-warming) Plus, while cow farts are often to blame for contributing a sizable amount of methane, they don't [fart](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions) <i>this</i>much.[<sup>4</sup>](
 https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions)
 <br><br>
