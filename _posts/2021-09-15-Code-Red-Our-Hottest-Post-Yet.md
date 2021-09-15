@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Notes on Climate Change&#58 Takeaways from the IPCC and the Historical Heat Wave of June 2021
+title: Code Red#58 Our Hottest Post Yet
 description: ICYMI the climate is changing. Between the ~unprecedented~ fires, floods, and heatwaves along with the recent release of the 6th Assessment Report...
 tags: [climate, weather, blocking]
 comments: true
 category: blog
 Date: 09/15/2021
-img: climate_change_fig2.png
+img: climate_change_thumbnail.png
 authors: 
 - Kayla Besong
 ---
@@ -55,7 +55,7 @@ Let’s consider this from the beach, with your toes in the sand, waiting for th
 <br><br>
 Except, gradually, the water is getting closer and closer to that perfect shady spot where you place your chair. High tide starts around the time you expect, but your perfect spot has been inundated. You have to use your backup spot, the one you only sometimes use on windier days when the waves are higher, or during those pesky [King Tides](https://seasonedchaos.github.io/Flooding-the-Market/). 
 <br><br>
-<img src="/assets/img/climate_change_fig2.png" width="90%">
+<img src="/assets/img/climate_change_fig_tide.png" width="90%">
 <br><sub><i> Figure 1: A depciction of how climate change is influencing background conditions and increasing the chances of extremes. 
 </i></sub>
 <br><br>
