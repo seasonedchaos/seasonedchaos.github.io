@@ -1,18 +1,16 @@
 ---
 layout: post
-title: Nuances of Climate Change: Takeaways from the IPCC and the Historical Heat Wave of June 2021
-description: ICYMI the climate is changing. Between the <i>~unprecedented~</i> fires, floods, and heatwaves along with the recent release of the 6th Assessment Report...
+title: Nuances of Climate Change&#58 Takeaways from the IPCC and the Historical Heat Wave of June 2021
+description: ICYMI the climate is changing. Between the ~unprecedented~ fires, floods, and heatwaves along with the recent release of the 6th Assessment Report...
 tags: [climate, weather, blocking]
 comments: true
 category: blog
 Date: 09/15/2021
-img: 
+img: climate_change_fig2.png
 authors: 
 - Kayla Besong
 ---
  
-
-
 [ICYMI](https://www.merriam-webster.com/words-at-play/what-is-icymi#:~:text=In%20case%20you%20missed%20it,in%20case%20you%20missed%20it.) the climate is changing. Between the ~<i>unprecedented</i>~ fires, floods, and heatwaves along with the recent release of the 6th Assessment Report from the Intergovernmental Panel on Climate Change (IPCC AR6), it is more clear than ever: our climate is changing, these changes are happening globally, and humans are unequivocally the cause [<sup>1</sup>](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf)
 <br><br>
 But how exactly are we to blame? How do our actions physically alter the global climate? Are all extreme weather events now <i>caused</i> by climate change? Seasoned Chaos is here to help answer some of these questions, clarify misconceptions surrounding climate change, and shed light on the nuance of this thing called attribution.
@@ -68,7 +66,7 @@ Climate change is therefore 1) <i>influencing</i> the background conditions at w
 
 The heat wave over the Pacific Northwest of the U.S. of this past 2021 summer is an example of understanding the nuance of attribution. From June 27-29th temperatures reached triple digits, causing extreme conditions for communities in that region. Following a [rapid attribution study](https://www.worldweatherattribution.org/wp-content/uploads/NW-US-extreme-heat-2021-scientific-report-WWA.pdf) presented by the World Weather Attribution[<sup>9</sup>]( https://www.worldweatherattribution.org/wp-content/uploads/NW-US-extreme-heat-2021-scientific-report-WWA.pdf), the temperatures experienced would have been ‘virtually impossible’ without human-induced warming. 
 <br><br>
-But the actual weather phenomena behind the event, [atmospheric blocking](https://seasonedchaos.github.io/Traffic-Jams-and-Club-Sandwiches-in-the-Atmosphere-An-Overview-of-Blocking/), was not a wildly abnormal occurrence for the region; WWA found this account as “likely not exceptional[<sup>9</sup>]( https://www.worldweatherattribution.org/wp-content/uploads/NW-US-extreme-heat-2021-scientific-report-WWA.pdf)." Blocking is known to cause extreme weather conditions. In fact, 80% of Northern Hemisphere six-hourly warm temperature extremes can be linked to blocking events[<sup>10</sup](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012GL052261. While other regional factors such as localized drought and topography may have also played a role[<sup>9</sup>]( https://www.worldweatherattribution.org/wp-content/uploads/NW-US-extreme-heat-2021-scientific-report-WWA.pdf), in short, there was a ‘normal’ weather event acting in a changed climate. 
+But the actual weather phenomena behind the event, [atmospheric blocking](https://seasonedchaos.github.io/Traffic-Jams-and-Club-Sandwiches-in-the-Atmosphere-An-Overview-of-Blocking/), was not a wildly abnormal occurrence for the region; WWA found this account as “likely not exceptional[<sup>9</sup>]( https://www.worldweatherattribution.org/wp-content/uploads/NW-US-extreme-heat-2021-scientific-report-WWA.pdf)." Blocking is known to cause extreme weather conditions. In fact, 80% of Northern Hemisphere six-hourly warm temperature extremes can be linked to blocking events[<sup>10</sup](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012GL052261.) While other regional factors such as localized drought and topography may have also played a role[<sup>9</sup>](https://www.worldweatherattribution.org/wp-content/uploads/NW-US-extreme-heat-2021-scientific-report-WWA.pdf), in short, there was a ‘normal’ weather event acting in a changed climate. 
 <br><br>
 Attribution is tricky, and every event is different, but getting it right is important in order to maintain scientific integrity and help us, as a global community, become as resilient as possible in the wake of a warming world.
 
@@ -88,7 +86,7 @@ Footnotes:
 <br>
 [<sup>4</sup>](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions) EPA breakdown of greenhouse gas emission sources in the U.S.
 <br>
-[<sup>5</sup>] Luthi, D., et al.. 2008; Etheridge, D.M., et al. 2010; Vostok ice core data/J.R. Petit et al.; NOAA Mauna Loa CO2 record.
+[<sup>5</sup>](https://doi.pangaea.de/10.1594/PANGAEA.710901) Luthi, D., et al.. 2008; Etheridge, D.M., et al. 2010; Vostok ice core data/J.R. Petit et al.; NOAA Mauna Loa CO2 record.
 <br>
 [<sup>6</sup>](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter10_FINAL.pdf) IPCC 2018 Special Report Chapter 10 on detection and attribution 
  <br>
@@ -98,4 +96,4 @@ Footnotes:
 <br>
 [<sup>9</sup>](https://www.worldweatherattribution.org/wp-content/uploads/NW-US-extreme-heat-2021-scientific-report-WWA.pdf) World Weather Attribution rapid study on the Pacific Northwest heatwave of June, 2021
 <br>
-[<sup>10</sup] Pfahl, S., and Wernli, H. (2012), Quantifying the relevance of atmospheric blocking for co-located temperature extremes in the Northern Hemisphere on (sub-)daily time scales, Geophys. Res. Lett., 39, L12807, doi:10.1029/2012GL052261.
+[<sup>10</sup](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012GL052261.) Pfahl, S., and Wernli, H. (2012), Quantifying the relevance of atmospheric blocking for co-located temperature extremes in the Northern Hemisphere on (sub-)daily time scales, Geophys. Res. Lett., 39, L12807, doi:10.1029/2012GL052261.
