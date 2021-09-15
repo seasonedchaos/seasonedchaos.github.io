@@ -34,7 +34,6 @@ https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions).
  
 As a direct result of GHG increase, the average global surface temperature has risen 2.1°F (1.18°C) since the late 19th century[<sup>2</sup>](https://climate.nasa.gov/evidence/)<sup>,</sup>[<sup>5</sup>](https://www.co2.earth/co2-ice-core-data). This temperature rise triggers a domino-like effect of consequences occurring all over the globe: glacial retreat, warming of the oceans and their acidification, sea level rise,  changes in agricultural regions and growing seasons, more droughts and heat waves, as well as changes in precipitation patterns—to name a few[<sup>1</sup>](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf).
 <br><br> 
-<br><br>
 <img src="/assets/img/climate_change_IPCC_quote.png" width="90%">
 <br><br> 
 All these changes reported by the IPCC are a summary of scientific literature presented with quantifiable, varying degrees of confidence at which they have been detected and attributed. Detection and attribution are the ways in which climate scientists link the ‘what’ to the ‘why’. <br><br> 
@@ -89,7 +88,7 @@ Footnotes:
 [<sup>5</sup>](https://doi.pangaea.de/10.1594/PANGAEA.710901) Luthi, D., et al.. 2008; Etheridge, D.M., et al. 2010; Vostok ice core data/J.R. Petit et al.; NOAA Mauna Loa CO2 record.
 <br>
 [<sup>6</sup>](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter10_FINAL.pdf) IPCC 2018 Special Report Chapter 10 on detection and attribution 
- <br>
+<br>
 [<sup>7</sup>](https://science2017.globalchange.gov/chapter/3/#all-key-findings-div) Detection and attribution from the National Climate Assessment 
 <br>
 [<sup>8</sup](https://www.ipcc-data.org/guidelines/pages/glossary/glossary_c.html) IPCC glossary 
