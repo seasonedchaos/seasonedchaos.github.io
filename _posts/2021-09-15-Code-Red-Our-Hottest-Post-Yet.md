@@ -11,7 +11,7 @@ authors:
 - Kayla Besong
 ---
  
-[ICYMI](https://www.merriam-webster.com/words-at-play/what-is-icymi#:~:text=In%20case%20you%20missed%20it,in%20case%20you%20missed%20it.) the climate is changing. Between the ~<i>unprecedented</i>~ fires, floods, and heatwaves along with the recent release of the 6th Assessment Report from the Intergovernmental Panel on Climate Change (IPCC AR6), it is more clear than ever: our climate is changing, these changes are happening globally, and humans are unequivocally the cause. [<sup>1</sup>](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf)
+[ICYMI](https://www.merriam-webster.com/words-at-play/what-is-icymi#:~:text=In%20case%20you%20missed%20it,in%20case%20you%20missed%20it.) the climate is changing. Between the ~ <i>unprecedented</i> ~ fires, floods, and heatwaves along with the recent release of the 6th Assessment Report from the Intergovernmental Panel on Climate Change (IPCC AR6), it is more clear than ever: our climate is changing, these changes are happening globally, and humans are unequivocally the cause. [<sup>1</sup>](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf)
 <br><br>
 But how exactly are we to blame? How do our actions physically alter the global climate? Are all extreme weather events now <i>caused</i> by climate change? Seasoned Chaos is here to help answer some of these questions, clarify misconceptions surrounding climate change, and shed light on the nuance of this thing called attribution.
 <br><br>
