@@ -47,7 +47,7 @@ As mentioned in the last section, the residents of West Coast states rely on ext
 The consequence of this hydrologic tug-of-war is that, as temperatures continue to rise, atmospheric rivers will contribute more towards total annual precipitation along the US West Coast, which means atmospheric rivers will be more heavily relied on for the generation of water resources than ever before. However, this will be a double-edged sword, as these water-bearing atmospheric rivers are projected to become more extreme, delivering greater amounts of precipitation per event which will generate more frequent and widespread flooding while also putting more strain on infrastructure and water management systems. With the impacts of atmospheric rivers poised to become even more challenging to manage in the future, enhanced subseasonal to seasonal prediction of these phenomena will act as the life jackets, paddles, and rafts helping us navigate the increasingly formidable rapids of future atmospheric rivers.
 <br><br>
 <div style="text-align: right"> <i>Written by: Breanna Zavadoff</i> </div>
-<div style="text-align: right"> <i>Graphics credit to: Kayla Besong and Kelsey Malloy (figure, thumbnail), [CIMMS archive](http://tropic.ssec.wisc.edu/real-time/mtpw2/product.php?color_type=tpw_nrl_colors&prod=global2&timespan=24hrs&anim=html5) and Kayla Besong (Jupyter notebook to create gif)</i></div>
+<div style="text-align: right"> <i>Graphics credit to: Kayla Besong and Kelsey Malloy (figure, thumbnail), CIMMS archive (MIMIC-TPW imagery access) and Kayla Besong (Jupyter notebook to create gif)</i></div>
 <br><br>
 Footnotes:
 <br>
