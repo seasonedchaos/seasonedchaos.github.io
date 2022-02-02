@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heatwaves, Cow Farts, and the Perfect Beach Spot&#58 Sorting Through the Science of Climate Change
-description: ICYMI the climate is changing. Between the ~unprecedented~ fires, floods, and heatwaves along with the recent release of the 6th Assessment Report...
+description: ICYMI the climate is changing. Between the unprecedented fires, floods, and heatwaves along with the recent release of the 6th Assessment Report...
 tags: [climate, weather, blocking]
 comments: true
 category: blog
@@ -10,7 +10,7 @@ img: climate_change_thumbnail.png
 authors: 
 - Kayla Besong
 ---
- 
+
 [ICYMI](https://www.merriam-webster.com/words-at-play/what-is-icymi#:~:text=In%20case%20you%20missed%20it,in%20case%20you%20missed%20it.) the climate is changing. Between the ~ <i>unprecedented</i> ~ fires, floods, and heatwaves along with the recent release of the 6th Assessment Report from the Intergovernmental Panel on Climate Change (IPCC AR6), it is more clear than ever: our climate is changing, these changes are happening globally, and humans are unequivocally the cause. [<sup>1</sup>](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf)
 <br><br>
 But how exactly are we to blame? How do our actions physically alter the global climate? Are all extreme weather events now <i>caused</i> by climate change? Seasoned Chaos is here to help answer some of these questions, clarify misconceptions surrounding climate change, and shed light on the nuance of this thing called attribution.
@@ -19,7 +19,7 @@ But how exactly are we to blame? How do our actions physically alter the global 
  
 For our planet to be habitable, we need greenhouse gases (GHGs)! They act sort of like Earth’s blanket, helping to regulate the temperature of the earth through the [greenhouse effect](https://climate.nasa.gov/causes/). However, at our current state and concentration of GHGs, it’s more like a winter comforter, trapping more heat. Oh, and we can’t take the comforter off.  
 <br><br>
-<video style="width:100%;height:100%" src="/assets/img/126_Greenhouse_effect_revised_HD_English.m4v" controls="controls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+<video style="width:90%;height:100%" src="/assets/img/126_Greenhouse_effect_revised_HD_English.m4v" controls="controls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
 </video>
 <sub><i> The greenhouse effect from [NASA Climate](https://climate.nasa.gov/causes/)
 </i></sub>
