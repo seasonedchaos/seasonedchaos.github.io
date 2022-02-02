@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Whitewater Rafting Down an Atmospheric River
-excerpt: 'Before any whitewater rafting trip, one should always be sure they have everything they need. Life jackets? Check! Paddles? Check!'
+description: Before any whitewater rafting trip, one should always be sure they have everything they need. Life jackets? Check! Paddles? Check!
 tags: [weather, ENSO, MJO, climate]
 comments: true
 category: blog
