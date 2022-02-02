@@ -7,8 +7,7 @@ comments: true
 category: blog
 Date: 02/02/2022
 img: SC_AR_thumbnail.png
-authors: 
-- Breanna Zavadoff
+authors: Breanna Zavadoff
 ---
 <div style="text-align: center">Breanna Zavadoff</div>
 <br>
