@@ -31,17 +31,17 @@ Now that we have some information on our victims, let’s dig into potential sus
 
 <h2>Suspects At-Large</h2>
 
-<u>Suspect #1 Transitional Season</u>
+<h3><u>Suspect #1 Transitional Season</u></h3>
 
 Springtime brings challenges to prediction through chaos-driven errors. Our case is a “crime of opportunity” due to ENSO being in a transitional period after its winter peak. Sea surface temperature and sea level pressure anomalies - departures from “long-term average” - are weakest during this time, while the noise (a measure of chaos) in the tropical Pacific air-sea system remains high. Therefore, the [signal to noise ratio](https://www.climate.gov/news-features/blogs/enso/enso-signal-and-noise) is small in spring and forecasts are more sensitive to [variability](https://seasonedchaos.github.io/The-More-We-Learn-the-Less-We-Know-An-Introduction-to-Chaos/). The smaller anomalies make it harder to “catch” which phase ENSO we will be going into for the coming year.
 
-<u>Suspect #2 The coupled atmosphere-ocean system: the climate Bonnie and Clyde</u>
+<h3><u>Suspect #2 The coupled atmosphere-ocean system: the climate Bonnie and Clyde</u></h3>
 
 Another suspect in the case of robbed predictability is the coupled atmosphere-ocean system. Blame can be placed on the [Bjerknes feedback](https://seasonedchaos.github.io/Round-1-ENSO-is-King/), a mechanism by which ENSO events develop and sustain themselves in a coupled atmosphere-ocean system. Lower sea surface temperatures in the spring weaken the coupling between the ocean and the atmosphere, reducing the predictability that both the ocean and the atmosphere provide. 
 
 Scientists’ limitations in gathering data escalates the weak coupled atmosphere-ocean system’s crime. In cases when El Nino is developing, the future ocean state is highly dependent on initial ocean conditions. Models are only as good as the data we give them. We have limited observations of ocean temperature, especially below the surface, which causes our models to underrepresent the current state of the ocean. If a model is a little off in their forecast of winds, thunderstorms, or sea surface temperatures (SSTs), [these initial errors grow over time](https://seasonedchaos.github.io/The-More-We-Learn-the-Less-We-Know-An-Introduction-to-Chaos/) because of the climate feedbacks. These errors will continue to snowball until after spring. As ENSO matures, SST anomalies grow and the stronger coupled system provides higher ENSO predictability.
 
-<u>Suspect #3 Asian Summer Monsoon</u>
+<h3><u>Suspect #3 Asian Summer Monsoon</u></h3>
 
 The final suspect in this case is the Asian summer monsoon, who has always been jealous of ENSO’s success at captivating much of the globe through its influence on climate. “Monsoon” comes from the Arabic word “mausim”, meaning “seasonal reversal of winds”, originally termed by sailors in the Arabian Sea who noticed this wind reversal that coincided with changing rainfall patterns. This wind shift is due to the transitional seasonal heating over South Asia from winter to summer. The Asian summer monsoon impacts billions of people directly and is a key (lime) slice of the [weather pattern pie](https://seasonedchaos.github.io/What-Can-the-Tropics-Tell-Us-About-Next-Weeks-Weather/) itself, making it a whole other topic that we’ll cover in a future post.
 
@@ -60,7 +60,7 @@ While there are many potential suspects for this case, the reality is that in an
 
 Footnotes:
 <br>
-[<sup>1</sup>](https://www.researchgate.net/publication/258790498_The_'spring_predictability_barrier'_for_ENSO_predictions_and_its_possible_mechanism_Results_from_a_fully_coupled_model)
+[<sup>1</sup>](https://www.researchgate.net/publication/258790498_The_'spring_predictability_barrier'_for_ENSO_predictions_and_its_possible_mechanism_Results_from_a_fully_coupled_model) ENSO Blog on the spring predictability barrier.
 <br>
 [<sup>2</sup>](https://doi.org/10.1002/2014jd021908) Lopez, H., &amp; Kirtman, B. P. (2014). WWBs, ENSO predictability, the spring barrier and extreme events. Journal of Geophysical Research: Atmospheres, 119(17). https://doi.org/10.1002/2014jd021908
 <br>
