@@ -6,7 +6,7 @@ tags: [predictability, ENSO, seasonal, climate]
 comments: true
 category: blog
 Date: 04/20/2022
-img: SC_AR_thumbnail.png
+img: SPB_thumbnail.png
 authors: 
 - Kurt Hansen
 - Victoria Schoenwald
