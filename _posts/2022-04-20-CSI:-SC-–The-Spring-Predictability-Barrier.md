@@ -72,7 +72,7 @@ While there are many potential suspects for this case, the reality is that in an
 <div style="text-align: right"> <i>Graphics credit to: Kayla Besong (thumbnail, first figure), Kelsey Malloy (second figure)</i></div>
 <br><br>
 
-Footnotes:
+References:
 <br>
 1. [ENSO Blog on the spring predictability barrier](https://www.researchgate.net/publication/258790498_The_'spring_predictability_barrier'_for_ENSO_predictions_and_its_possible_mechanism_Results_from_a_fully_coupled_model).
 <br>
