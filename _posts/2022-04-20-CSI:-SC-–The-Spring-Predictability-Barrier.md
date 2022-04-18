@@ -74,15 +74,15 @@ While there are many potential suspects for this case, the reality is that in an
 
 Footnotes:
 <br>
-[<sup>1</sup>](https://www.researchgate.net/publication/258790498_The_'spring_predictability_barrier'_for_ENSO_predictions_and_its_possible_mechanism_Results_from_a_fully_coupled_model) ENSO Blog on the spring predictability barrier.
+1.  (https://www.researchgate.net/publication/258790498_The_'spring_predictability_barrier'_for_ENSO_predictions_and_its_possible_mechanism_Results_from_a_fully_coupled_model) ENSO Blog on the spring predictability barrier.
 <br>
-[<sup>2</sup>](https://doi.org/10.1002/2014jd021908) Lopez, H., &amp; Kirtman, B. P. (2014). WWBs, ENSO predictability, the spring barrier and extreme events. Journal of Geophysical Research: Atmospheres, 119(17). https://doi.org/10.1002/2014jd021908
+2. (https://doi.org/10.1002/2014jd021908) Lopez, H., &amp; Kirtman, B. P. (2014). WWBs, ENSO predictability, the spring barrier and extreme events. Journal of Geophysical Research: Atmospheres, 119(17). https://doi.org/10.1002/2014jd021908
 <br>
-[<sup>3</sup>](https://doi.org/10.1007/s00382-015-2789-5) Duan, W., &amp; Hu, J. (2015). The initial errors that induce a significant “spring predictability barrier” for El Niño events and their implications for target observation: Results from an earth system model. Climate Dynamics, 46(11-12), 3599–3615. https://doi.org/10.1007/s00382-015-2789-5
+3. (https://doi.org/10.1007/s00382-015-2789-5) Duan, W., &amp; Hu, J. (2015). The initial errors that induce a significant “spring predictability barrier” for El Niño events and their implications for target observation: Results from an earth system model. Climate Dynamics, 46(11-12), 3599–3615. https://doi.org/10.1007/s00382-015-2789-5
 <br>
-[<sup>4</sup>](https://link.springer.com/article/10.1007/s00382-016-3290-5) Larson, S. M., &amp; Kirtman, B. P. (2016, July 27). Drivers of coupled model ENSO error dynamics and the spring predictability barrier - climate dynamics. SpringerLink. Retrieved April 15, 2022, from https://link.springer.com/article/10.1007/s00382-016-3290-5 
+4. (https://link.springer.com/article/10.1007/s00382-016-3290-5) Larson, S. M., &amp; Kirtman, B. P. (2016, July 27). Drivers of coupled model ENSO error dynamics and the spring predictability barrier - climate dynamics. SpringerLink. Retrieved April 15, 2022, from https://link.springer.com/article/10.1007/s00382-016-3290-5 
 <br>
-[<sup>5</sup>](https://doi.org/10.1256/smsqj.53207) LAU, K. M., &amp; YANG, S. O. N. G. (1996). The Asian monsoon and predictability of the tropical ocean-atmosphere system. Quarterly Journal of the Royal Meteorological Society, 122(532), 945–957. https://doi.org/10.1256/smsqj.53207 
+5. (https://doi.org/10.1256/smsqj.53207) LAU, K. M., &amp; YANG, S. O. N. G. (1996). The Asian monsoon and predictability of the tropical ocean-atmosphere system. Quarterly Journal of the Royal Meteorological Society, 122(532), 945–957. https://doi.org/10.1256/smsqj.53207 
 <br>
-[<sup>6</sup>](https://doi.org/10.1002/qj.49712656211) Kirtman, B. P., &amp; Shukla, J. (2000). Influence of the Indian summer monsoon on enso. Quarterly Journal of the Royal Meteorological Society, 126(562), 213–239. https://doi.org/10.1002/qj.49712656211 
+6. (https://doi.org/10.1002/qj.49712656211) Kirtman, B. P., &amp; Shukla, J. (2000). Influence of the Indian summer monsoon on enso. Quarterly Journal of the Royal Meteorological Society, 126(562), 213–239. https://doi.org/10.1002/qj.49712656211 
 <br>
