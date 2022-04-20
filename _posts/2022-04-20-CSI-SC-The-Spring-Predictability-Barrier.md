@@ -75,7 +75,7 @@ While there are many potential suspects for this case, the reality is that in an
 
 References:
 <br>
-1. [ENSO Blog on the spring predictability barrier](https://www.researchgate.net/publication/258790498_The_'spring_predictability_barrier'_for_ENSO_predictions_and_its_possible_mechanism_Results_from_a_fully_coupled_model).
+1. [ENSO Blog on the spring predictability barrier](https://www.climate.gov/news-features/blogs/enso/spring-predictability-barrier-we%E2%80%99d-rather-be-spring-break).
 <br>
 2. Lopez, H., &amp; Kirtman, B. P. (2014). WWBs, ENSO predictability, the spring barrier and extreme events. Journal of Geophysical Research: Atmospheres, 119(17). [https://doi.org/10.1002/2014jd021908](https://doi.org/10.1002/2014jd021908)
 <br>
