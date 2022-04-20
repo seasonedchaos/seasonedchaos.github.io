@@ -68,7 +68,7 @@ While there are many potential suspects for this case, the reality is that in an
 
 <br><br>
 <div style="text-align: right"> <i>Written by: Kurt Hansen, Victoria Schoenwald, Marybeth Arcodia, Kayla Besong, Kelsey Malloy</i> </div>
-<div style="text-align: right"> <i>Graphics credit to: Kayla Besong (thumbnail, first figure), Kelsey Malloy (second figure)</i></div>
+<div style="text-align: right"> <i>Graphics credit to: Kayla Besong (thumbnail, first figure), Kelsey Malloy ("WANTED" posters)</i></div>
 <br><br>
 
 References:
