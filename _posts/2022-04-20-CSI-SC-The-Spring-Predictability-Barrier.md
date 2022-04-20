@@ -36,7 +36,7 @@ Now that we have some information on our victims, let’s dig into potential sus
 Springtime brings challenges to prediction through chaos-driven errors. Our case is a “crime of opportunity” due to ENSO being in a transitional period after its winter peak. Sea surface temperature and sea level pressure anomalies - departures from “long-term average” - are weakest during this time, while the noise (a measure of chaos) in the tropical Pacific air-sea system remains high. Therefore, the [signal to noise ratio](https://www.climate.gov/news-features/blogs/enso/enso-signal-and-noise) is small in spring and forecasts are more sensitive to [variability](https://seasonedchaos.github.io/The-More-We-Learn-the-Less-We-Know-An-Introduction-to-Chaos/). The smaller anomalies make it harder to “catch” which phase ENSO we will be going into for the coming year.
 
 <br><br> 
-<img src="/assets/img/SC_WANTED_seasontransition.png" width="60%">
+<img src="/assets/img/SC_WANTED_seasontransition.png" width="60%" class="center">
 <br><br> 
 
 <h3><u>Suspect #2 The coupled atmosphere-ocean system: the climate Bonnie and Clyde</u></h3>
@@ -46,7 +46,7 @@ Another suspect in the case of robbed predictability is the coupled atmosphere-o
 Scientists’ limitations in gathering data escalates the weak coupled atmosphere-ocean system’s crime. In cases when El Nino is developing, the future ocean state is highly dependent on initial ocean conditions. Models are only as good as the data we give them. We have limited observations of ocean temperature, especially below the surface, which causes our models to underrepresent the current state of the ocean. If a model is a little off in their forecast of winds, thunderstorms, or sea surface temperatures (SSTs), [these initial errors grow over time](https://seasonedchaos.github.io/The-More-We-Learn-the-Less-We-Know-An-Introduction-to-Chaos/) because of the climate feedbacks. These errors will continue to snowball until after spring. As ENSO matures, SST anomalies grow and the stronger coupled system provides higher ENSO predictability.
 
 <br><br> 
-<img src="/assets/img/SC_WANTED_coupledsys.png" width="60%">
+<img src="/assets/img/SC_WANTED_coupledsys.png" width="60%" class="center">
 <br><br> 
 
 <h3><u>Suspect #3 Asian Summer Monsoon</u></h3>
@@ -58,8 +58,7 @@ Okay, okay, now that we covered the suspect’s bio, back to the crime at hand. 
 The tricky part is that the tropical Pacific winds are hard to predict in the spring regardless of ENSO or the monsoon. Since the winds are hard to predict, this makes ENSO and the monsoon hard to predict. Plus, the winds are a part of our coupled ocean-atmosphere system (hint hint, suspect #2). It’s ultimately a case of the chicken and the egg. Overall, while the monsoon is guilty of some crimes, whether these crimes are tied to the SPB of ENSO or are part of a different case entirely, is inconclusive.
 
 <br><br> 
-<img src="/assets/img/SC_WANTED_monsoon.gif" width="60%">
-<br><br> 
+<img src="/assets/img/SC_WANTED_monsoon.gif" width="60%" class="center">
 <br><sub><i>Monsoon animation features the seasonal cycle of rainfall advancement/retreat. Gif courtesy of Google Earth Engine, which uses data from the Climate Hazards Group InfraRed Precipitation with Station data (CHIRPS) rainfall dataset.</i></sub>
 <br><br>
 
