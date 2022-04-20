@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  CSI:SC–The Spring Predictability Barrier
+title:  CSI&#58; SC &#8211; The Spring Predictability Barrier
 description: Today we will be investigating the cold case file of the Spring Predictability Barrier. The Spring Predictability Barrier, known amongst climate friends as the SPB, is a widely known forecasting headache.
 tags: [predictability, ENSO, seasonal, climate]
 comments: true
 category: blog
-Date: 04/20/2022
+date: 04/20/2022
 img: SPB_thumbnail.png
 authors: 
 - Kurt Hansen
