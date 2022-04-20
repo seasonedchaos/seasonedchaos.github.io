@@ -70,6 +70,8 @@ While there are many potential suspects for this case, the reality is that in an
 <div style="text-align: right"> <i>Written by: Kurt Hansen, Victoria Schoenwald, Marybeth Arcodia, Kayla Besong, Kelsey Malloy</i> </div>
 <div style="text-align: right"> <i>Graphics credit to: Kayla Besong (thumbnail, first figure), Kelsey Malloy ("WANTED" posters)</i></div>
 <br><br>
+<i>Special thanks to Emily Becker for her help in the development of this post. Her suggestions improved its accuracy and clarity. </i>
+
 
 References:
 <br>
