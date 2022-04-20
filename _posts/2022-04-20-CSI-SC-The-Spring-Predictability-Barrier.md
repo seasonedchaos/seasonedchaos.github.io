@@ -16,7 +16,7 @@ authors:
 ---
 
 Welcome to Climate Science Investigation (CSI): Seasoned Chaos where today we will be investigating the cold case file of the Spring Predictability Barrier. The Spring Predictability Barrier, known amongst climate friends as the SPB, is a widely known forecasting headache. It describes a reduction in ENSO forecast skill for the May-June-July season. While many people love the springtime transition from cold winter darkness to warm spring days, state-of-the-art models in February, March, and April are robbed of predictive skill for May-June-July ENSO conditions. Since winter is usually the peak of ENSO and the events often decay in spring, we lose ENSO’s predictable nature, thus resulting in the menacing SPB.  
-<br><br>
+
 <h2>Meet the Victims</h2>
 
 Who are the victims of the menacing SPB? Surely society, forecasters, and eager armchair meteorologists suffer from the lack of ENSO predictability during spring. But if we look closer, it is actually our forecast models that are suffering from the springtime barrier. They are, after all, the ones being robbed of ENSO predictive skill. 
