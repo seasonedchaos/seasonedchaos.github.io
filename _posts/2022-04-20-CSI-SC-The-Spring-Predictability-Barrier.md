@@ -5,7 +5,7 @@ description: Today we will be investigating the cold case file of the Spring Pre
 tags: [predictability, ENSO, seasonal, climate]
 comments: true
 category: blog
-date: 04/20/2022
+date: 2022-04-20
 img: SPB_thumbnail.png
 authors: 
 - Kurt Hansen
