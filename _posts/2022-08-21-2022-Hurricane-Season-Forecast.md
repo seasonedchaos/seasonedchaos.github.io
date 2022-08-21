@@ -18,7 +18,7 @@ But first a recap: Last year was predicted to be above average; a typical season
 <br><sub><i>Here I am helping to set up an observation tower in Raceland just prior to Ida’s landfall, it was already raining and winds were gusting to tropical storm force.</i></sub>
 <br><br>
 <!-- blank line -->
-<iframe width="500" src="https://youtube.com/shorts/WLMpMpxaMBg?feature=share" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="472.5" src="https://youtube.com/shorts/WLMpMpxaMBg?feature=share" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><sub><i>This is the last video I took in New Orleans before hotel staff closed off doors to the outside. Winds gusted to hurricane force, knocking down trees, tearing the roof off the adjacent building, and blowing the AC unit into our room.</i></sub>
 <br><br>
 Guess what?
