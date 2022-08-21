@@ -18,7 +18,7 @@ But first a recap: Last year was predicted to be above average; a typical season
 <br><sub><i>Here I am helping to set up an observation tower in Raceland just prior to Ida’s landfall, it was already raining and winds were gusting to tropical storm force.</i></sub>
 <br><br>
 <!-- blank line -->
-<iframe width="618" height="1099" src="https://www.youtube.com/embed/WLMpMpxaMBg" title="Gusting Winds in New Orleans from Hurricane Ida (August 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="309" height="549.5" src="https://www.youtube.com/embed/WLMpMpxaMBg" title="Gusting Winds in New Orleans from Hurricane Ida (August 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><sub><i>This is the last video I took in New Orleans before hotel staff closed off doors to the outside. Winds gusted to hurricane force, knocking down trees, tearing the roof off the adjacent building, and blowing the AC unit into our room.</i></sub>
 <br><br>
 Guess what?
