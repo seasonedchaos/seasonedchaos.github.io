@@ -5,7 +5,7 @@ description: We are already two months into hurricane season but we decided now 
 tags: [predictability, ENSO, seasonal, climate]
 comments: true
 category: blog
-date: 2022-08-22
+date: 2022-08-21
 img: Ida2022.png
 authors: 
 - Kurt Hansen
