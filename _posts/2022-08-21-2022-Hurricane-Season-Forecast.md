@@ -2,7 +2,7 @@
 layout: post
 title:  2022 Hurricane Season Forecast
 description: We are already two months into hurricane season but we decided now is a good time to do a seasonal hurricane forecast. Better late than never, right?
-tags: [predictability, ENSO, seasonal, climate]
+tags: [hurricane, seasonal, weather, predictability]
 comments: true
 category: blog
 date: 2022-08-21
