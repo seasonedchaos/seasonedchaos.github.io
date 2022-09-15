@@ -21,7 +21,7 @@ Before we dive in, let’s learn a bit about hurricanes and what makes them go (
 <br><br>
 **Shear** is the difference in winds between upper and lower levels of the atmosphere. If the winds at the top of the atmosphere are blowing much faster than the winds near the surface it can tilt a hurricane or possibly even rip it apart as seen below.
 <br><br>
-![Shear as seen in GOES16 VIS]({{ site.url }}/assets/img/goes16_vis_20220915.gif)
+<img src="{{ site.url }}/assets/img/goes16_vis_20220915.gif" alt="Shear as seen in GOES16 VIS" width="80%"/>
 <br><sub><i>GOES-16 visible satellite imagery for Tropical Storm Fiona on Sept 15, 2022.</i></sub>
 <br><br>
 **Humidity** is needed for a hurricane to produce rain, but more than that, it helps drive the circulation of the hurricane by causing pressures to drop and making the cyclone more intense. If dry air wraps into a hurricane it can cause cooling (from evaporation) which creates sinking motion in the center of the storm, weakening it.
@@ -56,4 +56,6 @@ Regardless of the seasonal or subseasonal prediction it is important to keep in 
 <br>
 <div style="text-align: right"><i> Written by: Kurt Hansen</i></div>
 <div style="text-align: right"><i> Graphics credit to: Kayla Besong</i></div>
+<br><br>
+<i>Edit 2022-09-15: Added GOES-16 shear gif of TS Fiona
 
