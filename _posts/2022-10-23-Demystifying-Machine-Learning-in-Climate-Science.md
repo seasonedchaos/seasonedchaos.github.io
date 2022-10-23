@@ -13,8 +13,8 @@ authors:
 
 <i>Robots are taking over the world!!!</i>
 <br><br>
-Fortunately (or unfortunately, depending on your feelings toward robots), artificial intelligence (AI) has provided groundbreaking advancements and improvements to our lives without involving evil-robots-taking-over-the-world. In fact, misconceptions about AI often result in fear, despite AI being used all around us: filtering of your inbox to spam, your Amazon Alexa or Google Home, facial recognition to unlock your phone, fraud detection for your bank account, the list goes on and on.  
-<br><br>
+Fortunately (or unfortunately, depending on your feelings toward robots), artificial intelligence (AI) has provided groundbreaking advancements and improvements to our lives without involving evil-robots-taking-over-the-world. In fact, misconceptions about AI often result in fear, despite AI being used all around us: filtering of your inbox to spam, your Amazon Alexa or Google Home, facial recognition to unlock your phone, fraud detection for your bank account, the list goes on and on.
+<br>
 <h2>AI in Climate Science</h2>
 
 Not only has AI improved technologies in everyday life, but it is also making great strides in the climate science field. Particularly useful in the scientific community is machine learning, a subset of AI which involves training a model to “learn” via mathematical calculations to reduce its errors. Machine learning could instead be called “algorithm optimization” which would better encapsulate the mathematical and statistical processes involved, but that just isn’t as catchy.
@@ -35,7 +35,7 @@ As scientists, we not only want a model to make a good prediction, but we want t
 <b>1. Gauge Trust in Model</b>
 <br><br>
 Did the model actually learn something real or did it just get lucky? We want to ensure 
-that the model is making a good prediction for the right reasons, or figure out why it was wrong. Using XAI, we can learn what input features the model deemed important and verify the network’s prediction strategy.   
+that the model is making a good prediction for the right reasons, or figure out why it was wrong. Using XAI, we can learn what input features the model deemed important and verify the network’s prediction strategy.
 <br><br>
 <b>2. Learn New Science</b>
 <br><br>
@@ -49,11 +49,11 @@ It is important to remember that ML is another tool in a climate scientist’s t
 <br><br>
 Today, we can open the black box and understand what and how ML models have learned. ML is not robots taking over and it is not magic. Instead, it is a powerful technique that can help scientists ultimately learn new science, perhaps while enjoying a perfectly baked slice of key lime pie. 
 <br><br>
-<div style="text-align: right"><i> Written by: Marybeth Arocida</i></div>
+<div style="text-align: right"><i> Written by: Marybeth Arcodia</i></div>
 <div style="text-align: right"><i> Graphics credit to: Kelsey Malloy (+ pie graphic descends from Kayla Besong's work)</i></div>
 <br><br>
-<i>For additional information, [check out these great YouTube videos](https://sites.google.com/view/barnesgroup-csu/scicomm?authuser=0) on explainable machine learning in climate science.</i>
-<br><br>
+For additional information, [check out these great YouTube videos](https://sites.google.com/view/barnesgroup-csu/scicomm?authuser=0) on explainable machine learning in climate science.
+<br>
 And check out [this in-depth tutorial for applied machine learning for climate scientists](https://zenodo.org/record/6686879#.Y024BezML0o) including step-by-step example code.
 <br><br>
 Footnotes:
