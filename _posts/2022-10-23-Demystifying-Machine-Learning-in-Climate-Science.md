@@ -50,8 +50,8 @@ It is important to remember that ML is another tool in a climate scientist’s t
 Today, we can open the black box and understand what and how ML models have learned. ML is not robots taking over and it is not magic. Instead, it is a powerful technique that can help scientists ultimately learn new science, perhaps while enjoying a perfectly baked slice of key lime pie. 
 <br><br>
 <div style="text-align: right"><i> Written by: Marybeth Arcodia</i></div>
-<div style="text-align: right"><i> Graphics credit to: Kelsey Malloy (+ pie graphic descends from Kayla Besong's work)</i></div>
-<br><br>
+<div style="text-align: right"><i> Graphics credit to: Kelsey Malloy (pie graphic descends from Kayla Besong's work)</i></div>
+<br>
 For additional information, [check out these great YouTube videos](https://sites.google.com/view/barnesgroup-csu/scicomm?authuser=0) on explainable machine learning in climate science.
 <br>
 And check out [this in-depth tutorial for applied machine learning for climate scientists](https://zenodo.org/record/6686879#.Y024BezML0o) including step-by-step example code.
