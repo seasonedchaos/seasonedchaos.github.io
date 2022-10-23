@@ -11,6 +11,7 @@ authors:
 - Marybeth Arcodia
 ---
 
+<h2>Unlocking the Mystery of AI</h2>
 <i>Robots are taking over the world!!!</i>
 <br><br>
 Fortunately (or unfortunately, depending on your feelings toward robots), artificial intelligence (AI) has provided groundbreaking advancements and improvements to our lives without involving evil-robots-taking-over-the-world. In fact, misconceptions about AI often result in fear, despite AI being used all around us: filtering of your inbox to spam, your Amazon Alexa or Google Home, facial recognition to unlock your phone, fraud detection for your bank account, the list goes on and on.
