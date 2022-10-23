@@ -25,7 +25,7 @@ Speaking of pies, imagine that your grandma made the best key lime pie and you w
 <br><br>
 This fine-tuning recipe process is similar to how artificial neural networks, a frequently used type of machine learning, work. Originally inspired by a biological neuron network, an artificial neural network takes in information (ingredients), passes the information through a series of processing steps (combining ingredients in certain ratios), and gives an output (pie). The neural network model is trained by comparing the network’s predicted output to the actual value (ie the truth) and stepping backwards through the model to correct its errors. This is an iterative process that is repeated many times until the network is optimized to make a good prediction.  
 <br><br>
-<img src="/assets/img/SC_NN-analogy_pie-recipe.png" width="90%">
+<img src="/assets/img/SC_NN-analogy_pie-recipe.png" width="100%">
 <br><sub><i>The process of fine-tuning your Grandma's recipe can be used as an analogy for a neural network. (And yes, the Seasoned Chaos team may have a pie obsession...)</i></sub>
 <br><br>
 <h2>Opening the Oven (Black Box)</h2>
