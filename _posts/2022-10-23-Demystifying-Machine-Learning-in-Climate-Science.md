@@ -34,16 +34,16 @@ This fine-tuning recipe process is similar to how artificial neural networks, a 
 As scientists, we not only want a model to make a good prediction, but we want to know why it made a good prediction. After all, a machine learning model is only as smart as the scientists designing it. Scientists have historically been cautious to use ML as it is commonly thought to be a black box. ML procedures were considered "mysterious" in the sense that they couldn't be replicated or interpreted with only basic knowledge of mathematics/physics. But this is no longer the case! We use interpretable models and apply explainability methods to allow us to understand precisely how an ML model makes its predictions. These eXplainable Artificial Intelligence, or XAI, methods highlight important patterns for the predictions which allow the user to understand the network’s decision making process[<sup>7</sup>](https://link.springer.com/chapter/10.1007/978-3-031-04083-2_16)<sup>,</sup>[<sup>8</sup>](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL092092). We use explainable and trustworthy machine learning techniques to:
 <br><br>
 <b>1. Gauge Trust in Model</b>
-<br><br>
+<br>
 Did the model actually learn something real or did it just get lucky? We want to ensure 
 that the model is making a good prediction for the right reasons, or figure out why it was wrong. Using XAI, we can learn what input features the model deemed important and verify the network’s prediction strategy.
 <br><br>
 <b>2. Learn New Science</b>
-<br><br>
+<br>
 Once we have established trust in our model, we can analyze what the model learned. This can help us discover new sources of predictability, disentangle signals from the [chaotic noise](https://seasonedchaos.github.io/The-More-We-Learn-the-Less-We-Know-An-Introduction-to-Chaos/), and find relationships within the climate system we didn’t know were there. 
 <br><br>
 <b>3. Optimize</b>
-<br><br>
+<br>
 Simply put, using ML can help us do science better and faster. We can fine tune our approaches and process large amounts of data efficiently. This can help with data-intensive calculations that are often involved in climate processes, such as tracking hurricanes, identifying [atmospheric blocks](https://seasonedchaos.github.io/Traffic-Jams-and-Club-Sandwiches-in-the-Atmosphere-An-Overview-of-Blocking/), and sifting through large amounts of climate model data. 
 <br><br>
 It is important to remember that ML is another tool in a climate scientist’s toolbox. Many standard approaches using statistics, dynamics, and theory for scientific analysis are still effective and valid, and machine learning is an exciting and innovative addition. For example, in a [previous post](https://seasonedchaos.github.io/What-Can-the-Tropics-Tell-Us-About-Next-Weeks-Weather/), we discussed research using these approaches to show how the state of the atmospheric and oceanic states of the tropical Pacific can affect weather in the United States on subseasonal (2 week - 2 month) timescales. In my current research, we study a similar problem by using artificial neural networks to make subseasonal predictions of U.S. rainfall using the state of the tropics. By applying the XAI techniques, we can then determine which features in the tropics the model deemed important for its prediction (such as the El Niño/La Niña region, the MJO region, and perhaps regions we hadn’t looked at before). We are also able to quantify how confident the network was in its prediction to identify more predictable time periods, known as forecasts of opportunity. We can assess how these predictable time periods change over long periods of time and how these predictable states may change in the future[<sup>8</sup>](https://doi.org/10.1029/2022GL098663). Machine learning allows scientists to investigate complex and interconnected climate phenomena in a digestible way to push scientific knowledge farther than ever before. 
