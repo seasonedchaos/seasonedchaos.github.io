@@ -52,7 +52,7 @@ Today, we can open the black box and understand what and how ML models have lear
 <div style="text-align: right"><i> Written by: Marybeth Arcodia</i></div>
 <div style="text-align: right"><i> Graphics credit to: Kelsey Malloy (pie graphic descends from Kayla Besong's work)</i></div>
 <br>
-For additional information, [check out these great YouTube videos](https://sites.google.com/view/barnesgroup-csu/scicomm?authuser=0) on explainable machine learning in climate science.
+For additional information, [check out these great YouTube videos](https://sites.google.com/view/barnesgroup-csu/scicomm?authuser=0) on explainable machine learning in climate science from the Barnes Group at Colorado State University.
 <br>
 And check out [this in-depth tutorial for applied machine learning for climate scientists](https://zenodo.org/record/6686879#.Y024BezML0o) including step-by-step example code.
 <br><br>
