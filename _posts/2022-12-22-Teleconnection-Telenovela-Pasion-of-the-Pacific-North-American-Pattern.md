@@ -36,7 +36,7 @@ We also need to introduce who makes everything happen behind the scenes:
 The PNA (the protagonist of this story) is the Pacific ‘good twin’ of the NAO as they both represent subseasonal to seasonal variability in air pressure anomalies that the atmosphere ‘prefers’ to be in from time to time. They also both interact with the jet stream and have large impacts on U.S. weather. The PNA pattern is more complex than the simplified, north-south oriented dipole of the NAO. With the PNA, the primary high or low pressure anomaly is situated over the Aleutian Islands (near Alaska) with the opposite pressure near Hawai’i and over western North America as well as a pressure anomaly of same sign over the southeastern U.S. Examples of each phase of the PNA are in the figure below.  
 <br><br>
 <img src="/assets/img/PNA-patterns.jpeg" width="100%">
-<br><sub><i>Example of pressure patterns associated with the positive and negative phases of the PNA, taken from February 2016 and February 2019, respectively.</i></sub>
+<br><sub><i>Example of pressure patterns associated with the positive and negative phases of the PNA, taken from February 2016 and February 2019, respectively. Taken from [this ENSO blog post](https://www.climate.gov/news-features/understanding-climate/climate-variability-pacific%E2%80%93north-american-pattern).</i></sub>
 <br><br>
 <h2>The PNA-MJO-ENSO Love Triangle</h2>
 
