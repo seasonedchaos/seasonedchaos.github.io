@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teleconnection Telenovela Pasión of the Pacific North American Pattern
+title: Teleconnection Telenovela Pasion of the Pacific North American Pattern
 description: Welcome back! This episode, err—post will feature what could be one of winter's biggest stars: the Pacific North American (PNA) pattern.
 tags: [PNA, predictability, subseasonal, seasonal, teleconnections]
 comments: true
