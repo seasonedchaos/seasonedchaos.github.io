@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teleconnection Telenovela Pasion of the Pacific North American Pattern
-description: Welcome back! This episode, err—post will feature what could be one of winter's biggest stars: the Pacific North American (PNA) pattern.
+description: Welcome back! This episode, err—post will feature what could be one of winter's biggest stars:
 tags: [PNA, predictability, subseasonal, seasonal, teleconnections]
 comments: true
 category: blog
@@ -51,6 +51,9 @@ Like any plotline of your favorite soap opera/telenovela, the PNA is not always 
 <h2>To Be Continued...</h2>
 
 Below are some spoilers (forecasts) for the upcoming season (Dec-Jan-Feb 2023). These can be leveraged to form our best educated guess on whether the PNA will make headlines this winter. Different seasonal forecast models (NCEP, ECMWF, UKMO) seem to agree on the patterns, which resemble the negative PNA, likely because of the current La Nina conditions in the equatorial Pacific. You can also see the expected temperature patterns associated with this forecast.
+<br><br>
+<img src="/assets/img/DJF-seasonal-forecast-2022_PNA.png" width="100%">
+<br><sub><i>The Dec-Jan-Feb 2022-23 seasonal forecast initialized on December 1, 2022. Top row shows forecasted 500-mb geopotential height anomalies, and bottom row shows 850-mb temperature anomalies. Each column indicates a different forecast model from a different modeling center.</i></sub>
 <br><br>
 The known ENSO-PNA “romance” is just one way we can try to predict what’s going to happen this winter. But will the MJO come along and cause drama? Ultimately, it’s a cliffhanger, and we’re just gonna have to stay tuned until the next episode-<i>ahem</i>-forecast.
 <br><br>
