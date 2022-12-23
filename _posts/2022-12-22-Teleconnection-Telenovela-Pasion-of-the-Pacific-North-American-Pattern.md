@@ -5,7 +5,7 @@ description: Welcome back! This episode, err—post will feature what could be o
 tags: [PNA, winter, teleconnections, subseasonal, seasonal]
 comments: true
 category: blog
-date: 2022-12-21
+date: 2022-12-22
 img: pasionPNA.png
 authors: 
 - Kayla Besong
