@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teleconnection Telenovela Pasion of the Pacific North American Pattern
+title: Teleconnection Telenovela&#58; Pasion of the Pacific North American Pattern
 description: Welcome back! This episode, err—post 
 tags: [PNA, predictability, subseasonal, seasonal, teleconnections]
 comments: true
