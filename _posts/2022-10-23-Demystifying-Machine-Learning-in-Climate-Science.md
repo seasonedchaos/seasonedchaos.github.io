@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Demystifying Machine Learning in Climate Science
-description: ortunately (or unfortunately, depending on your feelings toward robots), artificial intelligence (AI) has provided groundbreaking
+description: Fortunately (or unfortunately, depending on your feelings toward robots), artificial intelligence (AI) has provided groundbreaking
 tags: [climate, predictability, subseasonal, forecasting]
 comments: true
 category: blog
