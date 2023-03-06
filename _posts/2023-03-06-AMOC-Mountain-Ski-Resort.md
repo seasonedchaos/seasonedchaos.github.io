@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AMOC Mountain Ski Resort
-description: Since we are well into ski season let’s head to the mountains and learn about a critical component of the climate system:
+description: Since we are well into ski season let’s head to the mountains and learn about a critical component of the climate system
 tags: [AMOC, climate, seasonal, sea level rise, ocean]
 comments: true
 category: blog
