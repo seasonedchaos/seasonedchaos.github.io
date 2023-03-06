@@ -11,6 +11,7 @@ authors:
 - Victoria Schoenwald
 ---
 
+
 Since we are well into ski season let’s head to the mountains and learn about a critical component of the climate system: the Atlantic Meridional Overturning Circulation or AMOC. Just like the atmosphere has circulation patterns that carry heat from the equator to the poles, oceans have circulation patterns that transport heat as well. One of the largest transporters of heat is the AMOC, a system of warm northward flowing and cold southward flowing ocean currents.
 <br><br>
 <h2>Thermohaline Mountain Range</h2>
