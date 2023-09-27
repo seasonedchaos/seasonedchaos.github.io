@@ -6,7 +6,7 @@ tags: [monsoons, climate, seasonal, ENSO, IOD]
 comments: true
 category: blog
 date: 2023-09-27
-img: AMOC.png
+img: ENSO-IOD_monsoon_thumbnail.png
 authors:
 - Marybeth Arcodia
 - Kelsey Malloy
