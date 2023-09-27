@@ -44,7 +44,7 @@ The Indian Ocean Dipole (IOD) has also been known to have a relationship with th
 <img src="/assets/img/ENSO-IOD_SSTs-circ.gif" width="90%">
 <br><sub><i>The anomalous SSTs and circulation associated with (looping through): El Niño (warm ENSO), positive IOD, then El Niño + IOD. Notice they have have a sinking branch in the eastern Indian Ocean.</i></sub>
 <br><br>
-<h2>A Bite out of our Weather Pattern Pie: ENSO + IOD</h2>
+<h2>But wait- there's more?!</h2>
 
 In short, large-scale climate can influence monsoon strength and cycles, which can drastically affect the rainfall received by most of the global population. However, because the summer monsoon itself is such a dominant global feature, it can exert its own influence on global climate patterns. Come back for monsoon part II to find out more!
 
@@ -53,7 +53,10 @@ In short, large-scale climate can influence monsoon strength and cycles, which c
 
 
 
-
+<br><br>
+<div style="text-align: right"><i> Written by: Kayla Besong and Kelsey Malloy</i></div>
+<div style="text-align: right"><i> Graphics credit to: Kayla Besong (thumbnail, seasonal forecast figure) and ENSO blog (PNA pattern figure)</i></div>
+<br>
 
 
 <sup>*</sup>Let's take an imaginary box of air which allows air to pass in and out. If the air inside of the box heats, the air will expand, causing some molecules to escape the box. There are now less molecules inside the box, creating low pressure.
