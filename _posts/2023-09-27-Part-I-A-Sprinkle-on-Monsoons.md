@@ -49,8 +49,8 @@ In short, large-scale climate can influence monsoon strength and cycles, which c
 
 
 <br><br>
-<div style="text-align: right"><i> Written by: Marybeth Arcodia and Kelsey Malloy</i></div>
-<div style="text-align: right"><i> Graphics credit to: Kayla Besong (thumbnail, hot tub animation, ENSO+IOD animation) and NOAA/JPL (monsoon land-ocean circulation diagram)</i></div>
+<div style="text-align: right"><i> Written by: [Marybeth Arcodia](https://seasonedchaos.github.io/people/marybeth-arcodia/) and [Kelsey Malloy](https://seasonedchaos.github.io/people/kelsey-malloy/)</i></div>
+<div style="text-align: right"><i> Graphics credit to: [Kayla Besong](https://seasonedchaos.github.io/people/kayla-besong/) (thumbnail, hot tub animation, ENSO+IOD animation) and NOAA/JPL (monsoon land-ocean circulation diagram)</i></div>
 <br>
 
 
