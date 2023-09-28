@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part I&#58; A Sprinkle on Monsoons
+title: Part I&#58; A Sprinkle of Monsoon Magic
 description: What’s the first thing that comes to mind when you hear “monsoon”? Typically, we associate monsoons with rain… and lots of it.
 tags: [monsoons, climate, seasonal, ENSO, IOD]
 comments: true
@@ -18,7 +18,7 @@ Bear with us for a moment as we dive into some thermodynamic basics. In May/June
 <br><br>
 <h2>Monsoons 101</h2>
 
-Monsoon winds always blow from cold to warm temperatures, i.e. from high to low pressure. During the late spring and early summer, the land starts to heat up faster than the surrounding water. This causes the air at the surface to expand and rise, creating low pressure at the surface<sup>*</sup>. As the warm air rises, it condenses into clouds, creating convection, or storminess (see below animation). The air flows outward at the top of the atmosphere, flowing towards the ocean. This air then sinks, creating a high pressure with cold air at the ocean surface. Since the air flows from high to low pressure, the cold, moist air moves over the land, closing the atmospheric loop, and driving the <b>“rainy season”</b> of the monsoon cycle. 
+Monsoon winds always blow from cold to warm temperatures, i.e. from high to low pressure. During the late spring and early summer, the land starts to heat up faster than the surrounding water. This causes the air at the surface to expand and rise, creating low pressure at the surface<sup>**</sup>. As the warm air rises, it condenses into clouds, creating convection, or storminess (see below animation). The air flows outward at the top of the atmosphere, flowing towards the ocean. This air then sinks, creating a high pressure with cold air at the ocean surface. Since the air flows from high to low pressure, the cold, moist air moves over the land, closing the atmospheric loop, and driving the <b>“rainy season”</b> of the monsoon cycle. 
 <br><br>
 <img src="/assets/img/hottub_wHandLs.gif" width="70%">
 <br><sub><i>Adapted from our [MJO post](https://seasonedchaos.github.io/What-Can-the-Tropics-Tell-Us-About-Next-Weeks-Weather/), the circulation for converging air at surface, causing storminess, and diverging air at upper levels, causing sinking air in surrounding regions.</i></sub>
@@ -48,14 +48,10 @@ The Indian Ocean Dipole (IOD) has also been known to have a relationship with th
 In short, large-scale climate can influence monsoon strength and cycles, which can drastically affect the rainfall received by most of the global population. However, because the summer monsoon itself is such a dominant global feature, it can exert its own influence on global climate patterns. Come back for monsoon part II to find out more!
 
 
-
-
-
-
 <br><br>
-<div style="text-align: right"><i> Written by: Kayla Besong and Kelsey Malloy</i></div>
-<div style="text-align: right"><i> Graphics credit to: Kayla Besong (thumbnail, seasonal forecast figure) and ENSO blog (PNA pattern figure)</i></div>
+<div style="text-align: right"><i> Written by: Marybeth Arcodia and Kelsey Malloy</i></div>
+<div style="text-align: right"><i> Graphics credit to: Kayla Besong (thumbnail, hot tub animation, ENSO+IOD animation) and NOAA/JPL ()</i></div>
 <br>
 
 
-<sup>*</sup>Let's take an imaginary box of air which allows air to pass in and out. If the air inside of the box heats, the air will expand, causing some molecules to escape the box. There are now less molecules inside the box, creating low pressure.
+<sup>**</sup>Let's take an imaginary box of air which allows air to pass in and out. If the air inside of the box heats, the air will expand, causing some molecules to escape the box. There are now less molecules inside the box, creating low pressure.
