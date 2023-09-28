@@ -26,7 +26,7 @@ Monsoon winds always blow from cold to warm temperatures, i.e. from high to low 
 As the seasons change, so do the monsoons. In the late fall and winter, the air temperature drops quickly, while the ocean water remains warm, causing the monsoon loop to reverse. The warm ocean causes low pressure at the surface, and the air just above the warm ocean warms and begins to rise. This creates rainfall over the ocean. The air travels along the top of the atmosphere from the ocean to the land. Since the air is now cooler over the land, the air begins to cool and sink toward the surface, resulting in dry conditions over land, i.e. the <b>“dry season”</b>. There is now high pressure and cold air at the land surface, so the air flows toward the low pressure in the ocean, creating the reverse loop of the monsoon. 
 <br><br>
 <center><img src="/assets/img/monsoon-diagram_NASA.jpeg" width="90%"></center>
-<br><sub><i>A diagram showing how seasonally evolving temperature differences between land and ocean drive monsoon circulations. Taken from [NASA SciJinks](https://scijinks.gov/what-is-a-monsoon/), credit to NOAA/JPL.</i></sub>
+<br><sub><i>A diagram showing how seasonally evolving temperature differences between land and ocean drive monsoon circulations. From [NASA SciJinks](https://scijinks.gov/what-is-a-monsoon/), credit to NOAA/JPL.</i></sub>
 <br><br>
 <h2>A Global Phenomenon</h2>
 
@@ -45,7 +45,7 @@ The Indian Ocean Dipole (IOD) has also been known to have a relationship with th
 <br><br>
 <h2>But wait- there's more?!</h2>
 
-In short, large-scale climate can influence monsoon strength and cycles, which can drastically affect the rainfall received by most of the global population. However, because the summer monsoon itself is such a dominant global feature, it can exert its own influence on global climate patterns. Come back for monsoon part II to find out more!
+In short, large-scale climate can influence monsoon strength and cycles, which can drastically affect the rainfall received by most of the global population. However, because the summer monsoon itself is such a dominant global feature, it can exert its own influence on global climate patterns. Come back mon<i>SOON</i> for our part II post to find out more!
 
 
 <br><br>
