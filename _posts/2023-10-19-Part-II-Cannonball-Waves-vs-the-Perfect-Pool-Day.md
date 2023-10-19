@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Part II&#58; Cannonball Waves vs. the Perfect Pool Day
-description: Summer is here and we’re heading to the pool!Seasoned Chaos, as your certified lifeguard, is prepared to give you the recap from last post:
+description: Summer is here and we’re heading to the pool! Seasoned Chaos, as your certified lifeguard, is prepared to give you the recap from last post
 tags: [monsoons, climate, seasonal, teleconnections]
 comments: true
 category: blog
