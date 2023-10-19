@@ -11,7 +11,7 @@ authors:
 - Kelsey Malloy
 ---
 
-Summer is here and we’re heading to the pool! :sunglasses: Seasoned Chaos, as your certified lifeguard, is prepared to give you the recap from [last post](https://seasonedchaos.github.io/Part-I-A-Sprinkle-on-Monsoons/):
+~~Summer is here and~~ we’re heading to the pool! :sunglasses: Seasoned Chaos, as your certified lifeguard, is prepared to give you the recap from [last post](https://seasonedchaos.github.io/Part-I-A-Sprinkle-on-Monsoons/):
 - Monsoons are seasonal shifts in wind that correspond with rainfall patterns.
 - Monsoons are driven by uneven heating surfaces between the ocean and land, with rain and storminess forming over the warmer land surfaces in the summer.
 - Seasonal sea surface temperature (SST) fluctuations from ENSO and the Indian Ocean can enhance or reduce the monsoonal circulation and resulting rainfall.
