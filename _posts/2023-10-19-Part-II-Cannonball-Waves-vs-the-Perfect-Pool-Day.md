@@ -11,11 +11,11 @@ authors:
 - Kelsey Malloy
 ---
 
-~~Summer is here and~~ we’re heading to the pool! :sunglasses: Seasoned Chaos, as your certified lifeguard, is prepared to give you the recap from [last post](https://seasonedchaos.github.io/Part-I-A-Sprinkle-on-Monsoons/):
+~~Summer is here and~~<sup>*</sup> we’re heading to the pool! :sunglasses: Seasoned Chaos, as your certified lifeguard, is prepared to give you the recap from [last post](https://seasonedchaos.github.io/Part-I-A-Sprinkle-on-Monsoons/):
 - Monsoons are seasonal shifts in wind that correspond with rainfall patterns.
 - Monsoons are driven by uneven heating surfaces between the ocean and land, with rain and storminess forming over the warmer land surfaces in the summer.
 - Seasonal sea surface temperature (SST) fluctuations from ENSO and the Indian Ocean can enhance or reduce the monsoonal circulation and resulting rainfall.
-<br><br>
+<h2></h2>
 Alright, ready to dive in? (Pun intended) In this post, we are going to focus on how monsoon systems can generate their own Rossby wave [teleconnections](https://www.climate.gov/news-features/blogs/enso/what-are-teleconnections-connecting-earths-climate-patterns-global). As a quick refresher, Rossby waves are large-scale fluctuations (think the size of the USA!) in the [jet stream](https://seasonedchaos.github.io/Seasoned-Chaos-presents-the-North-Atlantic-Oscillation/) that can influence global weather.
 <br><br>
 <h2>Lazy, Hazy, Crazy Days of Summer</h2>
@@ -32,7 +32,7 @@ For example, the Indian monsoon is a branch of the Asian summer monsoon and is a
 
 <br><br> 
 <center><img src="/assets/img/CGT_lazyriver.png" width="90%"></center>
-<br><sub><i>A simplified view of a circumglobal teleconnection caused by Indian monsoon heating, as if we're looking down on the whole Northern Hemisphere: The climatological jet stream, seen as the lazy river here, is relatively calm in the summer. The monsoon (or other sources of storminess) can act like a cannonball, disrupting the flow within the lazy river and causing downstream (Rossby) waves that generally follow the path dictated by the lazy river. The highs and lows of the waves can stay locked in certain locations, influencing climate extremes. Note that this is a simplified view and the surface impacts are not contrained within confines of lazy river.</i></sub>
+<br><sub><i>A simplified view of a circumglobal teleconnection caused by Indian monsoon heating, as if we're looking down on the whole Northern Hemisphere: The climatological jet stream, seen as the lazy river here, is relatively calm in the summer. The monsoon (or other sources of storminess) can act like a cannonball, disrupting the flow within the lazy river and causing downstream (Rossby) waves that generally follow the path dictated by the lazy river. The highs and lows of the waves can stay locked in certain locations, influencing climate extremes. Again, this is a simplified view and the surface impacts are not so contrained within confines of lazy river.</i></sub>
 <br><br>
 <h2>Sink or Swim...Together</h2>
 
@@ -42,8 +42,10 @@ The prediction skill of climate extremes on the subseasonal-to-seasonal timescal
 <br><br>
 Overall, with improved understanding and forecasting of monsoons and monsoon-forced teleconnections, we can better prepare for global summertime climate extremes, or, in this case, stay safely on our pool tubes.
 <br><br>
+
 <div style="text-align: right"><i> Written by: <a href="https://seasonedchaos.github.io/people/kelsey-malloy/">Kelsey Malloy</a></i></div>
 <div style="text-align: right"><i> Graphics credit to: <a href="https://seasonedchaos.github.io/people/kelsey-malloy/">Kelsey Malloy</a> (thumbnail and figure)</i></div>
+
 <br><br>
 References:
 <br>
