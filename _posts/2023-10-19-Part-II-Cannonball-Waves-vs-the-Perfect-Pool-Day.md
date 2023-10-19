@@ -34,8 +34,6 @@ For example, the Indian monsoon is a branch of the Asian summer monsoon and is a
 <center><img src="/assets/img/CGT_lazyriver.png" width="90%"></center>
 <br><sub><i>A simplified view of a circumglobal teleconnection caused by Indian monsoon heating, as if we're looking down on the whole Northern Hemisphere: The climatological jet stream, seen as the lazy river here, is relatively calm in the summer. The monsoon (or other sources of storminess) can act like a cannonball, disrupting the flow within the lazy river and causing downstream (Rossby) waves that generally follow the path dictated by the lazy river. The highs and lows of the waves can stay locked in certain locations, influencing climate extremes. Note that this is a simplified view and the surface impacts are not contrained within confines of lazy river.</i></sub>
 <br><br>
-
-<br><br>
 <h2>Sink or Swim...Together</h2>
 
 Because these monsoon-forced Rossby wave patterns are considered pretty “stationary” (H’s and L’s in above figure don’t move much in space), temperature and/or precipitation extremes can be locked in certain locations. Multiple climate extremes (heatwaves, flooding) can occur simultaneously across the globe in hot spots due to monsoon-forced teleconnections guided by the flow of the jet stream lazy river (AKA, the <i>jet stream waveguide</i>).
