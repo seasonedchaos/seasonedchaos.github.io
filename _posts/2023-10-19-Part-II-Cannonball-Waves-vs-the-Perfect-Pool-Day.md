@@ -45,7 +45,8 @@ Overall, with improved understanding and forecasting of monsoons and monsoon-for
 
 <div style="text-align: right"><i> Written by: <a href="https://seasonedchaos.github.io/people/kelsey-malloy/">Kelsey Malloy</a></i></div>
 <div style="text-align: right"><i> Graphics credit to: <a href="https://seasonedchaos.github.io/people/kelsey-malloy/">Kelsey Malloy</a> (thumbnail and figure)</i></div>
-
+<br><br>
+<sup>*</sup>Okay, so maybe it's October.
 <br><br>
 References:
 <br>
