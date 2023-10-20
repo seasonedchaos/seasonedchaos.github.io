@@ -32,7 +32,7 @@ For example, the Indian monsoon is a branch of the Asian summer monsoon and is a
 
 <br><br> 
 <center><img src="/assets/img/CGT_lazyriver.png" width="90%"></center>
-<br><sub><i>A simplified view of a circumglobal teleconnection caused by Indian monsoon heating, as if we're looking down on the whole Northern Hemisphere: The climatological jet stream, seen as the lazy river here, is relatively calm in the summer. The monsoon (or other sources of storminess) can act like a cannonball, disrupting the flow within the lazy river and causing downstream (Rossby) waves that generally follow the path dictated by the lazy river. The highs and lows of the waves can stay locked in certain locations, influencing climate extremes. Again, this is a simplified view and the surface impacts are not so contrained within confines of lazy river.</i></sub>
+<br><sub><i>A simplified view of a circumglobal teleconnection caused by Indian monsoon heating, as if we're looking down on the whole Northern Hemisphere: The climatological jet stream, seen as the lazy river here, is relatively calm in the summer. The monsoon (or other sources of storminess) can act like a cannonball, disrupting the flow within the lazy river and causing downstream (Rossby) waves that generally follow the path dictated by the lazy river. The highs and lows of the waves can stay locked in certain locations, influencing climate extremes. Again, this is a simplified view and the surface impacts are not so contrained within confines of lazy river. Lazy river jet stream is defined here by Jun through Aug climatology of 200-mb zonal wind greater or equal to 15 m/s using ERA-5 data.</i></sub>
 <br><br>
 <h2>Sink or Swim...Together</h2>
 
