@@ -9,6 +9,7 @@ Date: 10/30/2023
 img: para_normal_dist1_thumbnail.png
 authors: Senne Van Loon
 ---
+
 <div style="text-align: center">Senne Van Loon</div>
 <br>
 <i>Bio: </i>
