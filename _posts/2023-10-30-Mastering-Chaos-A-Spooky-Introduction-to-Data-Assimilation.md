@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mastering Chaos&#58; A Spooky Introduction to Data Assimilation
+title:  Mastering Chaos&#58; A <i>Spooky</i> Introduction to Data Assimilation
 description: The Earth system is chaotic (check out a refresher on chaos theory here). In theory, the flap of a butterfly's wings could set off a tornado on the other side of the world...
 tags: [weather, predictability, forecasts, models]
 comments: true
