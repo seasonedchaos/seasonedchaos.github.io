@@ -12,7 +12,7 @@ authors: Senne Van Loon
 
 <div style="text-align: center">Senne Van Loon</div>
 <br>
-<i>Bio: </i>
+<i>Bio: Senne Van Loon obtained his PhD in Physics at the University of Antwerp in 2020.  In 2022, he started as a postdoctoral researcher at the Cooperative Institute for Research in the Atmosphere (CIRA) at Colorado State University. There, he performed research on data assimilation, with the goal to improve weather forecasts by relaxing the normal assumption in Bayes' theorem.</i>
 <br><br>
 The Earth system is chaotic (check out a refresher on chaos theory [here](https://seasonedchaos.github.io/The-More-We-Learn-the-Less-We-Know-An-Introduction-to-Chaos/)). In theory, the flap of a [butterfly's wings](https://www.technologyreview.com/2011/02/22/196987/when-the-butterfly-effect-took-flight/#:~:text=Moreover%2C%20as%20Lorenz%20stated%20in,impossible%20for%20us%20to%20know) could set off a tornado on the other side of the world, but could just as easily stop a tornado from forming. This makes it difficult to make predictions, and yet we are able to make decent weather forecasts, at least on the timescale of a couple of days. All of this is possible due to a meticulous combination of physical model predictions and observations, a technique called "data assimilation".
 <br>
