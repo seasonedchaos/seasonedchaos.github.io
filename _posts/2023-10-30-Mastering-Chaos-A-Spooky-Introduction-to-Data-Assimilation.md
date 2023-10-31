@@ -28,15 +28,15 @@ Unfortunately, the National Weather Service has no demons on the payroll, so the
 <h2>Bayes' Theorem</h2>
 
 Knowing these limitations, what is the best approximation of the current state of the Earth system, given what the observations tell us it should be? How can we imitate Laplace's demon as best as possible? At the root of this problem lies one of the most fundamental theorems in statistics: Bayes' theorem. It allows us to update our knowledge of the current weather by incorporating new observations. For our math nerds out there:
-<br>
+
 <img src="/assets/img/bayes-theorem.png" width="90%">
-<br>
+
 The probability of being in the state <span style="color:#E66100">X</span> given some observations <span style="color:#5D3A9B">Y</span> is proportional to the product of the probability of making the observations <span style="color:#5D3A9B">Y</span> with some prior knowledge of what the state should be.
 <br><br>
 Bayes' theorem is much more broadly applicable than just weather prediction; it offers an explicit way of calculating conditional probabilities when new information comes along. Let's say you are deciding which neighborhood to go trick-or-treating in. You want to optimize your chances for lots and lots of sugary goodness. You know from last year that the houses on one street had <span style="color:#E66100">full-size candy bars</span> (your prior knowledge). However, you recently made a new friend who lives there, and <span style="color:#5D3A9B">they told you</span> that the whole neighborhood decided to only give out healthy snacks this year (the observation). The observation is not the truth… maybe your friend just wants all the candy for themselves. So, you assign a likelihood to this observation: if they're a good friend, this is a high value (close to one), and if you don't trust them, it is low (close to zero). Then, you use Bayes' theorem to update the probability that the street will have good candy, given what your friend said.
-<br>
+
 <img src="/assets/img/bayes-theorem_ex1.png" width="90%">
-<br>
+
 Instead of predicting candy bars, we’d rather want to know what the weather is like today. The left hand side of Bayes' theorem provides the information necessary to determine the current weather: given the observations, what is the best approximation to the current state of the weather. However, we need to make another approximation: what are the underlying probability distributions on the right hand side? Turns out there is only one that we can easily work with: the normal distribution, aka the well-known ["bell-curve"](https://www.youtube.com/watch?v=IhtmW28slDw), widely used in many applications. Although not always optimal, it is a decent approximation to the actual distribution that only Laplace's demon would know.
 <br><br>
 <img src="/assets/img/para_normal_dist1_wtitle_color1.png" width="90%">
@@ -54,9 +54,9 @@ Nevertheless, using smart approximations, we can put Bayes' theorem in a compute
 <h2>Application to Weather Forecasting</h2>
 
 Weather forecasting works in the same way. Start with the best estimate of the current state of the weather, and use a weather model to predict the weather in six hours. Six hours later, take new observations (the more the better!) and update the current state of the system. That state is used in the weather model to forecast the next six hours, and the cycle repeats. For example, the weather model may predict that the current <span style="color:#E66100">temperature is 25°F</span>. However, a <span style="color:#5D3A9B">satellite observation</span> just reported that it is <span style="color:#5D3A9B">28°F</span>. Unlike with our neighborhood friend, we can't say the observational instrument is <i>lying</i> to us, but every measurement comes with uncertainties. Thus, we use Bayes’ theorem to update our knowledge of the current state, and estimate that the actual temperature is closer to 27°F.
-<br>
+
 <img src="/assets/img/bayes-theorem_ex2.png" width="90%">
-<br>
+
 If the observations were not taken into account, the model could run free and chaos would take over. Including the observations constrains the model to stay as close to the truth as possible. That is, data assimilation combines all of the information provided (observations and model predictions), to suggest a best bet of the current state. In such a way, we may stand a chance to become the masters of chaos.
 
 <br><br>
