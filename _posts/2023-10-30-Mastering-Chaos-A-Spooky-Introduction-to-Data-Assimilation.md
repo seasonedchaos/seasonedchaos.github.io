@@ -39,6 +39,9 @@ Bayes' theorem is much more broadly applicable than just weather prediction; it 
 <br>
 Instead of predicting candy bars, we’d rather want to know what the weather is like today. The left hand side of Bayes' theorem provides the information necessary to determine the current weather: given the observations, what is the best approximation to the current state of the weather. However, we need to make another approximation: what are the underlying probability distributions on the right hand side? Turns out there is only one that we can easily work with: the normal distribution, aka the well-known ["bell-curve"](https://www.youtube.com/watch?v=IhtmW28slDw), widely used in many applications. Although not always optimal, it is a decent approximation to the actual distribution that only Laplace's demon would know.
 <br><br>
+<img src="/assets/img/para_normal_dist1_wtitle_color1.png" width="90%">
+<br><sub><i>An example of Bayes' theorem (para)normal distribution curves that go with the equations.</i></sub>
+<br><br>
 <h2>Minimizing the Tricks, Maximizing the Treats</h2>
 
 But finding the most likely state of the current weather is a hard problem. Ideally, we want to know values of the temperature, pressure, humidity, etc. everywhere. Our lowly computers, however, can only feasibly handle resolutions of the order of 10km on a global scale (still a huge accomplishment!). This translates to tens of millions of grid points where we need to know the values of many different variables.
