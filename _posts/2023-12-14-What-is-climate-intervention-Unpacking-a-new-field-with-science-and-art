@@ -1,64 +1,52 @@
 ---
 layout: post
 title: What is climate intervention? Unpacking a new field with science and art
-description: The Earth system is chaotic (check out a refresher on chaos theory here). In theory, the flap of a butterfly's wings could set off a tornado on the other side of the world...
-tags: [weather, predictability, forecasts, models]
+description: 2023 is likely to be the hottest year in recorded history, and may even become the first individual year to exceed the 1.5 ˚C above pre-industrial goal of the international Paris Climate Accords...
+tags: [climate, ML]
 comments: true
 category: blog
-Date: 10/30/2023
-img: para_normal_dist1_thumbnail.png
-authors: Senne Van Loon
+Date: 12/14/2023
+img: SAI.png
+authors: Daniel Hueholt
 ---
 
-<div style="text-align: center">Senne Van Loon</div>
+<div style="text-align: center">Daniel Hueholt</div>
 <br>
-<i>Bio: Senne Van Loon obtained his PhD in Physics at the University of Antwerp in 2020.  In 2022, he started as a postdoctoral researcher at the Cooperative Institute for Research in the Atmosphere (CIRA) at Colorado State University. There, he performed research on data assimilation, with the goal to improve weather forecasts by relaxing the normal assumption in Bayes' theorem.</i>
+<i>Bio: [Daniel Hueholt](https://www.hueholt.earth/) is a PhD candidate in the Department of Atmospheric Science at Colorado State University. He studies potential [climate](https://doi.org/10.1029/2023EF003488) and [ecological impacts](https://doi.org/10.21203/rs.3.rs-3463352/v1) from climate intervention and climate change.</i>
 <br><br>
-The Earth system is chaotic (check out a refresher on chaos theory [here](https://seasonedchaos.github.io/The-More-We-Learn-the-Less-We-Know-An-Introduction-to-Chaos/)). In theory, the flap of a [butterfly's wings](https://www.technologyreview.com/2011/02/22/196987/when-the-butterfly-effect-took-flight/#:~:text=Moreover%2C%20as%20Lorenz%20stated%20in,impossible%20for%20us%20to%20know) could set off a tornado on the other side of the world, but could just as easily stop a tornado from forming. This makes it difficult to make predictions, and yet we are able to make decent weather forecasts, at least on the timescale of a couple of days. All of this is possible due to a meticulous combination of physical model predictions and observations, a technique called "data assimilation".
+Hello readers! The Seasoned Chaos team kindly gave me the opportunity to write about a series of four videos I helped create with a team of science and artist collaborators. This series  describes research into <i>climate intervention</i>: potential methods to deliberately intervene in the Earth system to counteract climate change. This topic is a bit different than the regularly scheduled programming here–but it’s hopefully still of interest! You can scroll down to the bottom and check out the videos immediately, or read this post for a few more details first.
+<br><br>
+<h2>The Climate Change Story So Far</h2>
+
+2023 is likely to be the hottest year in recorded history, and may even become the first individual year to [exceed the 1.5˚C above pre-industrial goal](https://doi.org/10.1038/d41586-023-02995-7) of the international Paris Climate Accords. As climate change has continued, the impacts have become both increasingly obvious and personal to us all. In Colorado, where I currently live, we have seen [record-shattering heat](https://doi.org/10.1038/s41612-021-00202-w) and [wildfires](https://coloradosun.com/2020/11/02/east-troublesome-fire-colorado-tick-tock/); in my coastal North Carolina hometown, sea level rise causes [frequent “sunny-day flooding”](https://www.nytimes.com/interactive/2016/09/04/science/global-warming-increases-nuisance-flooding.html) and turns freshwater [ecosystems into “ghost forests.”](http://doi.org/10.1088/1748-9326/aba136) Almost everyone [can fill in their own experiences](https://19january2017snapshot.epa.gov/climate-impacts/climate-change-impacts-region_.html) with climate-fueled hazards, and these impacts [disproportionately affect vulnerable populations](http://www.jstor.org/stable/41328876) that have contributed relatively little to climate change. While governments have pledged to reduce the [greenhouse gas emissions that cause climate change](https://seasonedchaos.github.io/Heatwaves-Cow-Farts-and-the-Perfect-Beach-Spot-Sorting-Through-the-Science-of-Climate-Change/), [there is still a large gap between these statements and the actions that would be needed](http://doi.org/10.1126/science.abo3378) to avoid dangerous warming and impacts.
+<br><br>
+<i>Climate mitigation</i> actions that stop the emissions of greenhouse gases remain the most crucial solution to climate change. Examples of mitigation include approaches such as replacing fossil fuels with renewable energy and investing in clean methods of transportation. Still, the slow pace of these transitions, coupled with the prospect of worsening climate change impacts, motivates research into possible methods to deliberately intervene in the Earth system to reduce climate risk. These are collectively known as <i>climate interventions</i>, and include approaches that remove greenhouse gases from the atmosphere or directly cool the planet. It’s important to be very clear that <b>interventions are not a substitute for climate mitigation!</b> However, these methods could complement mitigation; essentially, climate intervention may be able to “buy time” for more familiar policies and actions to come into effect.
+<br><br>
+<img src="/assets/img/climate-interventions.png" width="90%">
+<br><sub><i>Climate interventions may have the potential to complement other tools to oppose climate change, like renewable energy and carbon-free transit.</i></sub>
+<br><br>
+<h2>Stratospheric Aerosol Injection</h2>
+
+One hypothetical intervention under ongoing research is <i>stratospheric aerosol injection</i>, or SAI for short. SAI would involve the emission of reflective aerosol particles into the upper atmosphere to reflect away a small portion of incoming sunlight, thereby cooling the planet. This is similar to natural processes that occur after many volcanic eruptions, [which are known to cool the planet for a few years](https://doi.org/10.1029/1998RG000054). 
+<br><br>
+Climate interventions such as SAI can sound like science fiction<sup>1</sup>. But SAI was originally proposed by climate scientists [more than 50 years ago](https://doi.org/10.17226/25762), and is now a mainstream area of scientific research. Most advances on this topic have come in the last decade: Scientists study SAI with computer models, in order to not affect the real world, and models capable of reliably simulating the full physics and chemistry relevant to SAI have only recently been developed.
+<br><br>
+<img src="/assets/img/SAI.png" width="90%">
+<br><sub><i>The basic idea of stratospheric aerosol injection (SAI) is to emit reflective particles into the upper atmosphere, where they would reflect away a portion of incoming sunlight. Currently, research on SAI takes place in computer models.</i></sub>
+<br><br>
+<h2>Our Videos</h2>
+
+To date, there has been relatively little dedicated science communication about SAI. To provide some general information, our team of physical and social scientists primarily located at Colorado State University worked with the Heartwood Visuals studio to create four short (~2-3 minutes) videos providing a brief overview of climate intervention research. Each video is built around topics that our group’s research could directly address<sup>2</sup>. You can check out the series below!
+<br><br>
+<h3>1. Introduction to Climate Intervention</h3>
+* What is climate intervention?
+* How and why do researchers study climate intervention?
+
+<br><br>
+<div style="text-align: right"> <i>Written by: Daniel Hueholt</i> </div>
+<div style="text-align: right"> <i>Graphics credit to: Heartwood Visuals</i></div>
+<br><br>
+Footnotes:
 <br>
-<h2>Laplace's Demon</h2>
-
-The French scholar Laplace devised a mystical creature, later named <i>Laplace's demon</i>, an omniscient being who is able to exactly predict the past, present, and future of every atom in the universe, because they know precisely where these atoms are and how they are moving. Laplace's demon knows where the next [hurricane](https://seasonedchaos.github.io/Forecasting-Hurricanes-Beyond-Weather/) is going to hit, what [flooding event](https://seasonedchaos.github.io/Flooding-the-Market/) will wreak havoc in Florida, and when the next transition to [El Niño](https://seasonedchaos.github.io/Round-1-ENSO-is-King/) will occur. The demon has this power, because they know the exact state of the universe at the current time, and can apply the laws of physics to accurately predict what the state will be tomorrow, next month, or a century from now.
-<br><br>
-Unfortunately, the National Weather Service has no demons on the payroll, so they'll have to make due with less. Instead, they use data assimilation to make an optimal guess of the <i>current state</i> of the weather, which is then used in models that forecast future weather. Data assimilation is mostly used in the bottom right slice of Seasoned Chaos’ [weather pattern pie](https://seasonedchaos.github.io/What-Can-the-Tropics-Tell-Us-About-Next-Weeks-Weather/). How can we make accurate weather forecasts on the hours-to-days timescales? Of course, it is not possible to isolate this slice, as they are all interconnected, and trying to eat that slice of pie gets very messy. The chaos sprinkles on top mean even the slightest errors grow quickly. Some reasons for errors include: 
-* forecast models are imperfect
-* approximations are used to solve the equations
-* observational instruments can make errors
-* observations are very sparse compared to the resolution we want
-<h2>Bayes' Theorem</h2>
-
-Knowing these limitations, what is the best approximation of the current state of the Earth system, given what the observations tell us it should be? How can we imitate Laplace's demon as best as possible? At the root of this problem lies one of the most fundamental theorems in statistics: Bayes' theorem. It allows us to update our knowledge of the current weather by incorporating new observations. For our math nerds out there:
-<img src="/assets/img/bayes-theorem.png" width="90%">
-<br>
-The probability of being in the state <span style="color:#E66100">X</span> given some observations <span style="color:#5D3A9B">Y</span> is proportional to the product of the probability of making the observations <span style="color:#5D3A9B">Y</span> with some prior knowledge of what the state should be.
-<br><br>
-Bayes' theorem is much more broadly applicable than just weather prediction; it offers an explicit way of calculating conditional probabilities when new information comes along. Let's say you are deciding which neighborhood to go trick-or-treating in. You want to optimize your chances for lots and lots of sugary goodness. You know from last year that the houses on one street had <span style="color:#E66100">full-size candy bars</span> (your prior knowledge). However, you recently made a new friend who lives there, and <span style="color:#5D3A9B">they told you</span> that the whole neighborhood decided to only give out healthy snacks this year (the observation). The observation is not the truth… maybe your friend just wants all the candy for themselves. So, you assign a likelihood to this observation: if they're a good friend, this is a high value (close to one), and if you don't trust them, it is low (close to zero). Then, you use Bayes' theorem to update the probability that the street will have good candy, given what your friend said.
-<img src="/assets/img/bayes-theorem_ex1.png" width="90%">
-<br>
-Instead of predicting candy bars, we’d rather want to know what the weather is like today. The left hand side of Bayes' theorem provides the information necessary to determine the current weather: given the observations, what is the best approximation to the current state of the weather. However, we need to make another approximation: what are the underlying probability distributions on the right hand side? Turns out there is only one that we can easily work with: the normal distribution, aka the well-known ["bell-curve"](https://www.youtube.com/watch?v=IhtmW28slDw), widely used in many applications. Although not always optimal, it is a decent approximation to the actual distribution that only Laplace's demon would know.
-<br><br>
-<img src="/assets/img/para_normal_dist1_wtitle_color1.png" width="90%">
-<br><sub><i>An example of Bayes' theorem (para)normal distribution curves that represent the equations.</i></sub>
-<br><br>
-<h2>Minimizing the Tricks, Maximizing the Treats</h2>
-
-But finding the most likely state of the current weather is a hard problem. Ideally, we want to know values of the temperature, pressure, humidity, etc. everywhere. Our lowly computers, however, can only feasibly handle resolutions of the order of 10km on a global scale (still a huge accomplishment!). This translates to tens of millions of grid points where we need to know the values of many different variables.
-<br><br>
-Nevertheless, using smart approximations, we can put Bayes' theorem in a computer and let it do the work for us. Bayes’ theorem is evaluated iteratively. When a new observation comes in, we update the state (using Bayes’ theorem) and make a new, improved forecast. That forecast is then used as the prior knowledge when the next observation comes in. Bayes’ theorem tells us how to update the state for the new observation, and so on. Let's say you decided to go to that one neighborhood despite what your so-called friend recommended (check out the GIF to see a Bayesian butterfly go trick-or-treating). You start at the first house, and you are handed an apple. You update your trick-or-treat route using Bayes' theorem, and go to the next house. *Trick or treat!*, and you get a granola bar (ew!). Again, you update the probability of getting full-size candy, but go to the next house. A carrot this time. Being a good Bayesian, you finally decide to go to a different street, with the hopes of better candy.
-<br><br>
-<img src="/assets/img/halloween_assimilation_2.gif" width="90%">
-<br><sub><i>Trick or treat! Here is a simple way to think about how Bayes theorem is used for data assimilation: the butterfly trick-or-treater has a predicted route in order to get the best candy, but she updates the route based on information she receives along the way.</i></sub>
-<br><br>
-<h2>Application to Weather Forecasting</h2>
-
-Weather forecasting works in the same way. Start with the best estimate of the current state of the weather, and use a weather model to predict the weather in six hours. Six hours later, take new observations (the more the better!) and update the current state of the system. That state is used in the weather model to forecast the next six hours, and the cycle repeats. For example, the weather model may predict that the current <span style="color:#E66100">temperature is 25°F</span>. However, a <span style="color:#5D3A9B">satellite observation</span> just reported that it is <span style="color:#5D3A9B">28°F</span>. Unlike with our neighborhood friend, we can't say the observational instrument is <i>lying</i> to us, but every measurement comes with uncertainties. Thus, we use Bayes’ theorem to update our knowledge of the current state, and estimate that the actual temperature is closer to 27°F.
-<img src="/assets/img/bayes-theorem_ex2.png" width="90%">
-<br>
-If the observations were not taken into account, the model could run free and chaos would take over. Including the observations constrains the model to stay as close to the truth as possible. That is, data assimilation combines all of the information provided (observations and model predictions), to suggest a best bet of the current state. In such a way, we may stand a chance to become the masters of chaos.
-
-<br><br>
-<div style="text-align: right"> <i>Written by: Senne Van Loon</i> </div>
-<div style="text-align: right"> <i>Graphics credit to: <a href="https://seasonedchaos.github.io/people/kayla-besong/">Kayla Besong</a> (thumbnail, Bayes' theorem curves, trick-or-treat data assimilation animation)</i></div>
-<br><br>
-
+1. 
 
