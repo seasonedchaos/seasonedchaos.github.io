@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is climate intervention Unpacking a new field with science and art
+title: What is climate intervention? Unpacking a new field with science and art
 description: 2023 is likely to be the hottest year in recorded history, and may even become the first individual year to exceed the 1.5C above pre-industrial goal of the international Paris Climate Accords...
 tags: [climate, ML]
 comments: true
