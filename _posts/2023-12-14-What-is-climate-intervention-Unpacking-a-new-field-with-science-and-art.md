@@ -41,26 +41,26 @@ To date, there has been relatively little dedicated science communication about 
 <h3>1. Introduction to Climate Intervention</h3>
 * What is climate intervention?
 * How and why do researchers study climate intervention?
-<!-- blank line -->
-<iframe width="840" height="472.5" src="https://www.youtube.com/embed/MxLjKgHoNrI?si=CTSZWKA5e9n9LB7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- blank line width="840" height="472.5" -->
+<iframe width="95%" src="https://www.youtube.com/embed/MxLjKgHoNrI?si=CTSZWKA5e9n9LB7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 <h3>2. Stratospheric Aerosol Injection Scenarios</h3>
 * How do researchers design hypothetical futures of SAI?
 * What are the broad classes of hypothetical future SAI interventions?
 <!-- blank line -->
-<iframe width="840" height="472.5" src="https://www.youtube.com/embed/Pvo1Tk88KG4?si=UuqX2Fpg3AmEZIWe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="95%" src="https://www.youtube.com/embed/Pvo1Tk88KG4?si=UuqX2Fpg3AmEZIWe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 <h3>3. Collective Actor Scenario Impacts</h3>
 * What are some potential impacts from an SAI deployment collectively designed by the global community?
 * What impacts are researchers more confident or less confident about?
 <!-- blank line -->
-<iframe width="840" height="472.5" src="https://www.youtube.com/embed/PhAbopGHTUw?si=aaXbiiMvK-ZwmSG8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="95%" src="https://www.youtube.com/embed/PhAbopGHTUw?si=aaXbiiMvK-ZwmSG8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 <h3>4. Detection & Perception</h3>
 * Would scientists be able to verify whether SAI was affecting the climate?
 * How would societies perceive SAI deployment in relation to chaotic day-to-day weather?
 <!-- blank line -->
-<iframe width="840" height="472.5" src="https://www.youtube.com/embed/wmdMIF1Jw5c?si=Cj0ec7Xmbojf2ZcK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe wwidth="95%" src="https://www.youtube.com/embed/wmdMIF1Jw5c?si=Cj0ec7Xmbojf2ZcK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 <img src="/assets/img/ML-video-stills.png" width="90%">
 <br><sub><i>Still images from the four videos–”Introduction to Climate Intervention” (top left), “Stratospheric Aerosol Injection Scenarios” (top right), “Collective Actor Scenario Impacts” (bottom left), and “Detection & Perception” (bottom right). Check out footnote 3 for a short description of the behind-the-scenes process!</i></sub>
