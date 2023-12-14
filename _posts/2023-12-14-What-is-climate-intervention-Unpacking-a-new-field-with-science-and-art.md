@@ -68,7 +68,7 @@ To date, there has been relatively little dedicated science communication about 
 The discussion of climate intervention touches on issues that are not limited to physical science, but include social science, ethics, governance, and more. In developing our videos, we saw the advantages of approaching this broad topic with a team spanning different disciplines of science and art. Many of our team members are physical scientists, which helped us identify the main research areas and questions to discuss, while insights from social scientists were key to framing the human elements of the future. Meanwhile, it takes an artist’s craft to present this information in a way that’s actually interesting! We hope these videos can serve as a useful starting point to help demystify the topic of climate intervention.
 <br><br>
 <div style="text-align: right"> <i>Written by: Daniel Hueholt</i> </div>
-<div style="text-align: right"> <i>Graphics credit to: Heartwood Visuals</i></div>
+<div style="text-align: right"> <i>Graphics credit to: [Heartwood Visuals](https://www.heartwoodvisuals.com/)</i></div>
 <br><br>
 Footnotes:
 <br>
