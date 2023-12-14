@@ -79,7 +79,7 @@ Footnotes:
 * [American Meteorological Society 2022 position statement on climate intervention](https://www.ametsoc.org/index.cfm/ams/about-ams/ams-statements/statements-of-the-ams-in-force/climate-intervention/)
 <br>
 3. Our team consisted of a group of physical and social scientists (including Seasoned Chaos’s own Marybeth Arcodia!) primarily located at Colorado State University, and was composed of graduate students, postdoctoral researchers, and professors. While many of us focus on SAI in our own work, several members of the team had different research areas (ranging from subseasonal predictability to mesoscale-climate interactions). The team broke into four small groups to write the first draft for each video and sketch “concept art” for the graphics. These drafts were then refined by further iterations within our team, and assessed by three independent reviewers who provided a fresh perspective on the final draft. After this came the best part of the process: watching the art and videography come to life through Carrie van Horn of Heartwood Visuals! Carrie turned our sketches into fully-realized artwork, and her artist’s eye caught places where our scripts were unclear or our visual concepts could have been misleading. In all, the process from the initial formation of our team to publishing the final videos online took approximately one year.<br>
-<img src="/assets/img/sketch-to-art.png" width="90%">
+<img src="/assets/img/sketch-to-art.png" width="60%">
 <br><sub><i>An example from “Stratospheric Aerosol Injection Scenarios” of how Carrie turned our concepts into fully-realized artwork!</i></sub>
 
 
