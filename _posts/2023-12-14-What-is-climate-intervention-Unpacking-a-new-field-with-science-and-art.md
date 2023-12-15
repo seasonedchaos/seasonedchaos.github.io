@@ -42,7 +42,7 @@ To date, there has been relatively little dedicated science communication about 
 * What is climate intervention?
 * How and why do researchers study climate intervention?
 <!-- blank line width="840" height="472.5" -->
-<iframe width="95%" src="https://www.youtube.com/embed/MxLjKgHoNrI?si=CTSZWKA5e9n9LB7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="95%" height:"auto" src="https://www.youtube.com/embed/MxLjKgHoNrI?si=CTSZWKA5e9n9LB7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 <h3>2. Stratospheric Aerosol Injection Scenarios</h3>
 * How do researchers design hypothetical futures of SAI?
