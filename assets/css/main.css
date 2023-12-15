@@ -220,6 +220,12 @@ svg:not(:root) {
   overflow: hidden;
 }
 
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+
 /* Forms
    ========================================================================== */
 /**
