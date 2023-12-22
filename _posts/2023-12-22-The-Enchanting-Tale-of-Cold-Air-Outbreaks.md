@@ -6,7 +6,7 @@ tags: [weather, winter, subseasonal, predictability]
 comments: true
 category: blog
 Date: 12/22/2023
-img: CAO_thumbnail.png
+img: CAO_thumbnail2.png
 authors: Karen Papazian
 ---
 
