@@ -24,7 +24,7 @@ While there is no specific universal index to quantify cold air outbreaks, the g
 <br><br>
 The frequency of these cold air outbreaks varies not only in quantity, but where and when. In some years, they are rare and fleeting, much like the moments when Elsa carefully controls her powers, and the town is unable to build snowmen. In other years, they seem as frequent and unpredictable as Elsa’s emotions before she learned to control her abilities.
 <br><br>
-<h2>Looking into the ~~un~~known</h2>
+<h2>Looking into the <strike>un</strike>known</h2>
 
 To better serve the people of our Kingdom we aim to gain insight into the origins of these episodes of cold air. One way to predict if cold air outbreaks will impact the region is to monitor large-scale atmospheric patterns, such as via the [jet stream](https://seasonedchaos.github.io/Seasoned-Chaos-presents-the-North-Atlantic-Oscillation/). The jet stream is a high-altitude, fast-flowing air current that plays a significant role in weather patterns. When the jet stream dips south, it can bring cold polar air down into lower latitudes, leading to a cold wave. Additionally, phenomena, such as the [stratospheric polar vortex](https://seasonedchaos.github.io/Things-are-getting-heated-the-science-behind-the-polar-vortex-and-stratospheric-warmings/), can push cold air southward into the mid-latitudes.
 <br><br>
@@ -43,7 +43,7 @@ Anna wanted her time to shine, so she gave us a quick run-down on the teleconnec
 <br><br>
 She really does have a way with words.
 <br><br>
-<img src="/assets/img/CAO_modes_poem.png" width="90%">
+<img src="/assets/img/CAO_modes_poem.png" width="100%">
 <br><br>
 
 <h3>Do you want to build a snowman?</h3>
