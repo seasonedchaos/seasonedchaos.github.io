@@ -37,6 +37,9 @@ Typically [prediction is hard on the subseasonal to seasonal timescale](https://
 
 Now let’s look and see if Anna, Kristoff, and Sven can go riding with their sleigh this winter season, and if we can build a snowman with Elsa… Olaf does seem to need some new friends. While we can’t speak for certain on the forecast of cold air outbreaks for the 2023-24 season – we can discuss climate patterns and how they help in the forecasts of these outbreaks 1-2 weeks prior. First, we look to see what the impacts of the current state of [the El Niño Southern Oscillation (ENSO)](https://seasonedchaos.github.io/Round-1-ENSO-is-King/) will be on the overall winter temperature pattern. Due to the current warmer-than-normal waters in parts of the tropical Pacific Ocean (El Niño), we are expecting to see above-average surface temperatures in the northern areas of the continental US with equal-chance average surface temperatures in the south and southeast US. This does not seem like an opportune time for Kristoff and Sven as they are the official ice master and deliverers.
 <br><br>
+<img src="/assets/img/CPC-temp-outlook_2023-24.gif" width="90%">
+<br><sub><i>The official [Climate Prediction Center](https://www.cpc.ncep.noaa.gov/products/predictions/long_range/seasonal.php?lead=1) three-month seasonal temperature outlook issued in December 2023 for January, February and March 2024.</i></sub>
+<br><br>
 As we look at the current winter season temperature outlook, it’s important to note that these outlooks are not forecasts but provide insight into the temperature pattern. For example, the [seasonal temperature outlook for the 2020-21 winter season](https://www.weather.gov/arx/winter2021) had much of Texas having an above average chance for much warmer temperatures – yet we know that there was an [extreme cold air outbreak](https://www.washingtonpost.com/weather/2021/02/16/setup-arctic-outbreak-niziol/) that occurred throughout Texas in February, 2021.
 <br><br>
 Anna wanted her time to shine, so she gave us a quick run-down on the teleconnection patterns and various modes of natural climate variability that can help us understand cold air outbreaks.
@@ -52,7 +55,7 @@ While we are not sure if we will be able to build snowmen this winter season, ou
 
 <br><br>
 <div style="text-align: right"> <i>Written by: Karen Papazian</i> </div>
-<div style="text-align: right"> <i>Graphics credit to: <a href="https://seasonedchaos.github.io/people/kayla-besong/">Kayla Besong</a> (thumbnail, jet stream diagram), Karen Papazian (storybook poem) </i></div>
+<div style="text-align: right"> <i>Graphics credit to: <a href="https://seasonedchaos.github.io/people/kayla-besong/">Kayla Besong</a> (thumbnail, jet stream diagram), Karen Papazian (storybook poem), NOAA Climate Prediction Center (seasonal temperature outlook)</i></div>
 <br><br>
 Footnotes:
 <br>
