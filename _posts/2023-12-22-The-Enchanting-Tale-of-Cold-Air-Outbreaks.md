@@ -52,7 +52,7 @@ While we are not sure if we will be able to build snowmen this winter season, ou
 
 <br><br>
 <div style="text-align: right"> <i>Written by: Karen Papazian</i> </div>
-<div style="text-align: right"> <i>Graphics credit to: <a href="https://seasonedchaos.github.io/people/kayla-besong/">Kayla Besong</a> (thumbnail, CAO diagram), Karen Papazian (storybook poem) </i></div>
+<div style="text-align: right"> <i>Graphics credit to: <a href="https://seasonedchaos.github.io/people/kayla-besong/">Kayla Besong</a> (thumbnail, jet stream diagram), Karen Papazian (storybook poem) </i></div>
 <br><br>
 Footnotes:
 <br>
