@@ -29,7 +29,7 @@ Although teleconnections and regimes aren’t entirely unique concepts, teleconn
 <br><br>
 Looking under the hood, defining regimes usually involves some sort of clustering [algorithm](https://www.youtube.com/watch?v=X8f5RgwY8CI). The most commonly used is called <i>k</i>-means clustering. To use it, you give the algorithm the data you’re interested in organising, and tell the algorithm how many clusters (moods) you’d like. It then solves for the “centroids” (the centres of each cluster). In essence, each data point is assigned to a cluster, and the (squared) distance from the centre of that cluster is computed. By repeatedly trying different centroids, the algorithm eventually finds the centroids that minimise the sum of these (squared) distances.  When finding weather regimes, 500 hPa geopotential height anomalies (i.e., mid-level pressure patterns) are usually used, since this field represents the large-scale variability in the troposphere well (and generally doesn’t run into any mountains). 
 <br><br>
-<img src="/assets/img/kmeans-cluster.gif" width="90%">
+<img src="/assets/img/kmeans-cluster.gif" width="70%">
 <br><sub><i>Convergence of k-means clustering into three clusters. (Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:K-means_convergence.gif)).</i></sub>
 <br><br>
 Returning to the mood analogy, you can imagine this clustering procedure as being like grouping together all your specific moods into overarching mood states – for example, one cluster could contain all ‘sad’ moods, incorporating more specific feelings such as anxious, lonely, or frustrated (representing individual weather systems).
