@@ -35,7 +35,7 @@ Looking under the hood, defining regimes usually involves some sort of clusterin
 Returning to the mood analogy, you can imagine this clustering procedure as being like grouping together all your specific moods into overarching mood states – for example, one cluster could contain all ‘sad’ moods, incorporating more specific feelings such as anxious, lonely, or frustrated (representing individual weather systems).
 <br><br>
 <img src="/assets/img/mood-cluster.png" width="99%">
-<br><sub><i>An example of how we can cluster moods into (left) two or (right) four mood 'regimes' based on where the mood lies on philosophical axes of feeling (negative to positive) and energy (low to high).</i></sub>
+<br><sub><i>An example of how we can cluster moods into (left) two or (right) four mood 'regimes' – indicated by color shade – based on where the mood lies on philosophical axes of feeling (negative to positive) and energy (low to high).</i></sub>
 <br><br>
 <h2>The New Mood (year-round!)</h2>
 
