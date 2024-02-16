@@ -59,6 +59,7 @@ Interest in regimes has burgeoned alongside interest in subseasonal-to-seasonal 
 More generally, regimes serve as a simple and objective method for quickly interpreting the “big picture” from increasingly large ensembles, such as the 101-member, daily, 46-day forecasts from [ECMWF](https://charts.ecmwf.int/products/extended-regime-probabilities?forecast_from=latest). Using regimes means it only takes a forecaster a few minutes to gauge the mood of the atmosphere (present and future) in such large amounts of data. Take this example below, from the GEFS: Alaskan Ridge transitions into No Regime within the first week of the forecast, before a likely transition into Pacific Ridge by the end of February. Things then look more uncertain going into March, but the probability of Greenland High is above-normal while all other regimes are below-normal.
 <br><br>
 Is this a window of opportunity? Now that puts me in a good mood.
+<br><br>
 <img src="/assets/img/regimes_gefs_20240215.png" width="90%">
 <br><sub><i>Global Ensemble Forecast System (GEFS) North American weather regimes, initialised on 15 February 2023. [https://simonleewx.com/gefs_north_america_regimes/](https://simonleewx.com/gefs_north_america_regimes/) </i></sub>
 <br><br>
