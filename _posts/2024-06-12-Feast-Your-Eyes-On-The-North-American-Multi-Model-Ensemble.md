@@ -22,7 +22,7 @@ How does a seasonal climate forecast model differ from a weather forecast model 
 Seasonal forecast models are like a blend of these cheeses, offering both short-term and long-term insights. They are initialized with the current atmospheric state and make predictions at the ‘in-between’ S2S timescale.
 <br><br>
 
-[<h2>A Mozzarella-Parmesan Blend?</h2>](https://www.foodnetwork.com/recipes/articles/feast-of-the-seven-fishes)
+<h2>[Feast of the Seven Fishes](https://www.foodnetwork.com/recipes/articles/feast-of-the-seven-fishes)</h2>
 
 Each of the seven seasonal forecast models of the NMME is like a unique dish at an Italian feast, offering a distinct perspective on future conditions; each one similar, yet different to create a comprehensive spread of monthly predictions ranging 9 to 12 months in advance.
 <br><br>
