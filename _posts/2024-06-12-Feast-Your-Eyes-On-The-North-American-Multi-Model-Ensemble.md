@@ -57,7 +57,7 @@ We all want a good, reliable forecast, like Grandma’s ziti [on our birthdays](
 When displayed in probabilistic format, NMME forecasts become highly useful on S2S timescales. Due to the combination of all the models and their ensembles, the likelihood of a given condition such as temperature being above, below, or near normal conditions becomes much more [reliable](https://journals.ametsoc.org/view/journals/clim/29/8/jcli-d-14-00862.1.xml#fig8). S2S forecasts such as these help with [emergency management and risk reduction, public health awareness, agriculture, the energy sector, and water resource management](https://journals.ametsoc.org/view/journals/clim/29/8/jcli-d-14-00862.1.xml#fig8). 
 <br><br>
 <iframe src="{{ '/assets/img/nmme_prob_forecast_all_var.html' | relative_url }}" width="100%" height=600></iframe>
-<br><sub><i>NMME probability forecast of above-, below-, and near-normal conditions for July 2024. NOTE: If you're on a mobile device, this dynamic plot looks better if you turn your phone horizontal.</i></sub>
+<br><sub><i>NMME probability forecast of above-, below-, and near-normal conditions for different months initialized start of June. Click through tabs at top for different variables (SST, surface temperature, precipitation) or use slider to see forecasts valid for different months. NOTE: If you're on a mobile device, this dynamic plot looks better if you turn your phone horizontal.</i></sub>
 <br><br>
 Will below average precipitation impact the tomato crop and, consequently, Grandma’s ziti? Will above average temperatures bring heat that makes us sweat like we're in a sit-down with the Don? 
 <br><br>
