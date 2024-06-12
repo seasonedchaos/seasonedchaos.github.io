@@ -6,7 +6,7 @@ tags: [model, predictability, subseasonal, seasonal, climate, prediction]
 comments: true
 category: blog
 date: 2024-06-12
-img: insert
+img: NMME_thumbnail.png
 authors:
 - Kayla Besong
 ---
