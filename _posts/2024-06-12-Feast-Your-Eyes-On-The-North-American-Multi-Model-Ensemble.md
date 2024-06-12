@@ -42,7 +42,7 @@ To visualize our ensemble of ensembles, take a look at the [spaghetti plot](http
 <br><br>
 The thin lines (angel hair – thinnest noodle) represent individual ensembles for each model, while the thick line of the same color (linguine – thicker noodle) shows the average of those ensembles within an individual model. The thick black line (fettuccine – thickest noodle) is the NMME, or average of all the models (linguine), showing the overall best predicted trend of future conditions. 
 <br><br>
-<iframe src="{{ '/assets/img/N34plume.dynamic.today.html' | relative_url }}" width="100%" height="400"></iframe>
+<iframe src="{{ '/assets/img/N34plume.dynamic.today.html' | relative_url }}" width="100%" height="600"></iframe>
 <br><sub><i>NMME forecast of Oceanic Niño Index, where color indicates which model and thick black line is either best estimate of observed state (before forecast initialization) or the multi-model mean (after forecast initialization).</i></sub>
 <br><br>
 The models show good agreement in predicting an upcoming La Niña, all trending below the -0.5&deg;C threshold. If some models predicted El Niño while others predicted La Niña, the larger spread would indicate high uncertainty/low predictability of the future.
@@ -56,7 +56,7 @@ We all want a good, reliable forecast, like Grandma’s ziti [on our birthdays](
 <br><br>
 When displayed in probabilistic format, NMME forecasts become highly useful on S2S timescales. Due to the combination of all the models and their ensembles, the likelihood of a given condition such as temperature being above, below, or near normal conditions becomes much more [reliable](https://journals.ametsoc.org/view/journals/clim/29/8/jcli-d-14-00862.1.xml#fig8). S2S forecasts such as these help with [emergency management and risk reduction, public health awareness, agriculture, the energy sector, and water resource management](https://journals.ametsoc.org/view/journals/clim/29/8/jcli-d-14-00862.1.xml#fig8). 
 <br><br>
-<iframe src="{{ '/assets/img/nmme_forecast_all_var.html' | relative_url }}" width="100%" height="400"></iframe>
+<iframe src="{{ '/assets/img/nmme_forecast_all_var.html' | relative_url }}" width="100%" height="600"></iframe>
 <br><sub><i>NMME probability forecast of above-, below-, and near-normal conditions for July 2024.</i></sub>
 <br><br>
 Will below average precipitation impact the tomato crop and, consequently, Grandma’s ziti? Will above average temperatures bring heat that makes us sweat like we're in a sit-down with the Don? 
