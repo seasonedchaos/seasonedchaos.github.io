@@ -64,7 +64,7 @@ Will below average precipitation impact the tomato crop and, consequently, Grand
 
 <h2>Looking for Seconds?</h2>
 
-You’re in luck, there’s plenty. The NMME products featured here (and more!) will be offered up in real-time, around the 7th of each month. In collaboration with the University of Miami and fellow beautiful science queen [Emily Becker](https://scholar.google.com/citations?user=WqWhGJEAAAAJ&hl=en), I’ll be serving up monthly forecasts of:
+You’re in luck, there’s plenty. The NMME products featured here (and more!) will be offered in real-time, around the 7th of each month. In collaboration with the University of Miami and fellow beautiful science queen [Emily Becker](https://scholar.google.com/citations?user=WqWhGJEAAAAJ&hl=en), I’ll be serving up monthly forecasts of:
 - An [interactive](https://nmme.earth.miami.edu/forecasts/n34plume.dynamic.today.html) and [static](https://nmme.earth.miami.edu/forecasts/n34plume.static.today.html) Nino 3.4 plume
 - [Global Mean Surface Temperature Plume](https://nmme.earth.miami.edu/forecasts/gmt_plume.today.html)
 - [Global probability maps](https://nmme.earth.miami.edu/forecasts/nmme_prob_forecast_all_var.html) of temperature, precipitation, and SSTs
