@@ -29,7 +29,7 @@ Seasoned Chaos has talked about the MJO several times, as it affects our weather
 
 Below, you’ll see a simulation I made in graduate school. Don’t worry about the labels or acronyms for now, just imagine you’re watching clouds over an imaginary blob of ocean:
 <br><br>
-<img src="/assets/img/TC_Kelvin_idealized-model.gif" width="60%">
+<img src="/assets/img/TC_Kelvin_idealized-model.gif" width="80%">
 <br><sub><i>“Outgoing longwave radiation” (a proxy for cloud cover) in an idealized model simulation of the tropical atmosphere, where the sea surface temperature is the same everywhere. Used in [Carstens and Wing (2023)](https://journals.ametsoc.org/view/journals/atsc/80/9/JAS-D-22-0222.1.xml) to study behavior of organized convection, including tropical cyclones and Kelvin waves.
 </i></sub>
 <br><br>
@@ -46,7 +46,7 @@ How do we track the MJO and Kelvin waves, when weather is happening at all scale
 <br><br>
 I saw this plot in 2021, when forecasters were concerned that August was going to be eventful (spoiler, it was). The first time I came across something like this on social media… needless to say, I was confused, and my mind went here:
 <br><br>
-<img src="/assets/img/spongebob-meme.gif" width="20%">
+<img src="/assets/img/spongebob-meme.gif" width="30%">
 <br><br>
 But it’s not all that bad! What we’re showing here is called “Velocity Potential”, which actually answers a very simple question: Is air converging or diverging in the upper troposphere – 40,000 feet above us?
 <br><br>
