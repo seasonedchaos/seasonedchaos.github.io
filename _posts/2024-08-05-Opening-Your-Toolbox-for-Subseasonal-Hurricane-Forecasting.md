@@ -42,7 +42,7 @@ Let’s talk about the actual forecasting applications, and how far we can go wi
 How do we track the MJO and Kelvin waves, when weather is happening at all scales, all the time? In other (Seasoned Chaos-approved) words, how can we separate out one slice of the weather pattern pie? By filtering our data in time! Which brings us to this (courtesy of [Dr. Mike Ventrice](https://mikeventrice.weebly.com)):
 <br><br>
 <img src="/assets/img/VP_July2021.png" width="95%">
-<br><sub><i>Analyzed velocity potential at the 200 hPa pressure level on July 31, 2021, courtesy of [https://mikeventrice.weebly.com](https://mikeventrice.weebly.com). Arrows show the “irrotational” (diverging or converging) wind, while cool shading represents upper-level divergence and vice versa. Data were filtered in time to show the eastward progression of the MJO in this case, with a strong cell of rising air (upper-level divergence) over the eastern tropical Pacific.</i></sub>
+<br><sub><i>Analyzed velocity potential at the 200 hPa pressure level on July 31, 2021, courtesy of [Mike Ventrice](https://mikeventrice.weebly.com). Arrows show the “irrotational” (diverging or converging) wind, while cool shading represents upper-level divergence and vice versa. Data were filtered in time to show the eastward progression of the MJO in this case, with a strong cell of rising air (upper-level divergence) over the eastern tropical Pacific.</i></sub>
 <br><br>
 I saw this plot in 2021, when forecasters were concerned that August was going to be eventful (spoiler, it was). The first time I came across something like this on social media… needless to say, I was confused, and my mind went here:
 <br><br>
@@ -59,15 +59,15 @@ That big blue blob in the 2021 image? That’s just a large area of anomalously 
 <br><br>
 Finally, a cool way to visualize past and future movement of the MJO and Kelvin waves is via the Hovmoller diagram. Below in this example from August 2021, you see velocity potential shaded. As you move down the plot, you move forward in time, and as you move right, you move east. These streaks (dare I say… oscillations?) are these areas of disturbed weather moving eastward around the tropical atmosphere! Head [here](https://ncics.org/portfolio/monitor/mjo/) to see these in real-time, including forecasts up to 4 weeks into the future! 
 <br><br>
-<img src="/assets/img/Hovmoller_annotated.png" width="80%">
-<br><sub><i>Example of a Hovmoller diagram, spanning approximately 6 months in time, showing the evolution of velocity potential throughout the global tropics. This is from the same 2021 time period as the velocity potential map above, with annotations relevant to that time period. Plot courtesy of [https://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/mjo.shtml](https://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/mjo.shtml). </i></sub>
+<img src="/assets/img/Hovmoller_annotated.png" width="95%">
+<br><sub><i>Example of a Hovmoller diagram, spanning approximately 6 months in time, showing the evolution of velocity potential throughout the global tropics. This is from the same 2021 time period as the velocity potential map above, with annotations relevant to that time period. Plot courtesy of [NOAA Climate Prediction Center](https://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/mjo.shtml). </i></sub>
 <br><br>
 Keep this toolbox nearby as we approach the peak of the Hurricane Season! This doesn’t allow us to say things like “there will be a Category 2 hurricane in the central Atlantic in 16 days” (as much as TikTok wants to try). But it’s a great way for the forecasting community to sniff around for those handful of weeks throughout a season where we’ll want to pay a little extra attention.
 <br><br>
 
 <br><br>
 <div style="text-align: right"> <i>Written by: <a href="https://carstensweather.com">Jake Carstens</a></i> </div>
-<div style="text-align: right"> <i>Graphics credit to: Jake Carstens (idealized model animation/thumbnail, velocity potential-divergence animation), Mike Ventrice's blog (velocity potential for July 2021), Climate Prediction Center (velocity potential Hovmoller diagram) </i></div>
+<div style="text-align: right"> <i>Graphics credit to: Jake Carstens (idealized model animation/thumbnail, velocity potential-divergence animation, annotation of Hovmoller), Mike Ventrice's site (velocity potential for July 2021), NOAA CPC (velocity potential Hovmoller diagram) </i></div>
 <br><br>
 Footnotes:
 <br>
