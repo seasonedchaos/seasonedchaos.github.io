@@ -29,7 +29,7 @@ Seasoned Chaos has talked about the MJO several times, as it affects our weather
 
 Below, you’ll see a simulation I made in graduate school. Don’t worry about the labels or acronyms for now, just imagine you’re watching clouds over an imaginary blob of ocean:
 <br><br>
-<img src="/assets/img/TC_Kelvin_idealized-model.gif" width="80%">
+<img src="/assets/img/TC_Kelvin_idealized-model.gif" width="80%" loop="infinite">
 <br><sub><i>“Outgoing longwave radiation” (a proxy for cloud cover) in an idealized model simulation of the tropical atmosphere, where the sea surface temperature is the same everywhere. Used in [Carstens and Wing (2023)](https://journals.ametsoc.org/view/journals/atsc/80/9/JAS-D-22-0222.1.xml) to study behavior of organized convection, including tropical cyclones and Kelvin waves.
 </i></sub>
 <br><br>
@@ -42,7 +42,7 @@ Let’s talk about the actual forecasting applications, and how far we can go wi
 How do we track the MJO and Kelvin waves, when weather is happening at all scales, all the time? In other (Seasoned Chaos-approved) words, how can we separate out one slice of the weather pattern pie? By filtering our data in time! Which brings us to this (courtesy of [Dr. Mike Ventrice](https://mikeventrice.weebly.com)):
 <br><br>
 <img src="/assets/img/VP_July2021.png" width="95%">
-<br><sub><i>Analyzed velocity potential at the 200 hPa pressure level on July 31, 2021, courtesy of [Mike Ventrice](https://mikeventrice.weebly.com). Arrows show the “irrotational” (diverging or converging) wind, while cool shading represents upper-level divergence and vice versa. Data were filtered in time to show the eastward progression of the MJO in this case, with a strong cell of rising air (upper-level divergence) over the eastern tropical Pacific.</i></sub>
+<br><sub><i>Analyzed velocity potential at the 200 hPa pressure level on July 31, 2021, courtesy of Mike Ventrice. Arrows show the “irrotational” (diverging or converging) wind, while cool shading represents upper-level divergence and vice versa. Data were filtered in time to show the eastward progression of the MJO in this case, with a strong cell of rising air (upper-level divergence) over the eastern tropical Pacific.</i></sub>
 <br><br>
 I saw this plot in 2021, when forecasters were concerned that August was going to be eventful (spoiler, it was). The first time I came across something like this on social media… needless to say, I was confused, and my mind went here:
 <br><br>
