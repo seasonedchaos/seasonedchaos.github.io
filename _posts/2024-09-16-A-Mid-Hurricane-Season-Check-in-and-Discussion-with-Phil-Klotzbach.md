@@ -36,7 +36,7 @@ Different things have been responsible for the lack of activity. Mid-August we h
 <br><br> 
 We’ve also had no high latitude storms this year. It’s strange to not get anything.
 <br><br>  
-The Atlantic is still hot, ENSO is trending towards La Nina, a favorable MJO phase is coming, models are picking up activity in 10+ days. The season should become active again in Late September and October. The monsoon being too far north should not be a problem since it starts to move south this time of year. But at this point nothing is close enough that I have any confidence. 
+The Atlantic is still hot, [ENSO](https://seasonedchaos.github.io/Round-1-ENSO-is-King/) is trending towards La Niña, a favorable [MJO](https://seasonedchaos.github.io/What-Can-the-Tropics-Tell-Us-About-Next-Weeks-Weather/) phase is coming, models are picking up activity in 10+ days. The season should become active again in Late September and October. The monsoon being too far north should not be a problem since it starts to move south this time of year. But at this point nothing is close enough that I have any confidence. 
 <br><br>
 <b>The monsoon trough position seems to have played a crucial role this season, but it hasn’t been discussed much in research. Is there any predictability or subseasonal variability associated with the monsoon?</b>
 <br><br>
