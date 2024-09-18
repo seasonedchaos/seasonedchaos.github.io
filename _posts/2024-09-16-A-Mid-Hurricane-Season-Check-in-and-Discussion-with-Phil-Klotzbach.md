@@ -18,9 +18,9 @@ Earlier in the summer, Colorado State University and other agencies that give se
 
 <b>Forecasters called for an extremely active season, and all signals seemed to point that way. But leading up to the peak of the season we saw very little activity. Why?</b>
 <br><br>
-We use several different methods to forecast seasonal hurricane activity. Conditions leading up to the beginning of the season suggested a “bananas” season. We use statistical-dynamical models which use ECMWF or UKMETs forecast of wind shear and SSTs during the peak of the hurricane season. Those also forecasted an active season. And the dynamical models, just by counted the number of storms in these long-range models, also suggested an active season. Hurricane Beryl broke records for being the earliest category 5, which also indicated an active season. 
+We use several different methods to forecast seasonal hurricane activity. Conditions leading up to the beginning of the season suggested a “bananas” season. We use statistical-dynamical models which use ECMWF or UKMETs forecast of wind shear and SSTs during the peak of the hurricane season. Those also forecasted an active season. And the dynamical models, just by counting the number of storms in these long-range models, also suggested an active season. Hurricane Beryl broke records for being the earliest category 5, which also indicated an active season. 
 <br><br>
-The fact that one storm has formeds since Aug 12 is ridiculous. It’s been too dry. It's hot but you can’t sustain convection.
+The fact that one storm has formed since Aug 12 is ridiculous. It’s been too dry. It's hot but you can’t sustain convection.
 <br><br>
 In August shear was low, most easterly shear on record. [Climatologically the shear is strong and westerly.] Normally moisture is not a good predictor of seasonal activity. But this years it’s too dry. 
 <br><br>
