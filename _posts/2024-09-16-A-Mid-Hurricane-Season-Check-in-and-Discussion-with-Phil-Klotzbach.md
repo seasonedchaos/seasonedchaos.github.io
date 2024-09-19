@@ -32,7 +32,7 @@ Yes. If we doubled that ACE [Accumulated Cyclone Energy, common metric for overa
 <br><br>
 Different things have been responsible for the lack of activity. Mid-August we had no tropical waves [the seeds for many hurricanes], they came off too far north. Normally when the monsoon trough [indicates the path of the African Easterly waves] is further north we see more activity but this year it is so far north it dumps the waves into cold water. Since then we’ve had more waves, we have three currently in peak season but these waves aren’t really developing which is unusual. 
 <br><br> 
-[Bill Grey](https://tropical.colostate.edu/Forecast/legacy_bams.pdf) used to ring a bell on Aug 20 to signal the active part of the season. This year we rang the bell and had one storm. 
+[Bill Gray](https://tropical.colostate.edu/Forecast/legacy_bams.pdf) used to ring a bell on Aug 20 to signal the active part of the season. This year we rang the bell and had one storm. 
 <br><br> 
 We’ve also had no high latitude storms this year. It’s strange to not get anything.
 <br><br>  
@@ -40,9 +40,9 @@ The Atlantic is still hot, [ENSO](https://seasonedchaos.github.io/Round-1-ENSO-i
 <br><br>
 <b>The monsoon trough position seems to have played a crucial role this season, but it hasn’t been discussed much in research. Is there any predictability or subseasonal variability associated with the monsoon?</b>
 <br><br>
-Bill Grey did have work showing that a further north monsoon does lead to more activity but that is assuming the waves reach water around Senegal. There isn’t much research on what happens when waves come off too far north. Occasionally a storm will form right off the coast and go north. That will be a focus in our future research. 
+Bill Gray did have work showing that a further north monsoon does lead to more activity but that is assuming the waves reach water around Senegal. There isn’t much research on what happens when waves come off too far north. Occasionally a storm will form right off the coast and go north. That will be a focus in our future research. 
 <br><br> 
-We like to test if SSTs can give us the general pattern we see in the winds. What we plan to do is run a model with this year's observed SSTs in the Atlantic (and average SSTs over the rest of the globe) and see if it will capture the position of the monsoon. My hypothesis is that because the north Atlantic was warm and the equatorial Atlantic was cool, we will see the monsoon shift north. 
+We like to test if SSTs can give us the general pattern we see in the winds. What we plan to do is run a model with this year's observed SSTs in the Atlantic (and average SSTs over the rest of the globe) and see if it will capture the position of the monsoon. My hypothesis is that because the North Atlantic was warm and the equatorial Atlantic was cool, we will see the monsoon shift north. 
 <br><br>
 <b>So because you hypothesize the monsoon position is tied to SSTs, that would suggest it varies mostly on seasonal time scales. Right?</b>
 <br><br> 
@@ -75,7 +75,7 @@ This year all the signals indicate an active season and we forecasted the signal
 <br><br> 
 This year I think the upper troposphere is warm because last year we had an El Niño, there is a lagged warming effect which is expected. Normally upper- level tropospheric temperatures don’t have a strong correlation to hurricane season activity. But maybe there’s a threshold that was reached this year that lead to an inactive season. This year I think it was related to El Niño, maybe in the future it’s related to a climate change signal. 
 <br><br> 
-I haven’t seen much that says that the SST pattern that shifted the monsoon, of the Nnorth Atlantic being warm and the equatorial Atlantic being cool, will become more common in the future. 
+I haven’t seen much that says that the SST pattern that shifted the monsoon, of the North Atlantic being warm and the equatorial Atlantic being cool, will become more common in the future. 
 <br><br> 
 If we end up with a busy late season then our forecast won’t have been too wrong. We’ve already had a category 5 so it isn’t as bad as 2013. We’ve already had three hurricanes hit the U.S in that sense we are above average. 
 <br><br> 
