@@ -32,59 +32,58 @@ Starting out with some of our favorites, tropical sources of heating – primari
 When Western Pacific SSTs are warm, MJO activity is stronger, leading to windows of increased subseasonal forecast skill[^2]. Errors of opportunity (the opposite of a window of opportunity, when we know we can’t predict the future well) have been identified for S2S predictions in the Northern Hemisphere based on the MJO and its summer cousin, the Boreal Summer Intraseasonal Oscillation (BSISO)[^3]. 
 <br><br>
 Certain coinciding MJO and ENSO phases can lead to enhanced S2S forecast skill for U.S.[^4] and South America[^5] precipitation. While the MJO does lead to windows of opportunity, ENSO remains King! ENSO can impact the jet stream, leading to higher predictability of monthly circulation patterns[^6]. Overall, ENSO has been shown to be more useful in S2S Northern Hemisphere circulation predictions than other climate patterns[^7].
-<br><br>
+<br>
 <h3><i>Monsoon teleconnections</i></h3>
 
 [Grab your pool floaty!](https://seasonedchaos.github.io/Part-II-Cannonball-Waves-vs-the-Perfect-Pool-Day/) Recently explored sources of (sub)tropical heating via monsoon-related BSISO and circumglobal teleconnection (CGT) can also explain S2S predictability. In general, monsoon teleconnections are emerging as important drivers of Northern Hemisphere summer weather and climate extremes. 
 <br><br>
 For instance, the Indian monsoon and East Asian monsoon influence mid-latitude circulation on the seasonal timescale[^8][^9]. The BSISO is linked to U.S. summer precipitation events[^10] and U.S. west coast heat waves[^11][^12].
-<br><br>
+<br>
 <h3><i>Stratosphere teleconnections</i></h3>
 
 Most weather happens in the troposphere, but predictability of tropospheric weather can come from the atmospheric layer directly above it – the stratosphere. The stratosphere primarily influences weather and climate over the North Atlantic region, often defined by the phase of the North Atlantic Oscillation (NAO). 
 <br><br>
 Significant polar vortex anomalies in the May lower stratosphere can exert significant downward influence on summer NAO[^13]. In addition, late winter sudden stratospheric warmings (SSWs) may provide windows of opportunity. Weak polar vortex leads to more predictable regimes[^14]. SSWs are more predictable when they are preceded by a tightening of the polar vortex away from the subtropics, and when stratospheric winds are more easterly[^15].
-<br><br>
+<br>
 <h3><i>PNA and NAO teleconnections</i></h3>
 
 [Our telenovela stars](https://seasonedchaos.github.io/Teleconnection-Telenovela-Pasion-of-the-Pacific-North-American-Pattern/), the Pacific-North America (PNA) pattern and NAO, remain important for describing mid-latitude circulation variability and subseasonal predictability of Northern Hemisphere climate[^16]. Monthly (and seasonal) predictions of the NAO are only weakly related to medium-range skill. 
 <br><br>
 In addition to the traditional view of using PNA and NAO, weather regimes are another way to understand S2S predictability. Weather regimes by construction represent naturally persistent atmospheric states; therefore, long-lived regimes may offer S2S forecast opportunities[^17].
-<br><br>
-<h3><i>Tropical Cyclones</i></h3>
+<br>
+<h2>Tropical Cyclones</h2>
 
 Tropical cyclone forecasting has been particularly difficult in the subseasonal range as our typical dynamical model approaches to forecasting don’t really work for subseasonal forecasts. However, statistical dynamical approaches to TC prediction look promising. This statistical-dynamical method uses dynamical forecasts of broader fields or “ingredients”, like a GFS forecast of vertical wind shear or convection, then statistically relates them to TC activity. With these methods, skill can be found weeks in advance. 
 <br><br>
 Recent studies have also shown that some predictability is coming from the mid-latitudes, a deviation from our typical tropical MJO-centric paradigm. Seasonal TC prediction in the Atlantic is tied to Rossby wave breaking events18, which is when the jet stream amplifies to the point where it folds in on itself. This can cause high shear and dry air intrusions in the Atlantic that inhibit TC activity. The MJO can influence Atlantic TC activity through extratropical pathways including Rossby wave breaking19,20. This differs from previous literature that emphasized the MJO circulation itself was what primarily influenced shear and humidity that resulted in changes in TC activity.
-<br><br>
-<h3><i>Severe Weather</i></h3>
+<br>
+<h2>Severe Weather</h2>
 
 Hurricane season is over, so it’s time to head down the [yellow brick road](https://seasonedchaos.github.io/The-Yellow-Brick-Road-to-Predicting-Severe-Storms/). Severe weather impacts, e.g., tornadoes and hail, are considered “unpredictable” past a couple hours, but broad U.S. tornado/hail activity – represented by storm “ingredients” – might be predictable on the subseasonal timescale[^21][^22]. 
 <br><br>
 One of the strongest S2S signals is from ENSO (#king): La Niña is linked to enhanced severe weather activity[^23][^24], though La Niña is also linked to lower predictability (forecast skill) of severe weather events[^25]. An active MJO makes it easier to accurately predict tornadoes and hail[^26], and persistent PNA events often precede impactful severe weather events[^27].
-<br><br>
-
-<h3><i>Atmospheric Rivers</i></h3>
+<br>
+<h2>Atmospheric Rivers</h2>
 
 After visiting Oz, let’s take a [whitewater rafting trip](https://seasonedchaos.github.io/Whitewater-Rafting-Down-an-Atmospheric-River/) down an atmospheric river. Windows of opportunity for S2S prediction of atmospheric rivers along the western U.S. have been identified based on the state of ENSO, the PNA pattern, and the [Arctic Oscillation](https://seasonedchaos.github.io/Things-are-getting-heated-the-science-behind-the-polar-vortex-and-stratospheric-warmings/)[^28]. 
 <br><br>
 Different flavors of ENSO and MJO phases can result in higher atmospheric river predictability[^29]. Ever important is the MJO, which is linked to western U.S. atmospheric river S2S predictability[^30]. 
 <br><br>
 Stratospheric variability (like the Quasi-Biennial Oscillation (QBO) – <i>not sure what this is? Coming to a SC post near you!</i> :wink:) has also been shown recently to create windows of opportunity for S2S atmospheric river prediction, particularly during certain coinciding phases of both the MJO and QBO[^31][^32].
-
-<h3><i>Sea Levels / Coastal Flooding</i></h3>
+<br>
+<h2>Sea Levels / Coastal Flooding</h2>
 
 Next let’s [invest](https://seasonedchaos.github.io/Flooding-the-Market/) some time on the coasts. Certain coinciding MJO and ENSO phases can lead to enhanced S2S forecast skill for U.S. coastal sea levels[^33]. However, in the current generation of climate models, there is low seasonal forecasting skill for monthly sea level anomalies on the East Coast of the U.S. (an area of hot spots of sea level rise in recent years). This is in contrast to skillful S2S forecasts for the West Coast/Pacific[^34]; sea surface heights along the U.S. West Coast are more predictable when extreme coastally trapped wave conditions are present[^35].
-<br><br>
+<br>
 
-<h3><i>Emerging Tool: AI</i></h3>
+<h2>Emerging Tool: AI</h2>
 
 Artificial intelligence (AI) has become a global buzzword since *Seasoned Chaos* first began, so it comes as no surprise that AI is being used to better our understanding and forecasting of S2S impacts. AI has been used for pinpointing teleconnections and improving extreme weather prediction. 
 <br><br>
 Worried about the “black box” or potential unknowns of AI? Explainable and interpretable AI can help to [identify sources of S2S predictability](https://seasonedchaos.github.io/Demystifying-Machine-Learning-in-Climate-Science/)[^36]-[^39]. We are currently in the dawn of purely AI-driven models for weather-to-climate forecasting, making this an exciting time for S2S forecasting developments. Some of the hottest models making weather predictions at the fraction of the speed of our traditional weather forecasting models (as of the time this article came out) such as GraphCast[^40], foundation models such as Aurora[^41], and hybrid dynamical-AI models such as NeuralGCM[^42]. 
 <br><br>
 
-<h3><i>5 Years Later...</i></h3>
+<h2>5 Years Later...</h2>
 
 All in all, a lot of research and progress has happened over the last several years, leading to better understanding of windows of opportunity in S2S prediction. Still, there are a lot of unknowns (great, we get to keep our jobs and continue this blog!)... Are there other sources for windows of opportunity that we haven’t found yet? Is there a limit to what we can predict on S2S timescales? Plus, we did not include topics we haven’t discussed in SC that warrant their own dedicated post and investigation (e.g. the role of soil moisture in S2S prediction). 
 <br><br>
