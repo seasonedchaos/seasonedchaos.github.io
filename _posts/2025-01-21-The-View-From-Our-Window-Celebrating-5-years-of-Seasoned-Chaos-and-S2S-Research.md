@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The View From Our Window&#58; Celebrating 5 years of Seasoned Chaos and S2S Research
-description: 
+description: Can you believe it’s been five years since Seasoned Chaos started?! This journey began with our debut post in December 2019 on the challenges and necessities of forecasting on S2S (subseasonal-to-seasonal) timescales, or roughly 2 weeks to 3 months in advance.
 tags: [subseasonal, seasonal, hurricanes, ENSO, MJO, teleconnections, stratosphere, storms, NAO, PNA, predictability, flooding, monsoons]
 comments: true
 category: blog
