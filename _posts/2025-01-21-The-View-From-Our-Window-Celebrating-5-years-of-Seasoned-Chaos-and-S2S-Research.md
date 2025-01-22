@@ -94,7 +94,7 @@ Comment below what your favorite SC post(s) have been so far. From all of us at 
 
 
 <br><br>
-<div style="text-align: right"> <i>Written by: <a href="https://seasonedchaos.github.io/people/marybeth-arcodia/">Marybeth Arcodia</a>, <a href="https://seasonedchaos.github.io/people/kelsey-malloy/">Kelsey Malloy</a>, <a href="https://seasonedchaos.github.io/people/victoria-schoenwald/">Victoria Schoenwald</a>, <a href="https://seasonedchaos.github.io/people/kurt-hansen/">Kurt Hansen</a></div>
+<div style="text-align: right"> <i>Written by: <a href="https://seasonedchaos.github.io/people/marybeth-arcodia/">Marybeth Arcodia</a>, <a href="https://seasonedchaos.github.io/people/kelsey-malloy/">Kelsey Malloy</a>, <a href="https://seasonedchaos.github.io/people/victoria-schoenwald/">Victoria Schoenwald</a>, <a href="https://seasonedchaos.github.io/people/kurt-hansen/">Kurt Hansen</a></i></div>
 <div style="text-align: right"> <i>Graphics credit to: <a href="https://seasonedchaos.github.io/people/kayla-besong/">Kayla Besong</a> (thumbnail, window graphic), Lang et al. 2020 [43] (S2S Prediction)</i></div>
 <br><br>
 Footnotes:
