@@ -69,7 +69,7 @@ After visiting Oz, let’s take a [whitewater rafting trip](https://seasonedchao
 <br><br>
 Different flavors of ENSO and MJO phases can result in higher atmospheric river predictability<sup>29</sup>. Ever important is the MJO, which is linked to western U.S. atmospheric river S2S predictability<sup>30</sup>. 
 <br><br>
-Stratospheric variability (like the Quasi-Biennial Oscillation (QBO) – <i>not sure what this is? Coming to a SC post near you!</i> :wink:) has also been shown recently to create windows of opportunity for S2S atmospheric river prediction, particularly during certain coinciding phases of both the MJO and QBO<sup>31,32</sup>.
+Stratospheric variability (like the Quasi-Biennial Oscillation, or QBO – <i>not sure what this is? Coming to a SC post near you!</i> :wink:) has also been shown recently to create windows of opportunity for S2S atmospheric river prediction, particularly during certain coinciding phases of both the MJO and QBO<sup>31,32</sup>.
 <br>
 <h2>Sea Levels / Coastal Flooding</h2>
 
