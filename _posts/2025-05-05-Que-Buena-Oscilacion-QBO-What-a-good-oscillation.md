@@ -5,7 +5,7 @@ description: Seasoned Chaos has introduced you to several phenomena carrying the
 tags: [QBO, seasonal, stratosphere, MJO, tropics]
 comments: true
 category: blog
-Date: 2025-05-06
+Date: 2025-05-05
 img: SC_QBOteleconnections_all.png
 authors: Jorge Garcìa Franco
 ---
