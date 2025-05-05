@@ -38,7 +38,7 @@ The QBO may seem far removed from our day-to-day weather, sitting so far above, 
 <br><br>
 <br><br>
 <img src="/assets/img/SC_QBOteleconnections.gif" width="90%">
-<br><sub><i>Animation highlight each of the routes of QBO teleconnections - polar, subtropical and tropical express - which make up the QBO teleconnection transit system. Adapted from [Gray et al., 2018](https://acp.copernicus.org/articles/18/8227/2018/).</i></sub>
+<br><sub><i>Animation highlighting each of the routes of QBO teleconnections - polar, subtropical and tropical express - which make up the QBO teleconnection transit system. Adapted from [Gray et al., 2018](https://acp.copernicus.org/articles/18/8227/2018/).</i></sub>
 <br><br>
 The first track is the <b>polar route</b>, where the QBO influences the strength and stability of the polar vortex. This happens through the way atmospheric waves, such as Rossby waves, propagate upward from the troposphere. During <b>Easterly phases</b>, the wind structure in the stratosphere makes it easier for these waves to reach the vortex and disrupt it, sometimes even triggering a <b>sudden stratospheric warming</b>. These events can cascade downward, affecting surface weather by shifting jet streams and increasing the chance of [cold air outbreaks](https://seasonedchaos.github.io/The-Enchanting-Tale-of-Cold-Air-Outbreaks/) in mid-latitudes.
 <br><br>
