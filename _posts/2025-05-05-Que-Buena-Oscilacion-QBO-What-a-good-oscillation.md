@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qu&egrave; Buena Oscilaci&ograve;n (QBO)! What a good oscillation!
+title: Qu&eacute; Buena Oscilaci&oacute;n (QBO)! What a good oscillation!
 description: Seasoned Chaos has introduced you to several phenomena carrying the name of “oscillations” such as the North Atlantic Oscillation (NAO), the El Niño-Southern Oscillation (ENSO) or the Madden-Julian Oscillation (MJO), but perhaps you didn’t know that these so-called oscillations have irregular behaviors.
 tags: [QBO, seasonal, stratosphere, MJO, tropics]
 comments: true
@@ -10,7 +10,7 @@ img: SC_QBOteleconnections_thumbnail.png
 authors: Jorge Garcìa Franco
 ---
 
-<div style="text-align: center"> Jorge Garcìa Franco</div>
+<div style="text-align: center"> Jorge García Franco</div>
 <br>
 <i>Bio: Jorge is an Assistant Professor at the National Autonomous University of Mexico in Mexico City. He works on understanding tropical rainfall variability and its prediction on multiple timescales. When he is not working, you can find him eating tacos de tripa, tacos de suadero or tacos of unknown origin.</i>
 <br><br>
@@ -53,8 +53,8 @@ The QBO’s influence is so significant that it’s become one of the main reaso
 The QBO is often underrated as an important oscillation in our climate system, yet it truly deserves its place among the greats. As you’ve read through Seasoned Chaos, you’ve likely picked a favorite oscillation—but maybe it’s time to reconsider and embrace a real contender. 
 <br><br>
 
-<div style="text-align: right"> <i>Written by: Jorge Garcìa Franco</i></div>
-<div style="text-align: right"> <i>Graphics credit to: Jorge Garcìa Franco (QBO timeseries graphic) and <a href="https://seasonedchaos.github.io/people/kelsey-malloy/">Kelsey Malloy</a> (thumbnail, QBO teleconnection animation)</i></div>
+<div style="text-align: right"> <i>Written by: Jorge García Franco</i></div>
+<div style="text-align: right"> <i>Graphics credit to: Jorge García Franco (QBO timeseries graphic) and <a href="https://seasonedchaos.github.io/people/kelsey-malloy/">Kelsey Malloy</a> (thumbnail, QBO teleconnection animation)</i></div>
 <br><br>
 If you want to learn more about the QBO, check out [Jorge's paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD038474) on understanding QBO's influence on the tropics!
 
