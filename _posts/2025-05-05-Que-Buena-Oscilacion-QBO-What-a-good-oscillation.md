@@ -30,7 +30,7 @@ In the figure below, winds blowing toward the west are negative and shown in blu
 <br><br>
 So what makes the QBO stand out from the rest of the so-called “oscillations”? To truly earn the name <i>oscillation</i>, a phenomenon should be regular, periodic, and alternate between phases, ideally a negative phase followed by a positive one, like a wave. ENSO doesn’t quite fit the bill. It can get stuck in one phase for years, like three La Niñas in a row and several years without getting an El Niño. The MJO? Sometimes it just disappears for weeks. Hard to call it an oscillation when it ghosts you mid-cycle.
 <br><br>
-The QBO, however, plays by the rules. The figure above shows just how steady the rhythm is between Easterly and Westerly phases. It’s a back-and-forth you can count on and generally well behaved. A real oscillation.
+The QBO, however, plays by the rules. The figure above shows just how steady the rhythm is between Easterly and Westerly phases. It’s a back-and-forth you can count on and generally well behaved. A <i>real oscillation</i>.
 <br><br>
 <h2>What a nice oscillation you have there, but does it know any tricks?</h2>
 
