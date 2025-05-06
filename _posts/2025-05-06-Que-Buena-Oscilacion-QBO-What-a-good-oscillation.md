@@ -5,7 +5,7 @@ description: Seasoned Chaos has introduced you to several phenomena carrying the
 tags: [QBO, seasonal, stratosphere, MJO, tropics]
 comments: true
 category: blog
-Date: 2025-05-05
+Date: 2025-05-06
 img: SC_QBOteleconnections_thumbnail.png
 authors: Jorge Garcìa Franco
 ---
@@ -21,7 +21,7 @@ authors: Jorge Garcìa Franco
 
 In the 1950s, scientists began launching instruments attached to balloons (radiosondes) high into the atmosphere, beyond the troposphere—the layer where our weather occurs. These instruments reached the stratosphere, a distinct atmospheric layer roughly 10 to 50 kilometers above Earth's surface. Scientists noticed two peculiar things about the measurements of the winds blowing at these heights in the tropics. First, the wind direction seemed to remain constant for months on end near the equator. Even more surprising was the second observation: after a bit more than a year, the wind direction would suddenly reverse, blowing in precisely the opposite direction. These unexpected findings revealed a hidden phenomenon unfolding quietly above our heads.
 <br><br>
-Since the discovery of the wind shifts, regular observations have shown that this wind reversal occurs pretty consistently, flipping every 24 to 28 months—or roughly every two years—which is why it’s called the "Quasi-biennial" Oscillation (QBO). The figure below shows how the wind blows on average in the tropics, changing direction and strength depending on height and time. You can see that once the winds are relatively well behaved since they blow in the same direction for months and months. 
+Since the discovery of the wind shifts, regular observations have shown that this wind reversal occurs pretty consistently, flipping every 24 to 28 months—or roughly every two years—which is why it’s called the "Quasi-biennial" Oscillation (QBO). The figure below shows how the wind blows on average in the tropics, changing direction and strength depending on height and time. You can see that the winds are relatively well behaved since they blow in the same direction for months and months. 
 <br><br>
 In the figure below, winds blowing toward the west are negative and shown in blue. When the predominant flow in the stratosphere is in this direction, we call it an Easterly phase, marked by an 'E' on the plot. Similarly, winds blowing toward the east are positive and shown in red; this period is called a Westerly phase (marked by a 'W'). Something interesting happens in certain years, like the year 2000, when winds in the lower stratosphere (around 100–50 hPa) blow strongly in one direction, while higher up (around 40–3 hPa) they're blowing exactly in the opposite direction.
 <br><br>
