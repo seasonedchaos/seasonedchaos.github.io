@@ -56,6 +56,7 @@ The QBO is often underrated as an important oscillation in our climate system, y
 <div style="text-align: right"> <i>Written by: Jorge Garcìa Franco</i><br>
 <div style="text-align: right"> <i>Graphics credit to: Jorge Garcìa Franco (QBO timeseries graphic) and <a href="https://seasonedchaos.github.io/people/kelsey-malloy/">Kelsey Malloy</a> (thumbnail, QBO teleconnection animation)</i>
 <br><br>
+<h2></h2>
 <i>If you want to learn more about the QBO, check out [Jorge's paper(https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD038474) on understanding QBO's influence on the tropics!</i>
 
 
