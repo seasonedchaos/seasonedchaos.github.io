@@ -12,7 +12,7 @@ authors: Jorge Garcìa Franco
 
 <div style="text-align: center"> Jorge Garcìa Franco</div>
 <br>
-<i>Bio: Jorge Garcìa Franco is an Assistant Professor at Universidad Nacional Autonoma de Mexico Escuela Nacional de Ciencias de la Tierra (National Autonomous University of Mexico National School of Earth Science) with a research focus on tropical climate dynamics.</i>
+<i>Bio: Jorge is an Assistant Professor at the National Autonomous University of Mexico in Mexico City. He works on understanding tropical rainfall variability and its prediction on multiple timescales. When he is not working, you can find him eating tacos de tripa, tacos de suadero or tacos of unknown origin.</i>
 <br><br>
 
 <i>Seasoned Chaos</i> has introduced you to several phenomena carrying the name of “oscillations” such as the North Atlantic Oscillation ([NAO](https://seasonedchaos.github.io/Seasoned-Chaos-presents-the-North-Atlantic-Oscillation/)), the El Niño-Southern Oscillation ([ENSO](https://seasonedchaos.github.io/Round-1-ENSO-is-King/)) or the Madden-Julian Oscillation ([MJO](https://seasonedchaos.github.io/What-Can-the-Tropics-Tell-Us-About-Next-Weeks-Weather/)), but perhaps you didn’t know that these so-called oscillations have irregular behaviors.  Proper oscillations should be regular and well-behaved. There is one, however, that lives high above, worthy of the oscillation name: the stratospheric quasi-biennial oscillation (the QBO). 
@@ -55,6 +55,8 @@ The QBO is often underrated as an important oscillation in our climate system, y
 
 <div style="text-align: right"> <i>Written by: Jorge Garcìa Franco</i><br>
 <div style="text-align: right"> <i>Graphics credit to: Jorge Garcìa Franco (QBO timeseries graphic) and <a href="https://seasonedchaos.github.io/people/kelsey-malloy/">Kelsey Malloy</a> (thumbnail, QBO teleconnection animation)</i>
+<br><br>
+<i>If you want to learn more about the QBO, check out [Jorge's paper(https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD038474) on understanding QBO's influence on the tropics!</i>
 
 
 
