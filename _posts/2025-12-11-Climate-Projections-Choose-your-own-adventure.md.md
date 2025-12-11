@@ -7,9 +7,7 @@ comments: true
 category: blog
 Date: 2025-12-11
 img: SC_climproj_slides_thumbnail.png
-authors:
-- Marybeth Arcodia
-- Senne Van Loon
+authors: Marybeth Arcodia and Senne Van Loon
 ---
 
 <br>
