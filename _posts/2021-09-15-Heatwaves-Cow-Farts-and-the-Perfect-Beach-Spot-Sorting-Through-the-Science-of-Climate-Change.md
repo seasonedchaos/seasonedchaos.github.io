@@ -2,7 +2,7 @@
 layout: post
 title: Heatwaves, Cow Farts, and the Perfect Beach Spot&#58 Sorting Through the Science of Climate Change
 description: ICYMI the climate is changing. Between the unprecedented fires, floods, and heatwaves along with the recent release of the 6th Assessment Report...
-tags: [climate, weather, blocking]
+tags: [climate, climate change, weather, blocking]
 comments: true
 category: blog
 Date: 09/15/2021
