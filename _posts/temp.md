@@ -61,12 +61,13 @@ Understanding impacts to our environment and society in these different scenario
 The actions we choose today truly decide our slide of fate. Which of the 3 slides in the graphic will we take? The pleasant slide ending in environmental sustainability and justice? The yellow twisty slide ending in consumerism and pollution? The purple slide that falls somewhere in between? By knowing the extent of damaging impacts from increased greenhouse gas emissions, it encourages and necessitates mitigating these emissions – <i>reducing greenhouse gases immediately</i>. It also helps us adapt and prepare for future scenarios, including new temperature and precipitation normals or sea level rise. Will we invest in resilient infrastructure that can withstand more intense climate hazards? Will we slash global greenhouse gas emissions to reduce those hazards? What will our world become in 2050, 2070, 2100? The answer is up to us.
 <br><br>
 
-<div style="text-align: right"> <i>Written by: Marybeth Arcodia and Senne Van Loon</i></div>
-<div style="text-align: right"> <i>Graphics credit to: Kayla Besong (slides graphic, thumbnail), Climate Data Canada (SSPs description graphic), UCAR (temperature projections)</i></div>
+<div style="text-align: right"> <i>Written by: <a href="https://seasonedchaos.github.io/people/marybeth-arcodia/">Marybeth Arcodia</a> and Senne Van Loon</i></div>
+<div style="text-align: right"> <i>Graphics credit to: <a href="https://seasonedchaos.github.io/people/kayla-besong/">Kayla Besong</a> (slides graphic, thumbnail), Climate Data Canada (SSPs description graphic), UCAR (temperature projections)</i></div>
 <br><br>
 Footnotes:
 <br>
 1. Let’s bring this back to our favorite butterfly- our Lorenz butterfly for understanding chaos. Weather and climate forecasting focuses on predicting where on the butterfly’s wings we will be at some time in the future. Climate projections on the other hand estimate, or show potential outcomes, of how the butterfly’s wings themselves will reshape in the future. In more technical terms, the distinction between them is an initial condition vs. boundary condition problem. I spy another Seasoned Chaos post to slide more into this in the future!
+<br>
 2. The Special Report on 1.5 °C highlighted the major environmental and societal risks associated with crossing both the 1.5 °C and 2°C thresholds, including impacts on biodiversity, water and food availability, and security risks. The impacts are assessed independent of the specific warming scenario, not on when the temperature threshold is crossed. It replaces the dimension of time with the dimension of temperature.
 
 
