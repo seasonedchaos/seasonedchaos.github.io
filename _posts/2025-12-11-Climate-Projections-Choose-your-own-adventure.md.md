@@ -7,16 +7,15 @@ comments: true
 category: blog
 Date: 2025-12-11
 img: SC_climproj_slides_thumbnail.png
-authors: Marybeth Arcodia and Senne Van Loon
+authors: 
+- Marybeth Arcodia
 ---
-
+<div style="text-align: center">and Senne Van Loon</div>
 <br>
 <i>Bio: [Senne Van Loon](https://snnvl.github.io/) got his PhD in physics at the University of Antwerp in 2020. Currently, he is a climate scientist at Colorado State University investigating the flows of energy through the Earth system.</i>
 <br><br>
 
 The future is uncertain. This is a simple and timeless fact. Yet, for some reason, we humans continue trying to predict the future. Here at Seasoned Chaos, we often discuss weather and climate predictions – be that [forecasting tornado activity the following week](https://seasonedchaos.github.io/The-Yellow-Brick-Road-to-Predicting-Severe-Storms/) or [creating the seasonal outlook for U.S. temperature](https://seasonedchaos.github.io/Feast-Your-Eyes-On-The-North-American-Multi-Model-Ensemble/). Scientists around the world are working on advanced warning of weather risks, as earlier, more accurate forecasts allow people to allocate resources, plan evacuations, and save infrastructure and lives. These are challenging feats as [chaos in the atmosphere](https://seasonedchaos.github.io/The-More-We-Learn-the-Less-We-Know-An-Introduction-to-Chaos/), errors in forecast models, and [complexities in the Earth system](https://seasonedchaos.github.io/What-Can-the-Tropics-Tell-Us-About-Next-Weeks-Weather/) all pose challenges for getting that perfect weather forecast on your phone. But beyond the weekly, seasonal, and even interannual timescales, can we predict 10, 20, or even 100 years into the future? 
- 
-<br><br>
 <h2>Why run climate projections?</h2>
 
 You may be thinking, if we struggle with predicting next season’s weather, why even venture into predicting future climates? It turns out it’s quite difficult to <i>predict</i> decades into the future. Fret not! This is where <u>climate <i>projections</i></u> come in. A climate projection is a model simulation that considers evolving greenhouse gas emissions in addition to the physical evolution of the Earth system. Widespread evidence[<sup>*</sup>](https://www.ipcc.ch/report/ar6/wg1/resources/climate-change-in-data/)<sup>,</sup>[<sup>*</sup>](https://science.nasa.gov/climate-change/causes/) points to the link between greenhouse gas emissions and rising temperatures around the globe. Given this information, questions emerge such as <i>how exactly will the climate system evolve? How do we know what actions to take to prepare for a changing climate?</i>
