@@ -14,10 +14,10 @@ authors:
 
 What exactly constitutes a weather event? You may have heard of a front coming from the west that will bring severe weather or huge amounts of snow in the next few days. But the weather events that we see for a few days, or even a few weeks, can actually be explained by patterns around the globe. 
 <br><br>
-The weather we see on a given day is determined by a number of factors, all piecing together in a weather pattern pie. Some of these factors include local circulations, [blocking patterns](https://seasonedchaos.github.io/Traffic-Jams-and-Club-Sandwiches-in-the-Atmosphere-An-Overview-of-Blocking/), and longer term trends. These vary on all timescales from subseasonal to seasonal (S2S), interannual (year-to-year), decadal, and more. Click around to sample different pieces of our weather pattern pie!
+The weather we see on a given day is determined by a number of factors, all piecing together in a weather pattern pie. Some of these factors include local circulations, [blocking patterns](https://seasonedchaos.github.io/Traffic-Jams-and-Club-Sandwiches-in-the-Atmosphere-An-Overview-of-Blocking/), and longer term trends. These vary on all timescales from subseasonal to seasonal (S2S), interannual (year-to-year), decadal, and more. Look around to sample different pieces of our weather pattern pie!
 <br><br>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~kelseymalloy/1.embed" height="525" width="100%"></iframe>
-<br><sub><i>Slices represent phenomena that contribute to weather and climate patterns. Please note that slices do not represent actual fractions of variability nor is this an exhaustive list of phenomena.</i></sub>
+![Hot Tub MJO Animation]({{ site.url }}/assets/img/weather_pattern_pie_static.png)
+<br><sub><i>This hot tub is an analogy for the MJO circulation and teleconnections. The arrows represent atmospheric waves that can travel thousands of miles from their origin (here, the origin is the jet of the hot tub), carrying signals that can affect distant weather patterns.</i></sub>
 <br><br>
 
 <h2>Why The Tropics Matter</h2>
