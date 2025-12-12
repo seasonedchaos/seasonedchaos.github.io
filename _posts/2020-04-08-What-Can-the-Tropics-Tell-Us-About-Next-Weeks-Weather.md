@@ -16,7 +16,7 @@ What exactly constitutes a weather event? You may have heard of a front coming f
 <br><br>
 The weather we see on a given day is determined by a number of factors, all piecing together in a weather pattern pie. Some of these factors include local circulations, [blocking patterns](https://seasonedchaos.github.io/Traffic-Jams-and-Club-Sandwiches-in-the-Atmosphere-An-Overview-of-Blocking/), and longer term trends. These vary on all timescales from subseasonal to seasonal (S2S), interannual (year-to-year), decadal, and more. Look around to sample different pieces of our weather pattern pie!
 <br><br>
-<iframe src="{{ '/assets/img/weather_pattern_pie.html' | relative_url }}" width="100%"></iframe>
+<iframe src="{{ '/assets/img/weather_pattern_pie.html' | relative_url }}" width="100%" height=600></iframe>
 <!-- ![Hot Tub MJO Animation]({{ site.url }}/assets/img/weather_pattern_pie_static.png) -->
 <br><sub><i>This hot tub is an analogy for the MJO circulation and teleconnections. The arrows represent atmospheric waves that can travel thousands of miles from their origin (here, the origin is the jet of the hot tub), carrying signals that can affect distant weather patterns.</i></sub>
 <br><br>
